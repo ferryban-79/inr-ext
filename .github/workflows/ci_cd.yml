@@ -1,0 +1,50 @@
+name: Universal Extractor & Mega Upload
+
+on:
+  workflow_dispatch:
+  # Agar aap chahte hain ke update_links.py ke chalte hi ye auto-run ho jaye, 
+  # tou neeche wali lines uncomment kar dein:
+  # push:
+  #   paths:
+  #     - 'datasets/**'
+
+jobs:
+  extract-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Python Dependencies
+        run: pip install requests
+
+      - name: Run Instagram Extractor
+        run: python tor-colab-data-caption-follower-extract.py
+
+      - name: Install Rclone
+        run: |
+          sudo -v
+          curl https://rclone.org/install.sh | sudo bash
+
+      - name: Decrypt Rclone Config
+        # Repo mein mojud rclone.conf.enc ko decrypt karke ~/.config/rclone/rclone.conf mein save kar raha hai
+        env:
+          RCLONE_PASS: ${{ secrets.RCLONE_CONFIG_PASSWORD }}
+        run: |
+          mkdir -p ~/.config/rclone
+          openssl enc -d -aes-256-cbc -pbkdf2 -iter 600000 -in rclone.conf.enc -out ~/.config/rclone/rclone.conf -pass pass:$RCLONE_PASS
+
+      - name: Upload Output to Mega
+        run: |
+          for dir in Batch--*/; do
+            if [ -d "$dir" ]; then
+              echo "Uploading $dir to Mega..."
+              rclone copy "$dir" mega:Extracted_Data/"$dir" --stats 10s --transfers 4
+            fi
+          done
