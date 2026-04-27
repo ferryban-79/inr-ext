@@ -12,19 +12,20 @@ from datetime import datetime
 #  SECTION 1 ── DYNAMIC PATH & BATCH CONFIG
 # ════════════════════════════════════════════════════════════════════
 BASE_DIR   = '.'
-INPUT_FOLDER = os.path.join(BASE_DIR, 'datasets')
+# ── Matrix worker se env var aata hai — warna default ──
+INPUT_FOLDER = os.environ.get("INPUT_FOLDER",  os.path.join(BASE_DIR, 'datasets'))
 
 # Script ki apni location (loose JSON files dhoondne ke liye)
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Real-time Batch Folder — har run par naya folder banega
+# Real-time Batch Folder — worker.py se env var aata hai, warna naya banao
 now = datetime.now()
 folder_timestamp  = now.strftime("%Y-%m-%d-%A_%I-%M-%S-%p")
 BATCH_FOLDER_NAME = f"Batch--{folder_timestamp}"
-OUTPUT_FOLDER     = os.path.join(BASE_DIR, BATCH_FOLDER_NAME)
+OUTPUT_FOLDER     = os.environ.get("OUTPUT_FOLDER", os.path.join(BASE_DIR, BATCH_FOLDER_NAME))
 
 # --- Limits & Behaviour ---
-MAX_WORKERS    = 12
+MAX_WORKERS    = int(os.environ.get("MAX_WORKERS", "30"))  # matrix: 30 per node
 DOWNLOAD_MEDIA = True
 ITEM_LIMIT     = 5000000000
 MAX_PFP_PER_RUN = 99999999
