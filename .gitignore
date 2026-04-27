@@ -6,3 +6,4 @@ rclone.conf
 .DS_Store
 update_links.py
 encrypt_rclone.py
+Inputs/

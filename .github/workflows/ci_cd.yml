@@ -16,29 +16,26 @@ on:
       - 'Inputs/**'
 
 # ─────────────────────────────────────────────────────────────────────
-# STEP 1 — Pehle sirf file list banao (ek baar, coordinator job)
+# SETUP JOB — sirf matrix + outputs banata hai (koi extraction nahi)
+# Ek hi runner lagta hai — baaki 20 seedha start hote hain
 # ─────────────────────────────────────────────────────────────────────
 jobs:
 
   setup:
-    name: "📋 File List Banao"
+    name: "📋 Matrix Setup"
     runs-on: ubuntu-latest
     outputs:
-      matrix: ${{ steps.build.outputs.matrix }}
+      matrix:         ${{ steps.build.outputs.matrix }}
       total_machines: ${{ steps.build.outputs.total_machines }}
-      zip_enabled: ${{ steps.build.outputs.zip_enabled }}
+      zip_enabled:    ${{ steps.build.outputs.zip_enabled }}
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Build Matrix
+      - name: "🔢 Build Matrix"
         id: build
         run: |
-          # Input se machines count lo — default 20
+          # workflow_dispatch se lo, push trigger pe default 20
           MACHINES="${{ github.event.inputs.total_machines }}"
           MACHINES="${MACHINES:-20}"
-          # Max 30 tak hi allow karo
           if [ "$MACHINES" -gt 30 ]; then MACHINES=30; fi
 
           ZIP="${{ github.event.inputs.zip_enabled }}"
@@ -47,59 +44,52 @@ jobs:
           echo "total_machines=$MACHINES" >> $GITHUB_OUTPUT
           echo "zip_enabled=$ZIP"         >> $GITHUB_OUTPUT
 
-          # Machine indices: [0, 1, 2, ... N-1]
-          INDICES=$(python3 -c "
-          import json
-          n = int('$MACHINES')
-          print(json.dumps(list(range(n))))
-          ")
+          # [0, 1, 2 ... N-1] array
+          INDICES=$(python3 -c "import json; n=int('$MACHINES'); print(json.dumps(list(range(n))))")
           echo "matrix={\"machine_index\":$INDICES}" >> $GITHUB_OUTPUT
 
           echo "✅ Machines: $MACHINES | ZIP: $ZIP"
           echo "📋 Matrix: $INDICES"
 
 # ─────────────────────────────────────────────────────────────────────
-# STEP 2 — Matrix: N machines parallel chalao
+# WORKERS — 20 machines ek saath start hoti hain (no extra queue wait)
+# Setup job sirf 30-40 sec leta hai — phir sab parallel chalte hain
 # ─────────────────────────────────────────────────────────────────────
   extract-and-upload:
-    name: "🤖 Node ${{ matrix.machine_index }} / Extract & Upload"
+    name: "🤖 Node ${{ matrix.machine_index }}"
     needs: setup
     runs-on: ubuntu-latest
+    timeout-minutes: 350
 
     strategy:
-      fail-fast: false          # ek machine fail ho to baaki chalta rahe
+      fail-fast: false
       matrix: ${{ fromJson(needs.setup.outputs.matrix) }}
 
     env:
-      MACHINE_INDEX:   ${{ matrix.machine_index }}
-      TOTAL_MACHINES:  ${{ needs.setup.outputs.total_machines }}
-      ZIP_ENABLED:     ${{ needs.setup.outputs.zip_enabled }}
-      ZIP_FILE_LIMIT:  1300        # agar extracted files > yeh → zip
-      UPLOAD_TRANSFERS: 2          # rclone transfers per machine (1-2)
-      RCLONE_PASS:     ${{ secrets.RCLONE_CONFIG_PASSWORD }}
+      MACHINE_INDEX:    ${{ matrix.machine_index }}
+      TOTAL_MACHINES:   ${{ needs.setup.outputs.total_machines }}
+      ZIP_ENABLED:      ${{ needs.setup.outputs.zip_enabled }}
+      ZIP_FILE_LIMIT:   1300
+      UPLOAD_TRANSFERS: 2
+      RCLONE_PASS:      ${{ secrets.RCLONE_CONFIG_PASSWORD }}
 
     steps:
 
-      # ── Checkout ──────────────────────────────────────────────────
-      - name: "📥 Checkout Repository"
+      - name: "📥 Checkout"
         uses: actions/checkout@v4
 
-      # ── Python Setup ──────────────────────────────────────────────
       - name: "🐍 Python Setup"
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          cache: 'pip'
 
       - name: "📦 Install Dependencies"
         run: pip install requests python-dotenv
 
-      # ── Rclone Install ────────────────────────────────────────────
       - name: "⚙️ Install Rclone"
-        run: |
-          sudo -v
-          curl https://rclone.org/install.sh | sudo bash
+        run: curl https://rclone.org/install.sh | sudo bash
 
-      # ── Rclone Decrypt ────────────────────────────────────────────
       - name: "🔐 Decrypt Rclone Config"
         run: |
           mkdir -p ~/.config/rclone
@@ -107,23 +97,10 @@ jobs:
             -in rclone.conf.enc \
             -out ~/.config/rclone/rclone.conf \
             -pass pass:$RCLONE_PASS
-          echo "✅ rclone config decrypted"
+          echo "✅ rclone config ready"
 
-      # ── Extraction ────────────────────────────────────────────────
-      - name: "🔍 Extract (Node ${{ matrix.machine_index }}/${{ needs.setup.outputs.total_machines }})"
-        run: |
-          echo "════════════════════════════════════════"
-          echo "  NODE $MACHINE_INDEX of $TOTAL_MACHINES"
-          echo "  Apni assigned files process karega"
-          echo "════════════════════════════════════════"
-          python worker.py --mode extract
+      - name: "🔍 Extract — Node ${{ matrix.machine_index }} / ${{ needs.setup.outputs.total_machines }}"
+        run: python worker.py --mode extract
 
-      # ── Upload ────────────────────────────────────────────────────
-      - name: "☁️ Upload to Mega (Node ${{ matrix.machine_index }})"
-        run: |
-          echo "════════════════════════════════════════"
-          echo "  NODE $MACHINE_INDEX — Mega Upload"
-          echo "  ZIP_ENABLED=$ZIP_ENABLED"
-          echo "  TRANSFERS=$UPLOAD_TRANSFERS"
-          echo "════════════════════════════════════════"
-          python worker.py --mode upload
+      - name: "☁️ Upload to Mega — Node ${{ matrix.machine_index }}"
+        run: python worker.py --mode upload
