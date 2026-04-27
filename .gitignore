@@ -1,0 +1,7 @@
+.env
+__pycache__/
+Batch--*
+rclone.conf
+*.log
+.DS_Store
+update_links.py

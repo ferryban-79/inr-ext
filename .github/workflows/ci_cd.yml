@@ -45,6 +45,6 @@ jobs:
           for dir in Batch--*/; do
             if [ -d "$dir" ]; then
               echo "Uploading $dir to Mega..."
-              rclone copy "$dir" mega:Extracted_Data/"$dir" --stats 10s --transfers 4
+              rclone copy "$dir" ext:Extracted_Data/"$dir" --stats 10s --transfers 4
             fi
           done
