@@ -1,7 +1,7 @@
 name: Universal Extractor & Mega Upload (Matrix)
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:    # ✅ Sirf manual "Run workflow" button se chalega
     inputs:
       total_machines:
         description: 'Kitni machines chahiye? (default: 20, max: 30)'
@@ -11,9 +11,6 @@ on:
         description: 'ZIP karo agar files > 1300? (true/false)'
         required: false
         default: 'true'
-  push:
-    paths:
-      - 'Inputs/**'
 
 # ─────────────────────────────────────────────────────────────────────
 # SETUP JOB — sirf matrix + outputs banata hai (koi extraction nahi)
