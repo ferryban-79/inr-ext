@@ -35,17 +35,13 @@ STATE_FILE      = os.path.join(OUTPUT_FOLDER, "resume_state.json")
 #  SECTION 2 ── AUTO-ORGANIZER  (Loose JSON → datasets folder)
 # ════════════════════════════════════════════════════════════════════
 def organize_input_files():
-    """
-    Script ke sath (SCRIPT_DIR) ya /data mein pari hui loose JSON files
-    ko utha kar INPUT_FOLDER (datasets) mein move karta hai.
-    """
     os.makedirs(INPUT_FOLDER, exist_ok=True)
-
-    # Dono jagah dhoondein: script ki directory + /data root
-    search_dirs = set([SCRIPT_DIR, '/data'])
+    # Search dirs mein 'Inputs' add kiya gaya hai
+    search_dirs = set([SCRIPT_DIR, '/data', os.path.join(BASE_DIR, 'Inputs')])
     loose_jsons = []
     for d in search_dirs:
-        loose_jsons += glob.glob(os.path.join(d, '*.json'))
+        if os.path.exists(d):
+            loose_jsons += glob.glob(os.path.join(d, '*.json'))
 
     SKIP_NAMES = {'resume_state.json', 'package.json', 'package-lock.json'}
     moved_count = 0
