@@ -221,12 +221,14 @@ def upload_single_batch(batch_folder: Path):
         "rclone", rclone_mode,
         local_path,
         remote_dest,
-        "--transfers",     str(UPLOAD_TRANSFERS),
-        "--stats",         "15s",          # har 15 sec progress
-        "--stats-one-line",                # compact log
-        "--retries",       "3",
+        "--transfers",         str(UPLOAD_TRANSFERS),
+        "--tpslimit",          "1",    # Transactions Per Second Limit
+        "--tpslimit-burst",    "1",    # Burst limit
+        "--stats",             "15s",
+        "--stats-one-line",
+        "--retries",           "3",
         "--low-level-retries", "5",
-        "--verbose",                       # har file ka naam dikhe
+        "--verbose",
     ]
 
     log(f"🔧 CMD: {' '.join(cmd)}")
