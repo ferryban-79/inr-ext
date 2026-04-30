@@ -1,0 +1,1227 @@
+{
+  "shortcode": "DWuLEz_mLcf",
+  "mediaId": "3868077839175169823",
+  "igCommentCount": 17,
+  "postRawData": {
+    "__typename": "XDTGraphSidecar",
+    "__isXDTGraphMediaInterface": "XDTGraphSidecar",
+    "id": "3868077839175169823",
+    "shortcode": "DWuLEz_mLcf",
+    "thumbnail_src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658953174_18099962612286914_8075064490292535215_n.jpg?stp=c0.179.1224.1224a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=3aGdJTQmmQcQ7kNvwFdELeR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1WgmslAum4bZOPbSaQrcHS1k-cQgn2z4t-agvF_qyJzA&oe=69F93355&_nc_sid=d885a2",
+    "dimensions": {
+      "height": 1395,
+      "width": 1080
+    },
+    "gating_info": null,
+    "fact_check_overall_rating": null,
+    "fact_check_information": null,
+    "sensitivity_friction_info": null,
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "media_overlay_info": null,
+    "media_preview": null,
+    "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658953174_18099962612286914_8075064490292535215_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=3aGdJTQmmQcQ7kNvwFdELeR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3QgjcPnuTPcJTHZ-UdWd6vdTy_l40L_EQHI5lmMXb_qw&oe=69F93355&_nc_sid=d885a2",
+    "display_resources": [
+      {
+        "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658953174_18099962612286914_8075064490292535215_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=3aGdJTQmmQcQ7kNvwFdELeR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0tCa8SuwO5iESZcLSh_yEG3tE1vUszqiG1vJG_NU8tQA&oe=69F93355&_nc_sid=d885a2",
+        "config_width": 640,
+        "config_height": 827
+      },
+      {
+        "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658953174_18099962612286914_8075064490292535215_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=3aGdJTQmmQcQ7kNvwFdELeR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af13GpblY2VQYT4Be3a-l2QB-6Tjo_WjSCane4a4Q9F4-A&oe=69F93355&_nc_sid=d885a2",
+        "config_width": 750,
+        "config_height": 969
+      },
+      {
+        "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658953174_18099962612286914_8075064490292535215_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=3aGdJTQmmQcQ7kNvwFdELeR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2IOU0s0Yxckgjt6trexy4KWHom5UaC_ZEBMNBTcLaKpg&oe=69F93355&_nc_sid=d885a2",
+        "config_width": 1080,
+        "config_height": 1395
+      }
+    ],
+    "is_video": false,
+    "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc3ODM5MTc1MTY5ODIzIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTE5MnwzODY4MDc3ODM5MTc1MTY5ODIzfDQwOTc5Nzg4NDg0fDA5YzM4M2YwMDgwZjZhZTUzYTM3NmM0NmE2ZDlhYmRkNmY3YzAxMmExMGNiNTk2ZTg3OTBhN2M3ZDA3YzE5YTcifSwic2lnbmF0dXJlIjoiIn0=",
+    "upcoming_event": null,
+    "edge_media_to_tagged_user": {
+      "edges": []
+    },
+    "owner": {
+      "id": "38447046913",
+      "username": "knowledgespaces",
+      "is_verified": false,
+      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/422011852_3554177778128165_7598132342318734547_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=8kxgGioxP48Q7kNvwFxPgyY&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2N4Btsh0qxu0vBYim3meE6_XONNYZwe7qjMLAV7p_ISw&oe=69F947E1&_nc_sid=d885a2",
+      "blocked_by_viewer": false,
+      "restricted_by_viewer": false,
+      "followed_by_viewer": false,
+      "full_name": "Knowledge Spaces",
+      "has_blocked_viewer": false,
+      "is_embeds_disabled": false,
+      "is_private": false,
+      "is_unpublished": false,
+      "requested_by_viewer": false,
+      "pass_tiering_recommendation": true,
+      "edge_owner_to_timeline_media": {
+        "count": 16
+      },
+      "edge_followed_by": {
+        "count": 5242
+      }
+    },
+    "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be a black-and-white image of poster and text that says 'Game Theory ByKnowledgeSpaces By Knowledge Spaces Oskar Morgennstern (Economist & & Jobın VOLI bhtrlemnawaa orL Neutann (Mathematician) 1'.",
+    "edge_sidecar_to_children": {
+      "edges": [
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076220575492370",
+            "shortcode": "DWuKtQjiakS",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6akLAdaWqwuEaQx8ZUA9evrx7UAThgehzTqiWRSSo/h61JQAGuZtlY3Ri3H5Gdv55/pXRyyLEpduFXk9652zuYhdvIWVVbfgnjOWXHX1ANAEdpO9xOqxE4BYvnuCe/rjjHpXToCAAetc3o+37TK+RznB47uen5V01ADZI1lUo4yp6iqX9l239wfmf8a0KKAKA0y2XogH5/41dRAgCrwB0p1FAH//2Q==",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658953174_18099962612286914_8075064490292535215_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=3aGdJTQmmQcQ7kNvwFdELeR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3QgjcPnuTPcJTHZ-UdWd6vdTy_l40L_EQHI5lmMXb_qw&oe=69F93355&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658953174_18099962612286914_8075064490292535215_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=3aGdJTQmmQcQ7kNvwFdELeR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0tCa8SuwO5iESZcLSh_yEG3tE1vUszqiG1vJG_NU8tQA&oe=69F93355&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658953174_18099962612286914_8075064490292535215_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=3aGdJTQmmQcQ7kNvwFdELeR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af13GpblY2VQYT4Be3a-l2QB-6Tjo_WjSCane4a4Q9F4-A&oe=69F93355&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658953174_18099962612286914_8075064490292535215_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=3aGdJTQmmQcQ7kNvwFdELeR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2IOU0s0Yxckgjt6trexy4KWHom5UaC_ZEBMNBTcLaKpg&oe=69F93355&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be a black-and-white image of poster and text that says 'Game Theory ByKnowledgeSpaces By Knowledge Spaces Oskar Morgennstern (Economist & & Jobın VOLI bhtrlemnawaa orL Neutann (Mathematician) 1'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjIwNTc1NDkyMzcwIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzN3wzODY4MDc2MjIwNTc1NDkyMzcwfDQwOTc5Nzg4NDg0fDZiYTZlZGI4ZjU4YTVmNGFmOTM1YmY4OGM0MjI1YTU3NzViY2U5MzUxMTlkZDM0ZTU3ZjE2ZDk2N2UzMTk2M2QifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076220920216143",
+            "shortcode": "DWuKtQ4FbpP",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6U8UgbNDDIpmw0ASZoqEL2yKmAwMUABOBUROf8mpTUGKAHDPpUo6c1DipV6UAKaTb9Pyp1FADdv0p1FFAH//2Q==",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/660641988_18099962621286914_6495890866514827970_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=DcaNsdIbFyoQ7kNvwE-U77u&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af08xG8Fj2683YLEoKJcUA8SadFTQPzGpKU1ShwRvh6TiA&oe=69F9473F&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/660641988_18099962621286914_6495890866514827970_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=DcaNsdIbFyoQ7kNvwE-U77u&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0l885y8m8CKBa9VbAsY_SaEiudm__ocpoewIt81cLNUA&oe=69F9473F&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/660641988_18099962621286914_6495890866514827970_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=DcaNsdIbFyoQ7kNvwE-U77u&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1CFgEuf94qhOjs-B4rbQnfhsTfie5xSZhji6YaftmP7g&oe=69F9473F&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/660641988_18099962621286914_6495890866514827970_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=DcaNsdIbFyoQ7kNvwE-U77u&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1-nV142dbk5SGsa7KB-CtU9b1Q3u0z-HTXWtKPX98YUA&oe=69F9473F&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of crossword puzzle, poster and text.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjIwOTIwMjE2MTQzIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzN3wzODY4MDc2MjIwOTIwMjE2MTQzfDQwOTc5Nzg4NDg0fDIxMzhmNzlhMjA4OWY0ZDQ5OTdiZTIxODdiOGUxNWUzNjEyYTk3YTFiOTc5ZTQzNTk2OGQ5YzQ0ZTQxNGEyZTkifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076222991823962",
+            "shortcode": "DWuKtSzj_Ra",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6U8U3eKVulQ0AS7hTgc1BUy9KABulQ4qc9KaBigCPaalXpS5paACkxS0UAJS0UUAf//Z",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658837961_18099962639286914_9220292475416366425_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=6GO_HxOjrUEQ7kNvwGpvYyS&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2npStMbVP3hq-H32bhUBJ-DNS3f95o_zt8yyJBhqi78Q&oe=69F946C9&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658837961_18099962639286914_9220292475416366425_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=6GO_HxOjrUEQ7kNvwGpvYyS&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0tlmompVEkCcrtuQKVIhFHF5aBlWnOtKBTrspEHLG2xg&oe=69F946C9&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658837961_18099962639286914_9220292475416366425_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=6GO_HxOjrUEQ7kNvwGpvYyS&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0Ufj4cyKE8OnvdXWxpAvaP57-JUavcAmrsDhxanIdZgA&oe=69F946C9&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658837961_18099962639286914_9220292475416366425_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=6GO_HxOjrUEQ7kNvwGpvYyS&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0VopbV9s_pdtuw7LS1D5jUhWnqpmjYWfhbrK0DJLe4lQ&oe=69F946C9&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an illustration of crossword puzzle and text.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjIyOTkxODIzOTYyIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzOHwzODY4MDc2MjIyOTkxODIzOTYyfDQwOTc5Nzg4NDg0fDU3NTVkYTExNTJkN2U1MzA2MWMzNmFhNjFhNWMxMWU0YmMwYzQyYjhmNDViMzlkOGQ3ZDA0MjhlOTk1MTc1NDYifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076224048591208",
+            "shortcode": "DWuKtTyjPFo",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6U8UgNKenpTM+9ADs0tMz708dKAA9Kj3H0qQ1FtoAcGPpTxUe2pB0oAKKWigBKWiigD/2Q==",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657681133_18099962627286914_6649842875913585980_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=NEhNWKQs7BgQ7kNvwEaId_J&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1MByZgkU-TI1da5pT6lMWsFmQbqGjUE_t_38hVYwCBKA&oe=69F93A9C&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657681133_18099962627286914_6649842875913585980_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=NEhNWKQs7BgQ7kNvwEaId_J&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1EG9_tCtY2_KFtzM30AkHGzzs9sEEeoeggcNmJ8os4OQ&oe=69F93A9C&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657681133_18099962627286914_6649842875913585980_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=NEhNWKQs7BgQ7kNvwEaId_J&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1op2bo4rSRwyPLRmVE2XUaOHO_QuU4Iq_o88nXkQjNEg&oe=69F93A9C&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657681133_18099962627286914_6649842875913585980_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=NEhNWKQs7BgQ7kNvwEaId_J&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3VcOYRv13WIQBLBiKasJ3JUdxlZ5cm3-Q-bRfaEjH0zw&oe=69F93A9C&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of ‎crossword puzzle and ‎text that says '‎JUEGOS ESTÁTICOR cada conjunto ίЛ DE. JUEGOS estrategias jugador Cada tiene S,ES, Definimos илa cuenta paAoB estrateglas perfil (1.3) ganenciaa jugador como jugadones otras donde )-8,,8,2 iEI (1.4) toman definir juego COTO: todas estrategias distintas del jugador decir jugadores (dado estamos juegos simultánecs decisiones otros Podemos estrategias G=(I;5:u) estralegia 1.2 Estrategias Estrictamente Dominadas (E.E.D) (1.5) decir menor estrategia cualquier estrictamente ้อหมลกศศ๔. otro independientemente dominada siempre deznás. bagan estrategia demás. para conjunta los jugadores desde hasta valor estrategias jugadores. pertenece Entonces, tenemos siguiente eBoAeTR formal AHA definir una Estrategia Estrieta- mente Dominada E.E.D): jugador conjunto S,ES Entonces: ا-هك ロ (1.7)‎'‎‎.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjI0MDQ4NTkxMjA4Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzOHwzODY4MDc2MjI0MDQ4NTkxMjA4fDQwOTc5Nzg4NDg0fDY0ZDFlNTg1MjI5ZmY1NDM2Nzg3ZmY3NWQ1MjlhNjA3ZTAzMTRhZjc0NDIyMjI4ZjYzMmE2MjVhNTI0MmE4MGUifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076228923004275",
+            "shortcode": "DWuKtYVFpVz",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6Wk3UppuSe1AC7qUc0gzSigAPFMJPb+Rp9Q/nQA8ZB5zT6ix9alHSgBaKKKACiiigD//2Q==",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/660010053_18099962651286914_766598726960811703_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=ob9mX4EwtF8Q7kNvwE0admB&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af09ShhkivLAoZ9QChd2Zq1Ow1UfsiXIOlPCjT5wmSAOJQ&oe=69F916A3&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/660010053_18099962651286914_766598726960811703_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=ob9mX4EwtF8Q7kNvwE0admB&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1x4DErUTaRBwF4r0g6llEz9U1eFnEwgwsjrBw8JV9FLA&oe=69F916A3&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/660010053_18099962651286914_766598726960811703_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=ob9mX4EwtF8Q7kNvwE0admB&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3vS1LLSOpWpVGgRO5b0naednuZ91pk2oaujknTNgntoA&oe=69F916A3&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/660010053_18099962651286914_766598726960811703_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=ob9mX4EwtF8Q7kNvwE0admB&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1NQYJ2BWbtXDdJ_sSwDBCBNbcnWZ2OaLjOKXooVXET2g&oe=69F916A3&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of ‎drumstick and ‎text that says '‎TEORiA JUEGOS Podemos ESTÁTICOS de todas de estrategias siguiente jugador ,EC asignan. )ة,3) あこちちこちゃーの contando función elementos 11.8) pagos para jugador demás Definicsón el Racionalida de estrategias, jugador racional si nиAeR elige Ejempio1 stra- Jugador Confesar Jug. Copera estrategia confesar para jugadores, Prisionero 1: estrategia estrietamente muy parecido planteado Dilema el jugador elige elige al jugador 3>2. ,Cooperar}, Estrategia conviene confesar jugador econviene jugador como jugador CnopcTBe Confesar, Dominada Jugador 2: porque mna el jugador -2. Identificamos Ka?: Confesar. elige confesar al jugador conviene confesar co6eraT. jugador conviene confesar jugador es илR Estrategia‎'‎‎.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjI4OTIzMDA0Mjc1Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzOHwzODY4MDc2MjI4OTIzMDA0Mjc1fDQwOTc5Nzg4NDg0fDkxNjM5NGI5MDBiMTVhOWM4OTkzYmMxZmRiNjZhYjNmOWMwMGFlYTcxMzdkYTAwNjRjZThiNjk4ZTRlMzQyMGMifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076227370600103",
+            "shortcode": "DWuKtW4jsan",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6U0c0E4GajLZ9qAJKKiBANSg5GaABulQjB/z/wDWqY9KiHvQAuB/nP8AhUg6U3P0pwoAKMClooATApaKKAP/2Q==",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/661610209_18099962657286914_1900937368966682499_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=z2Qw3b3YZr4Q7kNvwFlKlUL&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2J-Zq3TMndGjGKOKIebNJU3ocixprBFOQ8DZ_zy8Xvfw&oe=69F91B24&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/661610209_18099962657286914_1900937368966682499_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=z2Qw3b3YZr4Q7kNvwFlKlUL&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2RlftLYfl-tO8yhYv64i3pG2-H4NtEvVQSam-ffFo2pA&oe=69F91B24&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/661610209_18099962657286914_1900937368966682499_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=z2Qw3b3YZr4Q7kNvwFlKlUL&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1_EhiUSUpSBgX3wt2IOZuoiaFYuKjJ7OKlH5dFkPXT7Q&oe=69F91B24&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/661610209_18099962657286914_1900937368966682499_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=z2Qw3b3YZr4Q7kNvwFlKlUL&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af00GswN6CsxXFJEjQ-JY0HVcHmv5afBtVl5Jj40TRVS1A&oe=69F91B24&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of ‎crossword puzzle and ‎text that says '‎ESTÁTICOS Eiemple2 TEORiA DE. JUEGOS Jugador Confesar Jug. Confesar Cooperar Cooperar -21 narar, pago estrategia oooperaT para seguirá desde ljugador 2Cs sobre situación vista jugador mejor analizamos desde puntod jugador cuando jugador dado pago mayar jugador င confesar, de jugador Equilibrios Múltiples, dado cide pago el debe de Estrategias Estrietamente Eliminación Iterativa de Estrategias Estrictamente Domi- nadas (E.I.E.E.D) suponemos ue teS jugadores racionales, entonces hay E.E.D. E.I.E.E.D juegos E.E.D ila respruesta כשנוה las eliminamos. E.E.D Tenemnos reinicia repetir respuesta algoritmo. E.I.E.E.D hasta que LO: Supuesto Conocimiento Común: Cada vez Bиpauee racionalidad encuentren más estrategias domi- iteramos algoritmo. otro jugador.‎'‎‎.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjI3MzcwNjAwMTAzIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzOHwzODY4MDc2MjI3MzcwNjAwMTAzfDQwOTc5Nzg4NDg0fDI2ZGM3ZDY1MWI5NjZhYzNjMDQyOWNjMTc4OGY5MmFlYzlmYjhlOGEzZjZmZjJjOGUzNWZkM2FmMjkwMzhiMjkifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076229980018946",
+            "shortcode": "DWuKtZUF1kC",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6WjNBpmRQA7PpS0zIp4oAKj2VIai3UAOAFPFR7vapB0oAWiiigAooooA/9k=",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657599034_18099962666286914_9089727221165924925_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=KGHsImCK-mUQ7kNvwHWjQlT&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3O2puBy-moHlvV1gTy7PWir1wGcJtn6oaOfEHOpSjXtA&oe=69F935A3&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657599034_18099962666286914_9089727221165924925_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=KGHsImCK-mUQ7kNvwHWjQlT&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af254qMHzYqvtf1wuEoeEN7s2xBLDpdJcA1rju4cFzF-dw&oe=69F935A3&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657599034_18099962666286914_9089727221165924925_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=KGHsImCK-mUQ7kNvwHWjQlT&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2V4jQ4nBMW2licKp1cLWP1wfAfocUeMV8NYTB5KWwNTg&oe=69F935A3&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657599034_18099962666286914_9089727221165924925_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=KGHsImCK-mUQ7kNvwHWjQlT&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1hcaIQWBsRMhfFNCzt3WsfFuAQVzqb-017UD5EJC7Wxg&oe=69F935A3&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of blueprint, floor plan, poster, crossword puzzle, calendar and text.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjI5OTgwMDE4OTQ2Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzOHwzODY4MDc2MjI5OTgwMDE4OTQ2fDQwOTc5Nzg4NDg0fDIzZjY1MjZlYmZhMGI5YWMwMzM2ZWM5ZDA4NGIxMDNlYTQ2OGJkZjI3ZmIzY2RhMDg0NjY3ODYyMGIyMWNhY2IifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076231866923723",
+            "shortcode": "DWuKtbEjzrL",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6WjmlqMuKAHZz0paYGAp4OeaAFpmQOlOqLYaAHj3p1RBc1KBgUALSEUtFACAYpaKKAP/2Q==",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658891905_18099962684286914_1341570956279057_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=h1BN8j-d-BwQ7kNvwEJ_ccR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af26Kb9P2wVhtmy2Q82VvwCWnQyGHuFqgOlLAk1v3k40mQ&oe=69F931F2&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658891905_18099962684286914_1341570956279057_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=h1BN8j-d-BwQ7kNvwEJ_ccR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3O8AnEI8hRjJKXz6xeCFW8uISys66_rp7vfhLzuXLqug&oe=69F931F2&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658891905_18099962684286914_1341570956279057_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=h1BN8j-d-BwQ7kNvwEJ_ccR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af24FiNqbTa_pFAH39NTlbsbtm1TCcUwt-15Eba3CqrIFg&oe=69F931F2&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658891905_18099962684286914_1341570956279057_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=h1BN8j-d-BwQ7kNvwEJ_ccR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1DmgfrlnPwepDC8Z3RJs-2x7kccVJvm-VdXldJCKJkog&oe=69F931F2&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of blueprint, floor plan, poster, crossword puzzle and text that says 'JUEGOS ESTÁTICOS TEORÍA DE JUEGOS Jugador 2 x Jug. 10, B D.1 OOTO hemos eliminado columna con juego reducido 2x2. Aor. desde punto vista jugador donde jugador cree Aлe jugador también racional. Podemos afirtnar, eel el jugador 3e ሞን queda A. EB dominado Jugador 2 x Jug. A 10 Una 5,3 AB hacemos cuarta iteración -3. jugador 2. quedamos estrategia eliminada piensa estrategia Dado ultima iteración nuewosa Podemos con Eliminamos columna y asociadasa nestro lgoritme 4desde racional, que quinta jugador jugado queda estrategia estrategla encontramos F.L.F.F.D. dominada por- par strategias Jugador 2 X A 10. 8'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjMxODY2OTIzNzIzIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzOXwzODY4MDc2MjMxODY2OTIzNzIzfDQwOTc5Nzg4NDg0fDQ3N2IyYjE3ZTZiMzVhODdiNWYxMWIyNDhhZDk3NjljMTkyYmRkYzM2YWRkNjM3YmUwZDZjMjQxYzZhMjZjM2QifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076232496037875",
+            "shortcode": "DWuKtbqDr_z",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6U8U3cKVulRjIoAfuFOBzTcn0pwoAD09KZ+NPPSoQcUASfjTh0pgY08e9AARmm7BT6KAG7RS0tFAH//Z",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658981110_18099962681286914_2693369225430585432_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=0SxI8zWceesQ7kNvwHqrj8N&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2BwJaDCpi5quPQjIqWvJqY0c1dMwIE5msO-paXFj_TUw&oe=69F94849&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658981110_18099962681286914_2693369225430585432_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=0SxI8zWceesQ7kNvwHqrj8N&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2cNLsv7KzHYQPNCeD5AUzFM780q3NgDih-9u5MHg4W5Q&oe=69F94849&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658981110_18099962681286914_2693369225430585432_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=0SxI8zWceesQ7kNvwHqrj8N&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2V2Xjc8eA8F5pyLa7NC1415ar2xA2RJ0SHqNxsGYqBtA&oe=69F94849&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658981110_18099962681286914_2693369225430585432_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=0SxI8zWceesQ7kNvwHqrj8N&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1wCKu_1B6cnMLME_cKVXtJ9eY89hy1V0WMyRddAk6g3g&oe=69F94849&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of crossword puzzle, poster and text that says 'TEORiA JUEGOS Una conelusión ESTÁTICOS podemos establecer partir asociadas cadena de algoritmo. Supuesto asumen otro agente razonamientos encontrar de Formalidad Equilibrio Nash perfil maximizar función pagos: jurgas. términos estratégico. todos optimizacion, donde todos os jugadores respuestas maximización pagas del perfl egias pueda otnar an jugadores denotado la stenemos estrategia Obteniendo cualquier otra estrategia condición estrictamente débilmente equilibrios Nash. palabras: (1.10) ya que mejor desviación social ijod múltiples Con menos mejor ugador ce3Aa incentivos: desviarse responde mejor hay ธน estrategia, significa jugadores repoBo; Nash. Sietpre (Equilibrio trabajamos juego, juegos normales. Aplicado) traducirlo: lenguaje o. ι, que contar jugadores, jugador. 9'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjMyNDk2MDM3ODc1Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzOXwzODY4MDc2MjMyNDk2MDM3ODc1fDQwOTc5Nzg4NDg0fDBiMWVkYmM1NmE2ZGM5OWQ0YTYxNWQxY2M0OGUyOTBjZDk0NjYxNDQyZTM0NGM0ZWNmZjBiYjBlNDVjZWE3MWQifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076234710657985",
+            "shortcode": "DWuKtduDyvB",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6U0m6lPSo/wNAEmaKZ+Bp4oADTMH1p5pMGgBAPenCkpRQAUmKdRQAmKKWigD/9k=",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657597772_18099962693286914_6065215824280955701_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=__wgNU-i-10Q7kNvwHVbob_&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2kQpulAiRCfvFC-vUSSDjQm_c21jOjIM1T36t78deXRg&oe=69F92876&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657597772_18099962693286914_6065215824280955701_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=__wgNU-i-10Q7kNvwHVbob_&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2FeEo__vXt9sOPbJN5MlWfv-5HNI2xCIowk4_OncXOEg&oe=69F92876&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657597772_18099962693286914_6065215824280955701_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=__wgNU-i-10Q7kNvwHVbob_&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0ndR4pysjWhR23-toHCnPQUXhhWCVIPv5k9nLBMY_v0A&oe=69F92876&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657597772_18099962693286914_6065215824280955701_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=__wgNU-i-10Q7kNvwHVbob_&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1FLxwbyLyE3k1GEFThIsAepnMNl8w0e-Qo0vjhw5U_LQ&oe=69F92876&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of crossword puzzle and text that says 'cu ESTiTICOS Función de Pago TEORÍA DE. JUECOS Teniendo los jugadores, cuenta condiciones uego Cantidad finita Κμ. donde tenemos que: jugadores hasta Firmas, {I,...,n]:iEl. son estrategias infnitas diferencia juegos anterio- es juego particularidad divixibles, cantidades por perfil Marginal de Cournot, cantidades estrategias juego, ada mpresit camo: Infinitamente infiritas, denotado Si cantidades producidas, roducidas. sobrepasar tiene empresa suma cantidades con asibilidad ual: entido, con respectivo una producto negativo Que la antidad (1.12) Definimos esta forma firmase el merrado: ၇ု, como La suma total (1.13) cantidades ရ၉ producen (1.14) i1-{1.2) cantidad total del mercado (1.15) compitiendo, entonees podemos la 10'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjM0NzEwNjU3OTg1Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzOXwzODY4MDc2MjM0NzEwNjU3OTg1fDQwOTc5Nzg4NDg0fDdlNmFiNDBkN2IzNTQ3NWUzNjQyMzdmYWJhOTQ1NDJkOWZiM2Q4NDRlODIzMmEyMzc4MDM3MWVhMDg4ZGUzYjEifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076238485934207",
+            "shortcode": "DWuKthPFVB_",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6Wig9Kiz7UAS0Co/wqQdKAA8CmbxTm6VFk0AP3injpUeT6ipB0oAKTAp1FACAUUtFAH/2Q==",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657717491_18099962717286914_3114418098600328344_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=ph5wvfQu5skQ7kNvwHG5Aik&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af20au6n2a91tpmXBvh5JBnCnjJMnxRq86zDEiiUOJ9qpQ&oe=69F93AFC&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657717491_18099962717286914_3114418098600328344_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=ph5wvfQu5skQ7kNvwHG5Aik&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3IjIWgP8IzGub9y1yiy_yxvZNxoZKiaBB78t5J4AiUAA&oe=69F93AFC&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657717491_18099962717286914_3114418098600328344_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=ph5wvfQu5skQ7kNvwHG5Aik&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af39j4C00sct2q_6zSfLum5B7hzs1nuay85xBgn27vLCcQ&oe=69F93AFC&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/657717491_18099962717286914_3114418098600328344_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=ph5wvfQu5skQ7kNvwHG5Aik&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1E2RNNkfFQWNM0S4ZSvVEDQkqCcNV3vECBl3mWdnlLVQ&oe=69F93AFC&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of ‎crossword puzzle and ‎text that says '‎TEORiA JUEGOS ESTÁTICOS 2=와+월2 Definimos P(Q) como (1.16) cantidad (1.15) cxoep:йa unitario todas también duopolios oligopolios, cantidades funcional. (1.17) solo firmas destacar todo de 1 ንሮ። con prerio, produce vende, antidades producidas, (שו\":ה 9(P(0) Distribnyendo: G:la 6: 2-;)-c) (1.18) En firma, vaa caida P(Q) umenta Deneficios tiette bienes: diferencia caida el: producida firma otras palabras, PiQ) función homogénece, quiere 1.4.3 juego hay Le estáticos بو siempre mas! cumpla lese asegurar embargo, para juegos |juego mejor respuesta cantidades Cournat nOrS equilibrio. palabras, mejor Respuesta tejuego, asoriada proreso naxirización cantidad que maximiza los beneficios estrategia: urgmaxqila ራይፓ+8)- 1.20) 11‎'‎‎.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjM4NDg1OTM0MjA3Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTMzOXwzODY4MDc2MjM4NDg1OTM0MjA3fDQwOTc5Nzg4NDg0fGE3MTc1NTNlMjk2YjE2NmVkNTRlZGM1MWI3MjY1NTg0ZjkyOWYzYjY5MGVlZGNjNTJmNTljMTczMmI5MDk5ZWIifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076240289537367",
+            "shortcode": "DWuKti6lh1X",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6U0maGOBUe4mgCTNLUYJ/wAinr0oAU9KiGfSpTTc0AAJ9KcKQUooAKKWigBKKWigD//Z",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658358435_18099962720286914_7537599195226161856_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=CxFw46fAB4oQ7kNvwGlMVAA&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af325mJurO3rRVk82gr81EUDg8kCjf_hNTXWIkUjNU2u0w&oe=69F91483&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658358435_18099962720286914_7537599195226161856_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=CxFw46fAB4oQ7kNvwGlMVAA&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af15-2U-6wNBTNCnwVpIES6JU0uUmslZRITPnVDDZxOcJQ&oe=69F91483&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658358435_18099962720286914_7537599195226161856_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=CxFw46fAB4oQ7kNvwGlMVAA&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af29IFzDIjmDNvE5ky0FH1N3vhTwdwfEQStmTzEr5mUhWA&oe=69F91483&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658358435_18099962720286914_7537599195226161856_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=CxFw46fAB4oQ7kNvwGlMVAA&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3HE0R-x35ajGBjzxvc56AbbqFhsCjfinpBZ_GJf1y0lQ&oe=69F91483&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of ‎crossword puzzle and ‎text that says '‎JUEGOS ESTiTICOS Donde 20 20, TEORiA DE JUECOS Condición de Orden establece siguiente: 9,-g' satisfacerse con igualdad: cesariamente condición (1.21) aиTeιο óptimo negativa. contexta, porque marginal podemos reemplazamos probamos que derivada parciale . ondición ข มับ่งด primer estrategia jugadores tratado. Tipos suficiente. Como las lemis Soluciones para Cournot solución Problemas Juego estrategias pueden tomar partes Pensemos entendiendo El Deneficio individual se establece firmas, principio buscar benefielo que pueden tomar demás duopolio, decir, esta waneKa: (ס)נה ampliamos, (1.22) ጥርዓያ-ህ أ.و- big +မ.)-င) uscamos maximizar beneficio indiviual eneficio respecto la antidad producir: (1.23) firma simplemente derivamos Despejamos H -._--c=0 (1.24) (1.25)‎'‎‎.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjQwMjg5NTM3MzY3Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTM0MHwzODY4MDc2MjQwMjg5NTM3MzY3fDQwOTc5Nzg4NDg0fDBjODM4YWM4MGYxMDM5Yzg3ODYxYTE0OWUyNDhkZWU2M2Q5NmIyMmUwOTY4ZDlmMjE2ZjEwMmQzOGQ5ZWI2MjMifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076240750392037",
+            "shortcode": "DWuKtjWDjLl",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6U0gNKTgUzcPegB/NFM3j3p45FAARmmbKeaYfrmgBwFLSAj2pRQAEZpNop1FACYFFLRQB//Z",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658577956_18099962702286914_1867755627994411639_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=0giiTmZ_m1UQ7kNvwGzJGUc&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2bJvZ0p4sCXfaJ3W19135nr57ZfL3o2RmknTEc6lvqaw&oe=69F91867&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658577956_18099962702286914_1867755627994411639_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=0giiTmZ_m1UQ7kNvwGzJGUc&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2ZxgxSzoMTRwcAAov3wcJUvmWBDs_vfOjUmnzoqS7fcQ&oe=69F91867&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658577956_18099962702286914_1867755627994411639_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=0giiTmZ_m1UQ7kNvwGzJGUc&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af15IlmnfG-QePXhc2iBZt91k9A_A285e_RbRS8InhlMEg&oe=69F91867&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658577956_18099962702286914_1867755627994411639_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=0giiTmZ_m1UQ7kNvwGzJGUc&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1ZaJtNjNMtA3xK3cUFIA_ANB8q0D7h1Qf8NesfZpGnhg&oe=69F91867&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be an image of crossword puzzle and text that says 'JUEGOS ormula )ម mistna para JUEGOS ESTÁTICOS Buscando punto beneficios (1.26) igualan, nemos lo siguiente: forma resumida, problema beneticio, maximizamos] función (1.27) Cournot beneticio producir que hay distintas funciones podemos ver el equilibrio dejar Nash solución pra en racionales conviene 1.4.7 Solución para Cournot pueden confiar Derivamos otro. beneficio eso. firma con respecto: El cantidad: அ(ன) (1.28) မိ(၁,) λλίω) ca 1.4.8 Sustitutos Estratégicos este jurgo, estrategias entre rivales son negativas: 8（木） မါ(မ)ပါ(ဖ) →j羊i Los beneflelos marginales del jugador prorlueción. Pores piensa juego, estratrgia benefcian. 1.30) caen cuando otro afecte jugador Incrementa Podria suceder jugadores, con CHA! ambos 13'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjQwNzUwMzkyMDM3Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTM0MHwzODY4MDc2MjQwNzUwMzkyMDM3fDQwOTc5Nzg4NDg0fDA3MjE0OWI5MTVhMGRiZWQyZTBmY2VlZDk3ZDQ5NGZlYWNiMTE2MmIzZWJjNGExOWQ3YzA2NGNhYjE1NjcwOWYifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3868076243678022058",
+            "shortcode": "DWuKtmEjkmq",
+            "dimensions": {
+              "height": 1395,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACAq6U8U3dTiMjFZMmpRxuYyGJU47f40AaufpS1mpfRs4TaQWIHbv+NaQGKAFrHuLHc+9Mkk5O4/L+WM1rkZpAMUAYsFjIkodiOCPugHP1yMj6g1uUmKWgAooooAKKKKAP/Z",
+            "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658249160_18099962729286914_6088539388484337235_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=Q_PW8bRPP0cQ7kNvwGldmk0&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3kTeo-XbLkf82Bj8aQk45C1nFdcHUIVCGN81aGaHfL5w&oe=69F927F2&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658249160_18099962729286914_6088539388484337235_n.jpg?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=Q_PW8bRPP0cQ7kNvwGldmk0&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0PuE8DTPGzbFrbAj3yv3RPH3WSokDtX0dustYCPYMNaA&oe=69F927F2&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 827
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658249160_18099962729286914_6088539388484337235_n.jpg?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=Q_PW8bRPP0cQ7kNvwGldmk0&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3LNi5U9YadZWZ69mSMpo1VswcGu8k2czedAwuMOXsmfg&oe=69F927F2&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 969
+              },
+              {
+                "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/658249160_18099962729286914_6088539388484337235_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjI0eDE1ODIuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=Q_PW8bRPP0cQ7kNvwGldmk0&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3YFmkl2Wg-KGfLt8V293WjAmSxuIZegm-rXajnlvdlIw&oe=69F927F2&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1395
+              }
+            ],
+            "accessibility_caption": "Photo by Knowledge Spaces on April 04, 2026. May be a black-and-white image of ‎newspaper and ‎text that says '‎JUECOS Eσ. 1.4.9 Nota sobre el juego TEORÍA DE JUEGOS Cournot eligen eligen Stackelberg 1934, juego Cournot simltánen, :lits SIS cantidades ndlependientemente: mistnO tiempo. Mientras jurgo Stackelberg, firmas fnrma onsrcutiva derir, dependiendo cantidades ูค sentido de diferencia juego derir demás antidades demás, jurgo Bertrand 1883 diferencia Stuckelberg 3 Cournot า el firmas eligen cantidades, eligen precios. Figura Oskar Morgenster con múltiples ecuaciones en la pizarra. כולב Fakuitat für Wirtechafis- wrissenschaften Bibliografia []] R. Gibbons, Un Primer Curso de Teoría de Jwegos, Antoni 1992. 14‎'‎‎.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2UzMjUzNWNjMzE4NGYzOGJkZjhjNDQxMjIyYjhlYmQzODY4MDc2MjQzNjc4MDIyMDU4Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYxMTM0MHwzODY4MDc2MjQzNjc4MDIyMDU4fDQwOTc5Nzg4NDg0fGQ4MDY2M2EyYjRjY2NlNzEzZjY0OGUwMDhiYWQ4ZjcwYmFjZjk0NzFhNjBhZDUwZWQ3YWQwMzQ1OTE5YjU1NWMifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_caption": {
+      "edges": [
+        {
+          "node": {
+            "created_at": "1775330835",
+            "text": "Game Theory\n\nSe discute sobre el dilema del prisionero, el equilibrio de Nash, sus aplicaciones en el juego de Cournot, el algoritmo de E.I.E.E.D y las condiciones matemáticas en juegos normales.",
+            "id": "18001695335866266"
+          }
+        }
+      ]
+    },
+    "can_see_insights_as_brand": false,
+    "caption_is_edited": false,
+    "has_ranked_comments": true,
+    "like_and_view_counts_disabled": false,
+    "edge_media_to_parent_comment": {
+      "count": 17,
+      "page_info": {
+        "has_next_page": false,
+        "end_cursor": null
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "17850799734679645",
+            "text": "Será que estás matemáticas se pueden aplicar para explicar la fisiopatologia de las enfermedades?",
+            "created_at": 1777505628,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "918155904",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/466015484_881339530823743_6082113801802606213_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=1ZVUzHA_kh0Q7kNvwF3rE2r&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2e5aDx81_QupLWsYM-UlkRsMUYOWHzlN2ncgkIKsk_Jw&oe=69F92F61&_nc_sid=d885a2",
+              "username": "julianarenas3"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17894010774442076",
+            "text": "Which book?",
+            "created_at": 1775920986,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "44430626284",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/466142991_1314194766627380_2983912415451919990_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=CrWAycKjIkUQ7kNvwGen98e&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1MmzUNP9liDdypXlhBPxex8v3i51UZBLVK2P751FOuEQ&oe=69F91C37&_nc_sid=d885a2",
+              "username": "aneeshmanangath"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 3
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18079207661114627",
+            "text": "Name of book ..",
+            "created_at": 1775619411,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "4740896903",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/559857008_18366212638152904_8539155652396265980_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=9sI3Rfl7bAMQ7kNvwG7LHO1&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af16ALJm99MN_jylj068-NyPbAtv9Q1A8QH75lVkk8OuFw&oe=69F92445&_nc_sid=d885a2",
+              "username": "civil_israel_quimiz"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 5
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17875047954574687",
+                    "text": "@civil_israel_quimiz gibbons",
+                    "created_at": 1775809869,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "55986588000",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/671199279_18002936765868001_728725116393458414_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=dp5ByVNJ008Q7kNvwHnT7yh&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2cAgGHh9odypipn3AKOq6Q9JiovtviZs1mhX879c36SQ&oe=69F92583&_nc_sid=d885a2",
+                      "username": "suffuuu"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 3
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18100020404069304",
+            "text": "Is there a translation in English?",
+            "created_at": 1775793040,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "43811965204",
+              "is_verified": false,
+              "profile_pic_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGa5sj38Rw62bQtIMnYJMaSTnBSU9DHTIZAfYflKvC-u-VXFvAJ4ICu6bRBiyLbLWg1KWDBs2uiUD8t9QNNoBSp&_nc_ohc=N4OOug8neF8Q7kNvwGL0dUl&_nc_gid=cdwkC6-7__gTRthIJAvslg&edm=AJ9x6zYBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af3BZJSKRIPalgX8YMJX92rHp2QS2GAdAfVFrCLJEKHxMQ&oe=69F9376A&_nc_sid=65462d",
+              "username": "creatustest"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 28
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 3,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18462315469096916",
+                    "text": "@creatustest you can read it from gibbons",
+                    "created_at": 1775809865,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "55986588000",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/671199279_18002936765868001_728725116393458414_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=dp5ByVNJ008Q7kNvwHnT7yh&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2cAgGHh9odypipn3AKOq6Q9JiovtviZs1mhX879c36SQ&oe=69F92583&_nc_sid=d885a2",
+                      "username": "suffuuu"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 4
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18030065726796913",
+                    "text": "@suffuuu thanks mate 🤝",
+                    "created_at": 1775810006,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "43811965204",
+                      "is_verified": false,
+                      "profile_pic_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGa5sj38Rw62bQtIMnYJMaSTnBSU9DHTIZAfYflKvC-u-VXFvAJ4ICu6bRBiyLbLWg1KWDBs2uiUD8t9QNNoBSp&_nc_ohc=N4OOug8neF8Q7kNvwGL0dUl&_nc_gid=cdwkC6-7__gTRthIJAvslg&edm=AJ9x6zYBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af3BZJSKRIPalgX8YMJX92rHp2QS2GAdAfVFrCLJEKHxMQ&oe=69F9376A&_nc_sid=65462d",
+                      "username": "creatustest"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17934022083236437",
+                    "text": "@creatustest is there?",
+                    "created_at": 1776503639,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "3251961090",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/657695311_18450584683105091_768505982320623745_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=cYVaRvImnV4Q7kNvwEWF118&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2dJIY0359vDWvqf_EhUBRyE7MvXkSiXBU6_sujYVTRSQ&oe=69F91F5E&_nc_sid=d885a2",
+                      "username": "bubble._.lin"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18458566765098776",
+            "text": "This is a great content 🤗🤗",
+            "created_at": 1775736135,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "4233361175",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/464297052_1194114558324532_6016002126569910940_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=pF-TLBucK-EQ7kNvwGlOZbD&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2HqL_Wu8jbDGzAMuVVe0MrF3kHU2s9-b81F8I0AWtivw&oe=69F92A3C&_nc_sid=d885a2",
+              "username": "alexth._"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18123305755535097",
+            "text": "muy bueno",
+            "created_at": 1776905361,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "16494156570",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/374572209_176992995349644_4282858535562282723_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=wpikY6bLjxcQ7kNvwFU5KiR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1J5dMo8ygltXotP9-C_uU1TWi-FbP1DOZCmacQeRD5ug&oe=69F92863&_nc_sid=d885a2",
+              "username": "sebastianvilla.f"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18126690505601859",
+            "text": "Love this content ❤️❤️",
+            "created_at": 1775876048,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "717587278",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/684214472_18587207131019279_4855042390958545619_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=xHdWOdFfWZsQ7kNvwFPmtRG&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2P_eaLfIYkJrPP8F2xLI6Zz07120IjHJyTzCpTwQqSWQ&oe=69F937B2&_nc_sid=d885a2",
+              "username": "mar_023v"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18370108123203632",
+            "text": "Keep posting man, i love this content ❤️",
+            "created_at": 1775839500,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "58858632410",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/630111747_17979112019960411_8015131988002255222_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=R-QuHdYaDicQ7kNvwGoesf0&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1tiHkQV1GxVC6jDLqTbpxDwFP8M0L7csEaZFXk8kpepg&oe=69F9179B&_nc_sid=d885a2",
+              "username": "the_ayusman__"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17981176682825135",
+            "text": "Is there a translation in English, French or Arabic? Thank you",
+            "created_at": 1775759121,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "33631715396",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/516165525_18066910205123397_3237334878003170529_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDA4LmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=htuI6mQkRwIQ7kNvwGn1dJF&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1cx9sJENWeTJCKGRPsQYyCLyKnCbgvYr-VmaUY9WsYBw&oe=69F94A3F&_nc_sid=d885a2",
+              "username": "zouhair_qartita"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 2
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18117850639638812",
+            "text": "Game theory mixed with knowledge spaces is like understanding you are not  just playing people, you r playing what they know, what they think they know, and what they r completely blind to and adjusting accordingly :) great book",
+            "created_at": 1776459985,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "9194088474",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/673124231_18293879218304475_1195648702289175192_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzIuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=nhSfhbZ_DOYQ7kNvwGvLAAU&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2R8PRWBKnjqxn0-Hi27l5diQ6G_5gDr6wuiG7VKmtt0A&oe=69F93640&_nc_sid=d885a2",
+              "username": "avntnv"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 5
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18575218396038346",
+            "text": "#TeoriaDeJuegos #GameTheory #Microeconomia #Microeconomics #EquilibrioDeNash #DilemaDelPrisionero #JuegosEstaticos #Economia #Matematicas #Oligopolio #Duopolio #Cournot #Optimizacion #CompetenciaImperfecta #EstrategiaDominante #TomaDeDecisiones #JohnVonNeumann #OskarMorgenstern #SustitutosEstrategicos",
+            "created_at": 1775331039,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "38447046913",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/422011852_3554177778128165_7598132342318734547_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=8kxgGioxP48Q7kNvwFxPgyY&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2N4Btsh0qxu0vBYim3meE6_XONNYZwe7qjMLAV7p_ISw&oe=69F947E1&_nc_sid=d885a2",
+              "username": "knowledgespaces"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18094771834890228",
+            "text": "Esa madre me volvió loco en Ciencia Política 😂😂",
+            "created_at": 1775962008,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "836194184",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/613052279_18551368453034185_8077071902707081474_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=sWULqGz0rPIQ7kNvwHNFSSM&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3moqwItr9LOuhf1uPuuquuSRe01Ig9STCLyMj_xaOFbw&oe=69F92134&_nc_sid=d885a2",
+              "username": "abogamex"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 7
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_hoisted_comment": {
+      "edges": []
+    },
+    "edge_media_preview_comment": {
+      "count": 17,
+      "edges": [
+        {
+          "node": {
+            "id": "18123305755535097",
+            "text": "muy bueno",
+            "created_at": 1776905361,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "16494156570",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/374572209_176992995349644_4282858535562282723_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=wpikY6bLjxcQ7kNvwFU5KiR&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1J5dMo8ygltXotP9-C_uU1TWi-FbP1DOZCmacQeRD5ug&oe=69F92863&_nc_sid=d885a2",
+              "username": "sebastianvilla.f"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false
+          }
+        },
+        {
+          "node": {
+            "id": "17850799734679645",
+            "text": "Será que estás matemáticas se pueden aplicar para explicar la fisiopatologia de las enfermedades?",
+            "created_at": 1777505628,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "918155904",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/466015484_881339530823743_6082113801802606213_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHNnJ1QikDmmK-5Ij9J_chjIechM8_HqbIVXdEKqNQ1RGRLDlLfCjek-AZa1k4fOA0&_nc_ohc=1ZVUzHA_kh0Q7kNvwF3rE2r&_nc_gid=u0iAJz-ynju7m6ojTwjGAA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2e5aDx81_QupLWsYM-UlkRsMUYOWHzlN2ncgkIKsk_Jw&oe=69F92F61&_nc_sid=d885a2",
+              "username": "julianarenas3"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false
+          }
+        }
+      ]
+    },
+    "comments_disabled": false,
+    "commenting_disabled_for_viewer": false,
+    "taken_at_timestamp": 1775330832,
+    "edge_media_preview_like": {
+      "count": 6636,
+      "edges": []
+    },
+    "edge_media_to_sponsor_user": {
+      "edges": []
+    },
+    "is_affiliate": false,
+    "is_paid_partnership": false,
+    "location": null,
+    "nft_asset_info": null,
+    "viewer_has_liked": false,
+    "viewer_has_saved": false,
+    "viewer_has_saved_to_collection": false,
+    "viewer_in_photo_of_you": false,
+    "viewer_can_reshare": true,
+    "is_ad": false,
+    "edge_web_media_to_related_media": {
+      "edges": []
+    },
+    "coauthor_producers": [],
+    "pinned_for_users": []
+  },
+  "commentsRawData": [],
+  "stats": {
+    "topLevelFetched": 0,
+    "repliesFetched": 0,
+    "totalFetched": 0,
+    "igTotal": 17,
+    "coveragePct": "0.0",
+    "pagesScraped": 0
+  }
+}
