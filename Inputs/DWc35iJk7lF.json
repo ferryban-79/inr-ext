@@ -1,0 +1,1443 @@
+{
+  "shortcode": "DWc35iJk7lF",
+  "mediaId": "3863208426613225797",
+  "igCommentCount": 2142,
+  "postRawData": {
+    "__typename": "XDTGraphVideo",
+    "__isXDTGraphMediaInterface": "XDTGraphVideo",
+    "id": "3863208426613225797",
+    "shortcode": "DWc35iJk7lF",
+    "thumbnail_src": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657988975_926907489926338_2541581117734577184_n.jpg?stp=c0.62.640.640a_dst-jpg_e15_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=2H5iXhaYMQsQ7kNvwE--OLZ&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3MqHEUFJ4He9LnhDE-269iaOSLOeckDMlvuCa4gi2jug&oe=69F9411B&_nc_sid=d885a2",
+    "dimensions": {
+      "height": 764,
+      "width": 640
+    },
+    "gating_info": null,
+    "fact_check_overall_rating": null,
+    "fact_check_information": null,
+    "sensitivity_friction_info": null,
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "media_overlay_info": null,
+    "media_preview": "ACMq6XFGKqs83m7Qo8vH3vfH19e1TqWz83T2/wD1mgB+KMUtFACYopaKAImQk5Bx+f8AjSeWfX+f+NRG6Im8nYcYzu7dM/8A1vrVjeP8g0AIE9SfzP8AjShADnn8zT6KACiiigBhBPQ4/Kja3r+gp9JQA0Ajqc06iigAopaKAP/Z",
+    "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657988975_926907489926338_2541581117734577184_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=2H5iXhaYMQsQ7kNvwE--OLZ&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1l5GMCIj9dFRON0xRk854aMJ2JYlucytEdOzsl5zhlwA&oe=69F9411B&_nc_sid=d885a2",
+    "display_resources": [
+      {
+        "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657988975_926907489926338_2541581117734577184_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4NzY0LnNkci5mNzE4NzguZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=2H5iXhaYMQsQ7kNvwE--OLZ&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1l5GMCIj9dFRON0xRk854aMJ2JYlucytEdOzsl5zhlwA&oe=69F9411B&_nc_sid=d885a2",
+        "config_width": 640,
+        "config_height": 764
+      },
+      {
+        "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657988975_926907489926338_2541581117734577184_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4NzY0LnNkci5mNzE4NzguZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=2H5iXhaYMQsQ7kNvwE--OLZ&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1l5GMCIj9dFRON0xRk854aMJ2JYlucytEdOzsl5zhlwA&oe=69F9411B&_nc_sid=d885a2",
+        "config_width": 750,
+        "config_height": 895
+      },
+      {
+        "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657988975_926907489926338_2541581117734577184_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4NzY0LnNkci5mNzE4NzguZGVmYXVsdF9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=2H5iXhaYMQsQ7kNvwE--OLZ&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1l5GMCIj9dFRON0xRk854aMJ2JYlucytEdOzsl5zhlwA&oe=69F9411B&_nc_sid=d885a2",
+        "config_width": 1080,
+        "config_height": 1289
+      }
+    ],
+    "accessibility_caption": null,
+    "dash_info": {
+      "is_dash_eligible": true,
+      "video_dash_manifest": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT5.033333S\" FBManifestTimestamp=\"1777556548\" FBManifestIdentifier=\"Fojxmp8NGBJyMmV2ZXZwOS1yMWdlbjJ2cDkZJuKY2I/+vukG+prezYLKtwgiGB5kdW1teV90YWdzZXRfZm9yX2ZhbGxiYWNrX2xpc3QiLBkYDm1vZGVyYXRlX2hlYXZ5ABZAFAASFAIA\"><Period id=\"0\" duration=\"PT5.033333S\"><AdaptationSet id=\"0\" contentType=\"video\" subsegmentAlignment=\"true\" par=\"5:6\" FBUnifiedUploadResolutionMos=\"360:71.4\"><Representation id=\"2374017753007805v\" bandwidth=\"241778\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"58050:57817\" FBEncodingTag=\"dash_r2evevp9-r1gen2vp9_q80\" FBContentLength=\"152119\" FBPlaybackResolutionMos=\"0:100,360:99.8,480:99.7,720:99.2,1080:93.6\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:96.9,480:97.3,720:97.1,1080:94.5\" FBAbrPolicyTags=\"\" width=\"716\" height=\"860\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"720p\"><BaseURL>https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m367/AQNAxGjzCSiF9i2Htf9Ra7eCv47AC-BUpIdwwZ39NANxHFZXzgNORGhuFlgCQFba_WJc2ExmOIedNq4YKCJOyaNUsrtZXFrygv1RIEQ.mp4?_nc_cat=106&amp;_nc_sid=9ca052&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_ohc=zG8fY7pCWS0Q7kNvwGG-TVM&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxODA2NjI3MDAxNDM3ODEwMiwiYXNzZXRfYWdlX2RheXMiOjMyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NSwiYml0cmF0ZSI6MjQxNzc4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&amp;ccb=17-1&amp;_nc_gid=upiWJ3ZjblXKATicTfbBwg&amp;_nc_zt=28&amp;_nc_ss=7a22e&amp;oh=00_Af3Nq9MNt9j88HAzwJVZRg5meBKbjcM_PWZ16JMrCnWccA&amp;oe=69F92C33</BaseURL><SegmentBase indexRange=\"834-889\" timescale=\"15360\" FBMinimumPrefetchRange=\"890-44522\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"890-103324\" FBFirstSegmentRange=\"890-139438\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"139439-152118\" FBPrefetchSegmentRange=\"890-139438\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-833\"/></SegmentBase></Representation><Representation id=\"1920829381871153v\" bandwidth=\"384665\" codecs=\"vp09.00.40.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2evevp9-r1gen2vp9_q90\" FBContentLength=\"242019\" FBPlaybackResolutionMos=\"0:100,360:99.9,480:99.9,720:99.8,1080:99.7\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:97.3,480:97.3,720:97.3,1080:97.2\" FBAbrPolicyTags=\"\" width=\"1080\" height=\"1292\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"1080p\"><BaseURL>https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m367/AQN-4yU78bxiyl_NinQbJm8l6bL_yMvAS5dv5x1y4Mp19AiHVLIxloM1lDpY_w_LgPLd6CffSXeJVajdwkbFRuoKyz_etEHKZs2_1lA.mp4?_nc_cat=108&amp;_nc_sid=9ca052&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_ohc=e8CfxdTIl24Q7kNvwEaZQzW&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxODA2NjI3MDAxNDM3ODEwMiwiYXNzZXRfYWdlX2RheXMiOjMyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NSwiYml0cmF0ZSI6Mzg0NjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&amp;ccb=17-1&amp;_nc_gid=upiWJ3ZjblXKATicTfbBwg&amp;_nc_zt=28&amp;_nc_ss=7a22e&amp;oh=00_Af2UY6g1jJZKHNlZjfFTnorKHuVh4g96mw20jl8LEAm7jg&amp;oe=69F91A9D</BaseURL><SegmentBase indexRange=\"818-873\" timescale=\"15360\" FBMinimumPrefetchRange=\"874-64440\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"874-165792\" FBFirstSegmentRange=\"874-226284\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"226285-242018\" FBPrefetchSegmentRange=\"874-226284\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-817\"/></SegmentBase></Representation></AdaptationSet></Period></MPD>\n",
+      "number_of_qualities": 2
+    },
+    "has_audio": false,
+    "video_url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t16/f2/m86/AQN1MH0gxpmA0609UkiX-bXA2mBj5mUY38cvMO8LyN7Kg2IFxjS0k_vNucRSpn6LwrMCknaMuSPQPsI7UP1KP7kEqeYbYqwlQG_taJ4.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=111&vs=26310834491911076_1758005049&_nc_vs=HBkcFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MjRCNjI3NjMxQUNERTZGNEJBNjYyRDYyMzZFRENCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsAFQAAJuzwseGoy5dAFQIoAkMzLBdAFCHKwIMSbxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=7e805c8073&ccb=9-4&oh=00_Af3Zb1GP3LaRW0GG2N6RZE3mwi4uFW4O1FKkzQgadEyWPg&oe=69F5266F&_nc_sid=d885a2",
+    "video_view_count": 2178588,
+    "video_play_count": 6293796,
+    "encoding_status": null,
+    "is_published": true,
+    "product_type": "clips",
+    "title": "",
+    "video_duration": 5.033,
+    "clips_music_attribution_info": null,
+    "is_video": true,
+    "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiN2U4MDU1NmFjMzBhNDBhZDg4NmJjODY5NDVlNWFlOWQzODYzMjA4NDI2NjEzMjI1Nzk3Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjU0ODc1NnwzODYzMjA4NDI2NjEzMjI1Nzk3fDQwOTc5Nzg4NDg0fDExYmI3ZTRkYjkyMWY1NjU5YjIxZTcwNmYzN2YyMzA5ZjkwY2JjNDY0ODNmOTUwN2ExMmM4OGZhMWRmZGQ5NzMifSwic2lnbmF0dXJlIjoiIn0=",
+    "upcoming_event": null,
+    "edge_media_to_tagged_user": {
+      "edges": []
+    },
+    "owner": {
+      "id": "80290945254",
+      "username": "makozerooo",
+      "is_verified": true,
+      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/660417843_17861884614673255_1910006055175702723_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=OYflXJ4TICQQ7kNvwEp8aoA&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0GjoPdcixmqUjDVw7cBp49JUEKm0ITu5IfdpR40IdOSA&oe=69F94178&_nc_sid=d885a2",
+      "blocked_by_viewer": false,
+      "restricted_by_viewer": false,
+      "followed_by_viewer": false,
+      "full_name": "",
+      "has_blocked_viewer": false,
+      "is_embeds_disabled": false,
+      "is_private": false,
+      "is_unpublished": false,
+      "requested_by_viewer": false,
+      "pass_tiering_recommendation": true,
+      "edge_owner_to_timeline_media": {
+        "count": 2
+      },
+      "edge_followed_by": {
+        "count": 17289
+      }
+    },
+    "edge_media_to_caption": {
+      "edges": [
+        {
+          "node": {
+            "created_at": "1774750382",
+            "text": "The Infertility Inheritance Paradox 🏛️🧬🤯\n\n​A \"profound\" discovery that collapses under the weight of basic biology. This viral 2026 exchange from \"Technically the Truth\" highlights one of the most hilarious logical fallacies currently trending on social media.\n\n​The \"insight\" from user KYTON claims that infertility is genetic, asserting that \"if your parents couldn't have kids, you also won't.\" The immediate paradox, as pointed out by the sarcastic \"dealer's number\" rebuttal, is that if the premise were true, the subject wouldn't exist to inherit the trait in the first place. In 2026 internet culture, this is known as a Circular Logic Trap: a statement where the conclusion (your existence) is canceled out by its own requirement (parents who can't reproduce). It’s a 2026 reminder that even the most \"scientific\" sounding claims can be completely derailed by a single second of logical scrutiny. \n\n​Is this the most \"confidentially incorrect\" statement of the year, or is there a hidden layer of genius we’re missing? 🧬👇\n.\n.\n#logic #biology #memes #paradox #science",
+            "id": "18095165446847345"
+          }
+        }
+      ]
+    },
+    "can_see_insights_as_brand": false,
+    "caption_is_edited": false,
+    "has_ranked_comments": true,
+    "like_and_view_counts_disabled": false,
+    "edge_media_to_parent_comment": {
+      "count": 2142,
+      "page_info": {
+        "has_next_page": true,
+        "end_cursor": "{\"cached_comments_cursor\": \"18111324616755632\", \"bifilter_token\": \"KCUBCgAwABgAEAAQAAgAeaefomdts880Tbn-u__fD37wyvtKAtGAAA==\"}"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "17853184311690717",
+            "text": "Sure. If my parents didn’t have kids, I couldn’t possibly have kids since I wouldn’t exist.",
+            "created_at": 1774803656,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "77458785621",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/657300116_17873612751577622_8209245116243850759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=zldq2b3SbgoQ7kNvwG9fXXl&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0pgMxpn1AZw5gFYP6NSaG-M2FS_0VWw25xpJINQSMRMg&oe=69F936CF&_nc_sid=d885a2",
+              "username": "tiznut29"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 16846
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 43,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFBSFZkUkVuMDc3R3ZvRUJPZ0MyY2gwYnhzT1hOaXYzQ2cxLW5OTXpoR0xQVXRQZUZTYk1CMVN5NzMtYVJRdThWNFdRMU1jYUhfM2RIZTRwaWFVa0JoZw=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18085409306616098",
+                    "text": "@geneticallycompromised your username makes sense",
+                    "created_at": 1777467948,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "49224050901",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/671233842_18076466585642902_7380069938291324872_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=3cQrWc7OHL8Q7kNvwGxrIaL&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2mFxGj3_trVTxywBg-mBYG2yb2cMCOgXiYTssUMJ2IsA&oe=69F948D7&_nc_sid=d885a2",
+                      "username": "9thmooon"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18418990831193834",
+                    "text": "Very special type of person. Gotta be studied you!",
+                    "created_at": 1777489601,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "860467988",
+                      "is_verified": true,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/464509125_548374861468436_6628135518156735690_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=SwHlZ6hKJiQQ7kNvwGO0ugS&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0NrNB73fBXSndAfAcs8wMwOEywYCYV2WeT3k7j16IaSQ&oe=69F92034&_nc_sid=d885a2",
+                      "username": "mrflench"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17959952535082540",
+                    "text": "",
+                    "created_at": 1777550867,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "49702980868",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657566473_18028048526660869_309336181860735440_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=dce-jUUTU30Q7kNvwHo8KgE&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af00BhV4h5BY7ZJUaO8PkPpv_tCWIcuhZkLBPbolzOPiuQ&oe=69F94213&_nc_sid=d885a2",
+                      "username": "sounabhh"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18084632663032236",
+            "text": "I am losing all faith in humanity having common sense.",
+            "created_at": 1774820392,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "36154727886",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/654026627_18083433665207887_2428110623741608460_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=ZW3REkCOLpkQ7kNvwGIx_Jx&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3FChbmkjMX2J2VmvjALE_enf20vtUiqI90Asp3SWGnrw&oe=69F93660&_nc_sid=d885a2",
+              "username": "noneyabiz1123"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 10591
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 14,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFEc0s4N21LaFNGOUJzNXdJNkl2NnJRd2FTZXFEWE5LdlNBbkhNNC1QM0dFb0Y2WHhDUWh3eG9ydkNkbUc4QTctSnBDUE9zQzJNNkhSa0FwbGtpWmRicQ=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17888656614351612",
+                    "text": "@1saarekas that's not a good thing. Don't do that",
+                    "created_at": 1776359564,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "36154727886",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/654026627_18083433665207887_2428110623741608460_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=ZW3REkCOLpkQ7kNvwGIx_Jx&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3FChbmkjMX2J2VmvjALE_enf20vtUiqI90Asp3SWGnrw&oe=69F93660&_nc_sid=d885a2",
+                      "username": "noneyabiz1123"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18114400732813792",
+                    "text": "@noneyabiz1123 😂😂",
+                    "created_at": 1776687056,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "7581062490",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/659827095_18319386733254491_1486208938441477749_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=0iqsbGediUMQ7kNvwEhASNr&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3WlzDBkHz0BlOtlzcw399axKSs1UJmB6pNqARRlM0CxQ&oe=69F93857&_nc_sid=d885a2",
+                      "username": "munazza_noorr"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18575642398051772",
+                    "text": "@noneyabiz1123 yo ya old ass people really take everything so fucking serious delete your social media then",
+                    "created_at": 1776778818,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "68978059595",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/682827903_17922395157299596_9029767872031663726_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=1rF7HLeYBLwQ7kNvwEpw5rO&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0YDEG6nKbzKHc8g0y9blajVipuSoPJUSP4Iq2_M3At8Q&oe=69F93E18&_nc_sid=d885a2",
+                      "username": "dreamofkay__kk"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17882011080482314",
+            "text": "It’s giving \n My Mom is a woman \nMy Dad is a man  Meaning Im Both , coz Im mixed 😭😂",
+            "created_at": 1774909565,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "56861237181",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/573685649_17992200680893182_9221814296299686105_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTUuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=rPjllXQdKEYQ7kNvwH7uJWC&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3P4DS9xLDi4VAI1OBMP446vomuIKddojnQjuhD2SKdnw&oe=69F94AE0&_nc_sid=d885a2",
+              "username": "just_peppy_"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 3504
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 20,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFBeDg2UW1NRXRmVThSSzFfWUc4R1J0RkdwZTNhU1ctMFZJaGZWNkFsV3AyLXpGQkZxSmcwd0tQMUNQUmt0SzZFbVZIenpkbmJONmRQTTV4WlJadXY5ZA=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17879764254556705",
+                    "text": "@just_peppy_ 🤣🤣🤣",
+                    "created_at": 1776849810,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "11631996735",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/651968093_18173664709388736_1031899283050788958_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=bKLA7C9TDq0Q7kNvwGVJQw-&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1Nlxk2xJ5PIJzcpLRvi2k8x-WXMn2oTnppMHbXeKqcsg&oe=69F9316F&_nc_sid=d885a2",
+                      "username": "carol_mubiru"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17897291880435747",
+                    "text": "@just_peppy_ take win 😂😂",
+                    "created_at": 1777171101,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "1013120354",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/661327747_18580062586000355_7343305247496237840_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzYuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=6ZS5Vms2UiUQ7kNvwGGv5da&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2-EUTeuVXMj09vBuu8NV5WSTgnKoJKRCEGTXlaTRXz-Q&oe=69F9268F&_nc_sid=d885a2",
+                      "username": "iwendylee"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18115459645666574",
+                    "text": "@just_peppy_ is that how you get “they/them”? lol I’m just playing 😂",
+                    "created_at": 1777453549,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "51724544247",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/289834088_708574256882868_6868500665845826274_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=qGAOIxmGnQEQ7kNvwH7Fh2P&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0rhfKohh2R4ADD4nmToN580H44gn3YjfFkjRS6SGJq5w&oe=69F93DDE&_nc_sid=d885a2",
+                      "username": "noncomkitchen"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17980341020822723",
+            "text": "😢😢😢Bro been buying the wrong drug😂😂😂",
+            "created_at": 1774871549,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "56118215405",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/528471905_17974147061871406_1082470776345513658_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTYuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=rRpHxcCEo4oQ7kNvwFzj5br&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3SYtWqyqukR0xJWWy_a4EeDFXrvoUq7TvNytl9NHBk6g&oe=69F92054&_nc_sid=d885a2",
+              "username": "dantewolfdemons"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1356
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 3,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17937621687194751",
+                    "text": "@dantewolfdemons 😂😂",
+                    "created_at": 1775314082,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "67153888247",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/486480619_1072310147988938_5611286050667131528_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=BbNdcII73NkQ7kNvwH2XO0l&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af15mJnA3aAViX8Yi8_argJ_Lc-SSxVp5A0GxAmuXXcuDw&oe=69F92820&_nc_sid=d885a2",
+                      "username": "anne5leah"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 2
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17873541183583569",
+                    "text": "@dantewolfdemons fr 😂",
+                    "created_at": 1775950202,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "75187427263",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/628422125_17874339498507264_4610419645286552535_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=FOae7REeJZIQ7kNvwGKAuDz&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2NCYXpaIXCUDscs0x0y2ctHzQaDnacoyOm4H8wRrnVIA&oe=69F9174E&_nc_sid=d885a2",
+                      "username": "bonethugne"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18020177651823943",
+                    "text": "@dantewolfdemons it's actually the right drug 💀",
+                    "created_at": 1776522712,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "4587483045",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/558424000_18367981306155046_3274272333031990273_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=RKGG4f6qwFsQ7kNvwHN5-YZ&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1P1iN3O3yasFYhU9_tZcl5IBETnFUlDPxWuk_U1T0gYQ&oe=69F9196B&_nc_sid=d885a2",
+                      "username": "gour_kaif.22"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18227450341309773",
+            "text": "It's sad that police can't find the dealers but these people can 😭🤣",
+            "created_at": 1775590562,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "47317062188",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/639766470_18078868205582189_721275499203420852_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=z6_Zi1nN-O8Q7kNvwFkHrj3&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1QlQGYD2u3dsTEkMYFGqzO9YDnERa5hVpfXYOKxqDjrA&oe=69F9422B&_nc_sid=d885a2",
+              "username": "shivi.core17"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 382
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18064501040379264",
+                    "text": "@shivi.core17 well.. yea?😭😭",
+                    "created_at": 1776318547,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "53064283598",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/603987235_18030328415771599_1073918270692019523_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=onTKnZYDmXsQ7kNvwEopR8y&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3n3djIiL1hRHqQDhCpWNROWIj8Qa8E3-i30r50XU1TRA&oe=69F93FA4&_nc_sid=d885a2",
+                      "username": "myageezz"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18196865452355888",
+            "text": "Infertility doesn’t mean you can’t have kids it means it’s harder to have kids. Sterile means you can’t have kids.",
+            "created_at": 1774828454,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "66729941318",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/576116453_17913043410229319_2719962395557309985_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=CjlrVwGve-wQ7kNvwGctxCa&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2JWgnP40NhMYeWUhFaOZwV_l3XWE4jN8GoUX9-OEsh2Q&oe=69F9479D&_nc_sid=d885a2",
+              "username": "marsian_things"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1217
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 10,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFCOXQ1X19iLVA0NXBKOVBETE9wRUkwSmlmbWdHX05zUFVEenhJMk9VT29nbDJkZ25DU1dPWGZsUzBTV1R4U1VxQzNSX180V2NUZnBaR01qanNLbmxJZA=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17854796181688750",
+                    "text": "@marsian_things but he didn’t say this ,….. this makes sense 😭",
+                    "created_at": 1774954060,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "30039587626",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/271993393_1795561390640893_1599486222951899561_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=UXPz8is0UMYQ7kNvwHmgtS-&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0ZmqB8w56ekXjGkWE-FayFkBRgQWUde_MYlspbN829-w&oe=69F94462&_nc_sid=d885a2",
+                      "username": "ms_babootie"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18172180720400001",
+                    "text": "@marsian_things yes girl educate them 👏",
+                    "created_at": 1775071815,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "54569848554",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/587617424_18011864414816555_6833899440920760079_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjYuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=NbIL5Awp7xYQ7kNvwFs_Vpn&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2MHHxT1ItciaveQqNq0jtT3UVZn_kGURMQvsEjMPY0wQ&oe=69F92895&_nc_sid=d885a2",
+                      "username": "literary_duji"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17999731805870459",
+            "text": "Brainrot knowledge 😭👏",
+            "created_at": 1774864864,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "57967179662",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/476343954_1316173812865587_8252306200648656695_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=L-mzU_H7k7kQ7kNvwHYLjHu&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3ftxwYcHtBO_J9chikezieDyIauBqaHa6lHZQ3zwbtKw&oe=69F91B2A&_nc_sid=d885a2",
+              "username": "_alexithymic4"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 416
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18098072338995781",
+                    "text": "@_alexithymic4 On the contrary it’s so deep and actually makes sense . (what goes around , comes around ) If ur Parents could’nt get their Kids when they needed them , U also won’t be able to have ur kids .\nINFERTILITY ISSA METAPHOR .",
+                    "created_at": 1775870994,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "76054131552",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/674482652_17885132904531553_7958036292619373747_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=AYbEE9d6E-YQ7kNvwFCQBR5&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3wGcRDZfhJhtPQMccqLFYJYat2JgFhflD3hTwnORelJw&oe=69F942E4&_nc_sid=d885a2",
+                      "username": "glimmerandbeats_"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18123451711597121",
+            "text": "This changed my life.  Move over Socrates",
+            "created_at": 1774867506,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "2908051432",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/349039746_622271519939104_4740325616238596755_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MTAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=K1K2ApCCTf4Q7kNvwGC_ciY&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2O7CGasBC1fj_cZlanbgWZDTVeqjzLldH0WkqfUvRX-g&oe=69F91F59&_nc_sid=d885a2",
+              "username": "southern_arora"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 365
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 5,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFCenVmX2xRb0hCTFBPWkZwLTh3aXl2dGE3U2JPZnVuUXFNUE5LNWdCN3l5cnd3TnlWdFNueG9SNzIzdWRVaHdUMnZkY0twWHltcTloaGRka2NMbWgxeA=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18579617416023595",
+                    "text": "@seirabenadi 😂😂",
+                    "created_at": 1776167077,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "2908051432",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/349039746_622271519939104_4740325616238596755_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MTAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=K1K2ApCCTf4Q7kNvwGC_ciY&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2O7CGasBC1fj_cZlanbgWZDTVeqjzLldH0WkqfUvRX-g&oe=69F91F59&_nc_sid=d885a2",
+                      "username": "southern_arora"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18577701550049375",
+                    "text": "@seirabenadi 🤣👏👏",
+                    "created_at": 1776167092,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "2908051432",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/349039746_622271519939104_4740325616238596755_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MTAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=K1K2ApCCTf4Q7kNvwGC_ciY&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2O7CGasBC1fj_cZlanbgWZDTVeqjzLldH0WkqfUvRX-g&oe=69F91F59&_nc_sid=d885a2",
+                      "username": "southern_arora"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17997448661762962",
+                    "text": "@southern_arora 🤣😭",
+                    "created_at": 1777332943,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "49980584877",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/642511271_18060246911664878_7635805063468338989_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=6_VHSNHr3AoQ7kNvwFStG66&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af34v-fSoVV0frPkVDRvi9jYRYNgKMQPKiZB37uByP_q3w&oe=69F93EF4&_nc_sid=d885a2",
+                      "username": "hepssssssssss"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 2
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18074397839635412",
+            "text": "",
+            "created_at": 1774871567,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "1689218995",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/281898388_371507081673281_6543999753286827195_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=o1d8kAr6Uu4Q7kNvwEkGbY2&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af07izcMATi7eMVoHlcDfgkjKM40TksPIgeYEKfS-w7OmA&oe=69F9397E&_nc_sid=d885a2",
+              "username": "nhluvukok"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 527
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 6,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFCdVd5cUp3X0JxQlFKeDdzSVI5VlN4a09yakpTdTZ1Vm1xLXE3UDVmRmgxM3V3b0h5d0d1TjJaalJ2RGplUExjS3RYdm01bWJDQmxWbGpXNVlWLXNoeg=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18539530741068236",
+                    "text": "🤣🤣🤣",
+                    "created_at": 1774921078,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "272905382",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/373835140_694457105861056_594743391026572200_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=4t_P6ywGr3UQ7kNvwFHl5pR&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2rPXruaGdPcAMT-MH_yFXsnmfxyswHykSQSoHvID5yHw&oe=69F92CFB&_nc_sid=d885a2",
+                      "username": "livelaughlearn_d"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17862653649672230",
+                    "text": "😂😂",
+                    "created_at": 1775506786,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "49170989768",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/241227631_2698576993769009_6101464695837974098_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDIuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=gEef6y8drmYQ7kNvwH7By5a&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2aChg7GIQJSd_MMc7ALM1_a-JQQ9qGj2iYMKlOxw5YhA&oe=69F93028&_nc_sid=d885a2",
+                      "username": "danibthegreat"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18134163766551086",
+                    "text": "😭💀",
+                    "created_at": 1776541134,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "3213402808",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657829162_18450280882106809_265242317983788466_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=2voff2BNLukQ7kNvwFLmgUs&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af13bmi2-JGmPU-VwArDQAAPg65jNS7D8lhcDz7ZbEapmg&oe=69F92E1B&_nc_sid=d885a2",
+                      "username": "meeee.emz"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17964111461996383",
+            "text": "What if, I am adopted?",
+            "created_at": 1774785721,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "4463330755",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/649180839_18399526489146756_8251487988729877247_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=fRnkkXh_EjsQ7kNvwGdKnYJ&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3CbVFsm-F1ICYS9SomElrM22SnCtowmNd9E9P7ia3TaA&oe=69F914A8&_nc_sid=d885a2",
+              "username": "vamsi_chilkoti"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 122
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 22,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFESktlb0Vmc3JDVncxdEE5TTNLeUZ5TGZ5eXpPVTFlMnVoT3BUaXRZd3FyLTRGb2ZENXRRZ3FQZWUtVFFXWUZjVFdQZGdQZ2tqTWhURy1vd3hQamxXUw=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18112921159624560",
+                    "text": "Hahaha",
+                    "created_at": 1776093773,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "4463330755",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/649180839_18399526489146756_8251487988729877247_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=fRnkkXh_EjsQ7kNvwGdKnYJ&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3CbVFsm-F1ICYS9SomElrM22SnCtowmNd9E9P7ia3TaA&oe=69F914A8&_nc_sid=d885a2",
+                      "username": "vamsi_chilkoti"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18112275935503953",
+                    "text": "🤣and you managed to make it worse.",
+                    "created_at": 1777355115,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "31690223313",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/626336882_18090508142063314_5166468245000137633_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=G1ZFR9GQFlsQ7kNvwHTEd2S&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1X94QYjuqKnSBsqBEB-QelXvjpos3aFr8WeI4-oBg1Yw&oe=69F946C5&_nc_sid=d885a2",
+                      "username": "teevirgo_018.za"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18100743889960675",
+                    "text": "@teevirgo_018.za hahaha😂😂",
+                    "created_at": 1777358963,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "4463330755",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/649180839_18399526489146756_8251487988729877247_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=fRnkkXh_EjsQ7kNvwGdKnYJ&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3CbVFsm-F1ICYS9SomElrM22SnCtowmNd9E9P7ia3TaA&oe=69F914A8&_nc_sid=d885a2",
+                      "username": "vamsi_chilkoti"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18074291126548905",
+            "text": "He’s got a point though, just not entirely correct. Yes infertility is genetic and can be passed on meaning you might also have “Difficulty” in having children. You guys are confusing infertility (difficulty to have children- but theres a chance) and sterility (which means you “Absolutely” cant have children.",
+            "created_at": 1775570189,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "66097495442",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/571647534_17915268699207443_6689703803850834594_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=_siESdZWbbwQ7kNvwHx5xsW&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3nF9OQ8PhawnC1XFqJDImSSdhPGk9K89KTuDQMBkzuWg&oe=69F94013&_nc_sid=d885a2",
+              "username": "keve_._"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 16
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 2,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18073111727636092",
+                    "text": "@keve_._ its just his wording😭",
+                    "created_at": 1775570234,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66097495442",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/571647534_17915268699207443_6689703803850834594_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=_siESdZWbbwQ7kNvwHx5xsW&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3nF9OQ8PhawnC1XFqJDImSSdhPGk9K89KTuDQMBkzuWg&oe=69F94013&_nc_sid=d885a2",
+                      "username": "keve_._"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18083942342602174",
+                    "text": "@keve_._ On the contrary it’s so deep and actually makes sense . (what goes around , comes around ) If ur Parents could’nt get their Kids when they needed them , U also won’t be able to have ur kids .\nINFERTILITY ISSA METAPHOR .",
+                    "created_at": 1775871012,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "76054131552",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/674482652_17885132904531553_7958036292619373747_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=AYbEE9d6E-YQ7kNvwFCQBR5&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3wGcRDZfhJhtPQMccqLFYJYat2JgFhflD3hTwnORelJw&oe=69F942E4&_nc_sid=d885a2",
+                      "username": "glimmerandbeats_"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 2
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17986067954967741",
+            "text": "That sounds right. But I don't know enough about generics to disprove it.",
+            "created_at": 1775587767,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "188611744",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/539549986_18534365512003745_7745051008032697179_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=XKUOV710ODkQ7kNvwHE0nV7&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3-Rh8PXfXpk5ttf01QZelajRQ6Hc79eJoMHsTJSqWY8A&oe=69F93FAA&_nc_sid=d885a2",
+              "username": "djgreybeard723"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 57
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18152212156463587",
+            "text": "The fact that i actully believed it for a second until i realised🤣",
+            "created_at": 1777371665,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "58613836008",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG8eFwNxM-jH6IF6BydK7QQdqvs0T0MtonfvPLlQyYOx7Ty__3ryMWvnJe1c7DhR8Pc0Pkv8cGSPROKDPQhcSEi&_nc_ohc=N4OOug8neF8Q7kNvwFOp6y1&_nc_gid=8AoddOi_UpHdGOcO_r74pA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af2s-mh-RQYzzWg4tbONmvLPh4Qe8n2-oB62MIC3VC9dng&oe=69F9376A&_nc_sid=10d13b",
+              "username": "pulakks_"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18091658984144984",
+            "text": "He selling the good one😂😂😂",
+            "created_at": 1775192615,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "995103883",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/524927078_18524634238031884_2412724459944589765_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=MaRMW9v0rGoQ7kNvwHQmtYx&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2CnatYY9bM1AKewK1fDhuBGMgzjZuV7lYYnaEDLMAXGg&oe=69F929C0&_nc_sid=d885a2",
+              "username": "just_natyjo"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 85
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17932140549227375",
+            "text": "it's getting so bad that even their children won't",
+            "created_at": 1774796975,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "4305548677",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/472961095_1389637121900871_3392316890395210163_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMTguYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=SgAG092ur0QQ7kNvwG4UP7U&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0SGyzlJ4mdFfcPbkxqlGgIoywzModj3NX_06t5SgiTHg&oe=69F92ED8&_nc_sid=d885a2",
+              "username": "geneticallycompromised"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 2391
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17954213660965413",
+            "text": "That's the kind of drug i need.😭",
+            "created_at": 1777475747,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "16860786869",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/558365712_18110085049562870_5613738383293376658_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=VXru0sLEdcsQ7kNvwFY63gd&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0rmJizy4Z445jVyQoCgbZ3Xv7apCOpsqjx-aJ91VED6g&oe=69F947AD&_nc_sid=d885a2",
+              "username": "passyashley"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18334250602223729",
+            "text": "If you don't have children then you are not your parents children👏",
+            "created_at": 1777178753,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "44556686067",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/572031324_18083163212486068_3345481653298604730_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=tQT9DUarP2sQ7kNvwG_D3vy&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af25rXxc9GxOG0plvINDeHxG_qC9C4yogCSYaN6yE5fHxQ&oe=69F91C9D&_nc_sid=d885a2",
+              "username": "the_heart_hacker_vim__02"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 4
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18135777949523609",
+            "text": "I too wana join in bro bcoz whatever the hell you smokin is kind of what I need right now 😭",
+            "created_at": 1775203573,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "80235948995",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/681294250_17863927071676996_611845914021745831_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=BQjGWI8n2vsQ7kNvwHOP2qp&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2UgproflfB5IAAPD1Z7LDkeGYLvQ-tRCJ37-I8VyQxWw&oe=69F92840&_nc_sid=d885a2",
+              "username": "mayverick_07"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 2,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18042042596784338",
+                    "text": "💀",
+                    "created_at": 1777327113,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "6075860955",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/589020445_18349901146204956_5382173867574657965_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODkuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=rULd_cNxgMwQ7kNvwHPu967&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2HGRD-TgSW9KVQan6_zGOFSAiWtEiO4sJqFzvillDayg&oe=69F927E5&_nc_sid=d885a2",
+                      "username": "reebicious"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18115696441741355",
+                    "text": "@reebicious 😭😭",
+                    "created_at": 1777364178,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80235948995",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/681294250_17863927071676996_611845914021745831_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=BQjGWI8n2vsQ7kNvwHOP2qp&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2UgproflfB5IAAPD1Z7LDkeGYLvQ-tRCJ37-I8VyQxWw&oe=69F92840&_nc_sid=d885a2",
+                      "username": "mayverick_07"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18005205968712019",
+            "text": "",
+            "created_at": 1774784566,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "2098864100",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/602151632_18522591748064101_827905681622252261_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=Ua3KFWrisJkQ7kNvwHAkJgK&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0b6bwaX2kHEhPNobqzTPIzMMriaPf_IYHXn4fU1mAmyQ&oe=69F9167F&_nc_sid=d885a2",
+              "username": "alexomil"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 378
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 2,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18098124050513816",
+                    "text": "@alexomil no he’s technically not wrong he’s just expressing it wrong",
+                    "created_at": 1774812207,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "49139780152",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/658269238_18077762468636153_1387801650741595341_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=XgoBUOtZIxYQ7kNvwHODs4i&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3GZnSiE8kd1ATBzQh1PoXCavf1dj230eWNFe5HoX3EDg&oe=69F92C49&_nc_sid=d885a2",
+                      "username": "knifeplaywithventi"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18095922694855456",
+            "text": "😂😂😂",
+            "created_at": 1775155406,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "58061517334",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG8eFwNxM-jH6IF6BydK7QQdqvs0T0MtonfvPLlQyYOx7Ty__3ryMWvnJe1c7DhR8Pc0Pkv8cGSPROKDPQhcSEi&_nc_ohc=N4OOug8neF8Q7kNvwFOp6y1&_nc_gid=8AoddOi_UpHdGOcO_r74pA&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af2s-mh-RQYzzWg4tbONmvLPh4Qe8n2-oB62MIC3VC9dng&oe=69F9376A&_nc_sid=10d13b",
+              "username": "winni_exhq"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 2
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18099243065074237",
+            "text": "🤣🤣🤣🤣l the dealer is problem, probably selling expired stock",
+            "created_at": 1775634525,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "7496438635",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/448092528_1009655910836296_6138900881594225343_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=StQIQboeq-MQ7kNvwHwj4XA&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1Fi1rqoDRTMyrkaobj93E4PbSds5T9F91hz-6Pfijhhw&oe=69F92408&_nc_sid=d885a2",
+              "username": "ndoda_khenyah"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 18
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18071422187251720",
+            "text": "",
+            "created_at": 1775117567,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "32309561100",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/643585562_18094282454073101_4182307725006223952_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDU0LmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=2B-ueBX9LsoQ7kNvwFoiX1Q&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3TGw-itKInvcgeIiL-jeRpaaiNaO3DpknkwdFkmyJBwg&oe=69F925F9&_nc_sid=d885a2",
+              "username": "_.cindys_ndlovu"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18385554946089069",
+            "text": "Wait wait he's onto something.",
+            "created_at": 1774864129,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "62521927913",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/527984134_17931811206087914_6578225860783462972_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=2lTVavgrLnYQ7kNvwHrWT4B&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2kzw6n5Fx61tEirL2QFtYRzDpsxqpV14AmOnH2QvPzAA&oe=69F91796&_nc_sid=d885a2",
+              "username": "sourabh04___"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 56
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18346981453242610",
+                    "text": "@sourabh04___ more like on something a lot of",
+                    "created_at": 1774969668,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "3464018991",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/69242391_384414839147736_2206997910309044224_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MjAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=LC6YWsi42QgQ7kNvwFaBpuA&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1-aVr-AzwZzyf_aO8cbBQw5W85BC0a_pXorSCywbr_nw&oe=69F930AD&_nc_sid=d885a2",
+                      "username": "bosscrazyman"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 3
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18091999541153161",
+            "text": "",
+            "created_at": 1774839800,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "72932377585",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/483713810_623240764016344_7531403995947916258_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=rZLLnZgcXagQ7kNvwFk4v8p&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2tH-T7DDEKercXiebpM_El5teKm2D70HlC5W3HKA1caw&oe=69F94402&_nc_sid=d885a2",
+              "username": "epilytis"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 104
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_hoisted_comment": {
+      "edges": []
+    },
+    "edge_media_preview_comment": {
+      "count": 2142,
+      "edges": [
+        {
+          "node": {
+            "id": "17959952535082540",
+            "text": "",
+            "created_at": 1777550867,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "49702980868",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657566473_18028048526660869_309336181860735440_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=dce-jUUTU30Q7kNvwHo8KgE&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af00BhV4h5BY7ZJUaO8PkPpv_tCWIcuhZkLBPbolzOPiuQ&oe=69F94213&_nc_sid=d885a2",
+              "username": "sounabhh"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false
+          }
+        },
+        {
+          "node": {
+            "id": "18094963115142492",
+            "text": "😂😂😂😂😂😂😂",
+            "created_at": 1777550913,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "241565810",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/588667881_18553126624029811_8942658990433287144_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGc-rniG5zXCubae_dB8nyLuff43lqvx0MHxz_gaLcKLn8_G6zv4jv81a5YfnvIFtI&_nc_ohc=Fi0nHkLgK5gQ7kNvwG2ZC0H&_nc_gid=upiWJ3ZjblXKATicTfbBwg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af28mYJHpqO_OuWTw1fTejhVx5TZkAdCsbxAGU1A4R58lg&oe=69F92355&_nc_sid=d885a2",
+              "username": "kimberly_dior1"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false
+          }
+        }
+      ]
+    },
+    "comments_disabled": false,
+    "commenting_disabled_for_viewer": false,
+    "taken_at_timestamp": 1774750380,
+    "edge_media_preview_like": {
+      "count": 245365,
+      "edges": []
+    },
+    "edge_media_to_sponsor_user": {
+      "edges": []
+    },
+    "is_affiliate": false,
+    "is_paid_partnership": false,
+    "location": null,
+    "nft_asset_info": null,
+    "viewer_has_liked": false,
+    "viewer_has_saved": false,
+    "viewer_has_saved_to_collection": false,
+    "viewer_in_photo_of_you": false,
+    "viewer_can_reshare": true,
+    "is_ad": false,
+    "edge_web_media_to_related_media": {
+      "edges": []
+    },
+    "coauthor_producers": [],
+    "pinned_for_users": []
+  },
+  "commentsRawData": [],
+  "stats": {
+    "topLevelFetched": 0,
+    "repliesFetched": 0,
+    "totalFetched": 0,
+    "igTotal": 2142,
+    "coveragePct": "0.0",
+    "pagesScraped": 0
+  }
+}
