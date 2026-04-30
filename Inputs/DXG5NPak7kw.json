@@ -1,0 +1,1047 @@
+{
+  "shortcode": "DXG5NPak7kw",
+  "mediaId": "3875036127955237168",
+  "igCommentCount": 86,
+  "postRawData": {
+    "__typename": "XDTGraphSidecar",
+    "__isXDTGraphMediaInterface": "XDTGraphSidecar",
+    "id": "3875036127955237168",
+    "shortcode": "DXG5NPak7kw",
+    "thumbnail_src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670429256_17863170999673676_3351837864617315122_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cXUaQZxIl6UQ7kNvwFH7HXw&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af39EXLmAKH6z00EaTnnKSWUx8UGI-WAk-bpVyWRoqFlQg&oe=69F918A7&_nc_sid=d885a2",
+    "dimensions": {
+      "height": 1080,
+      "width": 1080
+    },
+    "gating_info": null,
+    "fact_check_overall_rating": null,
+    "fact_check_information": null,
+    "sensitivity_friction_info": null,
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "media_overlay_info": null,
+    "media_preview": null,
+    "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670429256_17863170999673676_3351837864617315122_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cXUaQZxIl6UQ7kNvwFH7HXw&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3TJd_ssbfPODVibzKrW1u_gE6L2Rl6nNRPkmxELfFPjg&oe=69F918A7&_nc_sid=d885a2",
+    "display_resources": [
+      {
+        "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670429256_17863170999673676_3351837864617315122_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cXUaQZxIl6UQ7kNvwFH7HXw&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af39EXLmAKH6z00EaTnnKSWUx8UGI-WAk-bpVyWRoqFlQg&oe=69F918A7&_nc_sid=d885a2",
+        "config_width": 640,
+        "config_height": 640
+      },
+      {
+        "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670429256_17863170999673676_3351837864617315122_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cXUaQZxIl6UQ7kNvwFH7HXw&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3d0dPOnsiALt9hHvsyfsVUWoD-Xc9NuD9Lrh0g64EVDA&oe=69F918A7&_nc_sid=d885a2",
+        "config_width": 750,
+        "config_height": 750
+      },
+      {
+        "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670429256_17863170999673676_3351837864617315122_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cXUaQZxIl6UQ7kNvwFH7HXw&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0p7N6qPBOu0395PA2eE1zLTQTSSW9kJ3epkusn2Aq8-w&oe=69F918A7&_nc_sid=d885a2",
+        "config_width": 1080,
+        "config_height": 1080
+      }
+    ],
+    "is_video": false,
+    "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMjM4ZTY3NTJjZDU0NGRhZDkwOTY4Y2NkODE1NmE4YzgzODc1MDM2MTI3OTU1MjM3MTY4Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNDM4M3wzODc1MDM2MTI3OTU1MjM3MTY4fDQwOTc5Nzg4NDg0fGFmOGRmMzI2MWJlZjczNDAxNzA0ZWRjNDQ1YTYyYzBkNjViMTUyYTgwYzVmYzkyNWRlNmFlN2U2ZDc5ZDQyMjMifSwic2lnbmF0dXJlIjoiIn0=",
+    "upcoming_event": null,
+    "edge_media_to_tagged_user": {
+      "edges": []
+    },
+    "owner": {
+      "id": "80277033675",
+      "username": "primalgyal",
+      "is_verified": false,
+      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670763662_17863201179673676_5570414051835322267_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cfmAln7kwm4Q7kNvwETOel0&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0XUvIPAa3Smhn7bR0sj2j2_vHI0N5Sa7ft66A4I1OK0Q&oe=69F93248&_nc_sid=d885a2",
+      "blocked_by_viewer": false,
+      "restricted_by_viewer": false,
+      "followed_by_viewer": false,
+      "full_name": "",
+      "has_blocked_viewer": false,
+      "is_embeds_disabled": false,
+      "is_private": false,
+      "is_unpublished": false,
+      "requested_by_viewer": false,
+      "pass_tiering_recommendation": true,
+      "edge_owner_to_timeline_media": {
+        "count": 16
+      },
+      "edge_followed_by": {
+        "count": 2515
+      }
+    },
+    "accessibility_caption": "Photo by @primalgyal on April 14, 2026. May be a graphic of ‎bone, skull and ‎text that says '‎ADULTS CAN ACHIEVE FORWARD GROWTH craniofacial aesthetics Maremam Tom ے - 代‎'‎‎.",
+    "edge_sidecar_to_children": {
+      "edges": [
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3875033462726697682",
+            "shortcode": "DXG4mdOk6LS",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoq6GmM4X39sin01gMZI/SkMj80en6ilWVT7fiP8ai+Uf3vy/8ArVKm08YJ9yP/AK1AElLRRQAgOaWs7Urw2cWV5djhc9u5P4fzrBtJ5JN0sjM7dhuP8un+FMR1fl+7fnT1Xb6n61zhvMhRlgzcY6n8eenpWPLNLG5AZxzxljn+dAHeUVh6PqL3GYpTlgMhu5HcH3Hr+dblAHPeIfux/Vv/AGWsO2mEZw33T9OD6812F1GkgG8BsZxkA+nrVP7LD/cT/vkf4UAZi5fa4AIGTuUcjt2yPx7fWs+8UKwwSeO/1NdVFCiggKoHoAKSaCNsblU4HcA/0oAw9D/4+f8AgLV19Z1tDGj5VVU4PIAB/Sr9ID//2Q==",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670429256_17863170999673676_3351837864617315122_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cXUaQZxIl6UQ7kNvwFH7HXw&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3TJd_ssbfPODVibzKrW1u_gE6L2Rl6nNRPkmxELfFPjg&oe=69F918A7&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670429256_17863170999673676_3351837864617315122_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cXUaQZxIl6UQ7kNvwFH7HXw&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af39EXLmAKH6z00EaTnnKSWUx8UGI-WAk-bpVyWRoqFlQg&oe=69F918A7&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670429256_17863170999673676_3351837864617315122_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cXUaQZxIl6UQ7kNvwFH7HXw&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3d0dPOnsiALt9hHvsyfsVUWoD-Xc9NuD9Lrh0g64EVDA&oe=69F918A7&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670429256_17863170999673676_3351837864617315122_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cXUaQZxIl6UQ7kNvwFH7HXw&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0p7N6qPBOu0395PA2eE1zLTQTSSW9kJ3epkusn2Aq8-w&oe=69F918A7&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by @primalgyal on April 14, 2026. May be a graphic of ‎bone, skull and ‎text that says '‎ADULTS CAN ACHIEVE FORWARD GROWTH craniofacial aesthetics Maremam Tom ے - 代‎'‎‎.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMjM4ZTY3NTJjZDU0NGRhZDkwOTY4Y2NkODE1NmE4YzgzODc1MDMzNDYyNzI2Njk3NjgyIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNDQ0OHwzODc1MDMzNDYyNzI2Njk3NjgyfDQwOTc5Nzg4NDg0fDdlNWExN2EwZTNlZWY1MjUzNzU3YjMwYzFjMjNiOWZiODIzYTVmNTdjNGM2YzNjNjA2MmZhMWVkMjRmNjNhNjQifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3875033469412395351",
+            "shortcode": "DXG4mjdE0lX",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoq3ifQj8aTPutMYcnkU3b7j/P4UhkufdaM+600EjuKcH9cf5/CgBRk+mPxp9MDE9Mfn/8AWp9AEDYz3zTlB98flTTjJ6/n/wDWpAwHTP5//WoAmyfT9RS5Pp/KmjPXr+P/ANamToTtIOMH1x/k0ATUVXljYzKwPTqM9vp3qwaAGFAaXbj1/OiigA4Hf9ajnj8wDGDg55qSigCKWHe6uOqmp6bRQB//2Q==",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670642595_17863171059673676_6778056296141697088_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=RvPasiB75W0Q7kNvwGGd1v_&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2jtNachWDC4neLNzYmteTNltvYGVzrqgL5ueo7NWiwZg&oe=69F93468&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670642595_17863171059673676_6778056296141697088_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=RvPasiB75W0Q7kNvwGGd1v_&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0gud0tRDkMuxS3lqRW-RiI3rHTPHf4dQj0DXBUxvwiHw&oe=69F93468&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670642595_17863171059673676_6778056296141697088_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=RvPasiB75W0Q7kNvwGGd1v_&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0LUvm7gwi2s_H-6Bw22iq3B61MAu8kALGIExkuZ0SgMw&oe=69F93468&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670642595_17863171059673676_6778056296141697088_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=RvPasiB75W0Q7kNvwGGd1v_&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2ieFHX-j94zbHABtUDmgLQT7k8XNTTirV90CM1sU-HmA&oe=69F93468&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by @primalgyal on April 14, 2026. May be an image of poster and text.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMjM4ZTY3NTJjZDU0NGRhZDkwOTY4Y2NkODE1NmE4YzgzODc1MDMzNDY5NDEyMzk1MzUxIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNDQ0OHwzODc1MDMzNDY5NDEyMzk1MzUxfDQwOTc5Nzg4NDg0fDAwNDNhMTNhYTlmZWQ0YTcwODNmNTUyNDg5NzQyMzU2NzZjMWUwNGNjNmZmOGZjZmM4ZWY0MjcwMzg3M2Y3NzUifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3875033500106308438",
+            "shortcode": "DXG4nACkztW",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoq3WJHQf5/OmeY3oPyNKWOcZpw3f8A6sUhiqSeox/n61SSeVmJC5QAnpxxnGD1z0+tXeff8x/hSjPcn9P8KBFeBnc4PPAOeO+cjj+VWqaBjv8Ay/wp1HqP0IGIyeP1pwJIz/X/AOtSHr0H5/8A16THsPz/APr0ASYP+T/9alGR/wDr/wDrVH+X5/8A16eucdv1NADh70tN+b2/WnUAMMYNHlilooATaopdg9KKKADYPSnYptFAH//Z",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670253539_17863171053673676_4499003729328713820_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=sFG-osuH-oQQ7kNvwFN1_fd&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3taVFc2cHqfam2PUtTtb7mFmhnu4JyijH4MFVbJJnl-A&oe=69F9245C&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670253539_17863171053673676_4499003729328713820_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=sFG-osuH-oQQ7kNvwFN1_fd&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3KcYTvYQYe1u8SfSdQaUjkRqrwSmFmQAYlrloHl7XO9w&oe=69F9245C&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670253539_17863171053673676_4499003729328713820_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=sFG-osuH-oQQ7kNvwFN1_fd&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af39CnxeZ_csB6dQizU34rAklykF_ephu2ipa4eAm2ZAFw&oe=69F9245C&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670253539_17863171053673676_4499003729328713820_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=sFG-osuH-oQQ7kNvwFN1_fd&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0H1UzLDHT_qbaKpzykAnGBqMJ5TX3pPLfY5OsohY5vTQ&oe=69F9245C&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by @primalgyal on April 14, 2026. May be a graphic of map, poster, magazine and text.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMjM4ZTY3NTJjZDU0NGRhZDkwOTY4Y2NkODE1NmE4YzgzODc1MDMzNTAwMTA2MzA4NDM4Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNDQ0OXwzODc1MDMzNTAwMTA2MzA4NDM4fDQwOTc5Nzg4NDg0fDYyNGNiYjY2NDk5ZGUxMjE3ZDFiNWI2Yzg3YjA1Mzk3M2Y2OTA2MDE5NTQxMWJiNGE5ZDUxOTkxZmQ1N2ZmNDIifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3875033501079391231",
+            "shortcode": "DXG4nA8k0v_",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoq6J5NpxjOaiaQMeh4pPMY9D3pPMb1oAUMOmCc07P+y1IJGAPtimmVj3FAEyvzjB+pqWqwlPtUgckZoAr/AONJkf5+lISecD9aQ789qAJoz1qQpkgg4H0FQR5wd2B0qfcoxz0//VQA0RkA8/1qYDFRlhyOOff/AOtUm4UAVD/X/P8An+lJTSev1/rQf8aAH4+U/hRnNJ2P4Uw9Pz/pQA/NTr0FV+9Wl6D6UAf/2Q==",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/669974502_17863171065673676_299343300490264707_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=QpF15hnDVzAQ7kNvwFm7E7M&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0Zlh2cjeclXn74cmVfq4tl0QWekbKPh5Ku-OQQEkfd7A&oe=69F919E1&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/669974502_17863171065673676_299343300490264707_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjkweDEyOTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=QpF15hnDVzAQ7kNvwFm7E7M&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af01Fg-ClJoJ6kEVYQazvSzKJnb2OmWGVo73kWEWW4CJ0w&oe=69F919E1&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/669974502_17863171065673676_299343300490264707_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjkweDEyOTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=QpF15hnDVzAQ7kNvwFm7E7M&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1THlaYETrpZxc9L-K5187LwJZCp6gEx7r_cy2FaUH1Ig&oe=69F919E1&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/669974502_17863171065673676_299343300490264707_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjkweDEyOTAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=QpF15hnDVzAQ7kNvwFm7E7M&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1fwIL2IaJH15KW4r39iWFJnaQmzL7UkymXlWNH60XYeQ&oe=69F919E1&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by @primalgyal on April 14, 2026. May be an image of newspaper, magazine and text.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMjM4ZTY3NTJjZDU0NGRhZDkwOTY4Y2NkODE1NmE4YzgzODc1MDMzNTAxMDc5MzkxMjMxIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNDQ0OXwzODc1MDMzNTAxMDc5MzkxMjMxfDQwOTc5Nzg4NDg0fGM2ZWNhN2NjNmEzZWVmNGYxOGE4YjRhMjFlMzc2ODJkYzM1YTk4NmU0NTJmODUzZGEwOTc2MWRjZDk5MzVhM2YifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3875033477087991386",
+            "shortcode": "DXG4mqmk5Za",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoq6Cm5Pp+tMYnJ5x+f+FJk+v8AP/CkMkyfT9RS5Pp+tR8+v8/8KPm9f5/4UATUUwAjrz+P/wBan0AQnG7kVIuCMimFsHvSbx7/AJ0ATUVHuX1P5mgFT3P5mgCSimcev60+gBu0HtRsHpRRQAm1fan4ptFADqKbRQB//9k=",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670660395_17863171038673676_6141061868190479659_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=xladM97k_8gQ7kNvwHnapGF&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3UHstQ5ysKbMPSwFltvesBWb8d29MViCUBukpciW8M_w&oe=69F92A27&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670660395_17863171038673676_6141061868190479659_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=xladM97k_8gQ7kNvwHnapGF&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af23en5LTF_wNVz9QgCbZ1egmloBKr-PDzmpX06qLLKZQQ&oe=69F92A27&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670660395_17863171038673676_6141061868190479659_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=xladM97k_8gQ7kNvwHnapGF&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2MrsxRH5n1VO74AzbFxvkP9eUlU_t9vcAOgzBRuekcjg&oe=69F92A27&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/670660395_17863171038673676_6141061868190479659_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=xladM97k_8gQ7kNvwHnapGF&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0OAsdggbpFiUND_a2ZPHrVwRuoJ8zuE6iBUYoiMO4PbQ&oe=69F92A27&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by @primalgyal on April 14, 2026. May be an image of poster, magazine and text.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMjM4ZTY3NTJjZDU0NGRhZDkwOTY4Y2NkODE1NmE4YzgzODc1MDMzNDc3MDg3OTkxMzg2Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNDQ0OXwzODc1MDMzNDc3MDg3OTkxMzg2fDQwOTc5Nzg4NDg0fDI2YjdhNWVjYzcxNDc2Y2ZiZjBjZDRmZjk2MGZmMzk3NTUxOGY4NzcwZWU2MzcwNWViMzRhNzcxMjExYzQyYTMifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_caption": {
+      "edges": [
+        {
+          "node": {
+            "created_at": "1776172192",
+            "text": "Bone isn’t set after puberty, It’s still responding\n#craniofacialstructure #craniology #MARPE",
+            "id": "18047280812739535"
+          }
+        }
+      ]
+    },
+    "can_see_insights_as_brand": false,
+    "caption_is_edited": true,
+    "has_ranked_comments": true,
+    "like_and_view_counts_disabled": false,
+    "edge_media_to_parent_comment": {
+      "count": 86,
+      "page_info": {
+        "has_next_page": true,
+        "end_cursor": "{\"bifilter_token\": \"KGEA4EWLYJ1-PwBhGZb23Z8_AGII2GleL0AA5FEG9g5NQADHl5anNPQ_AEdz8Va0yz8AC2oKEnpCQAB0xLePzTxAAJgLaNkzNUAAefG1A8hdQAC9bfygPWBAAP_MCM9OqD8AAA==\"}"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "17956898945987399",
+            "text": "What should I do at 16?",
+            "created_at": 1776169947,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "53861727299",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/568185537_18011073896799300_4746119796548135838_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=G7E4p9t5sq4Q7kNvwHy0ApA&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af20gavLgZlEH2vGDPIpbveZBEAl4SZuIFMkZ91XzhWSKA&oe=69F933DB&_nc_sid=d885a2",
+              "username": "rydr555"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 7,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFBa3YtU3lHeUFLQkpYaXFWUU5lclEwcS1iV0lVMWpmR0lqN2JYSnZQZ0JFTjhVbDRWTXJlblBUcXdxRUxiVDd5TG5pSGVzMjZ0aURiSXFGNXJLZmZWTw=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18095831144028914",
+                    "text": "@rydr555 yes he does",
+                    "created_at": 1776170819,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80277033675",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670763662_17863201179673676_5570414051835322267_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cfmAln7kwm4Q7kNvwETOel0&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0XUvIPAa3Smhn7bR0sj2j2_vHI0N5Sa7ft66A4I1OK0Q&oe=69F93248&_nc_sid=d885a2",
+                      "username": "primalgyal"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18094275440325198",
+                    "text": "A regular tooth borne expander might still work at your age but I am unsure. Anyway focus on attaining growth hormone to max out your development and height.",
+                    "created_at": 1776175514,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80049425848",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/612990627_17846962992665849_6680488917194169863_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=8u9xDIsi-toQ7kNvwFUU3Gd&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1YyoPwRgQ7aaEU6o2c9eCketgFiNH_GIHkkg48UT8f9A&oe=69F91FD8&_nc_sid=d885a2",
+                      "username": "thaas21_"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18149731633480702",
+                    "text": "@thaas21_ tooth borne will just tip the teeth, thumbpulling consistently would be more sufficient",
+                    "created_at": 1776179980,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80277033675",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670763662_17863201179673676_5570414051835322267_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cfmAln7kwm4Q7kNvwETOel0&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0XUvIPAa3Smhn7bR0sj2j2_vHI0N5Sa7ft66A4I1OK0Q&oe=69F93248&_nc_sid=d885a2",
+                      "username": "primalgyal"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18081252086629492",
+            "text": "🙌🙌",
+            "created_at": 1776169499,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "1996118972",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/621090349_18519939268070973_1444618855430338631_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=dd-yg7U0hPIQ7kNvwEDuE8B&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0mJQTHmRzOukoHE7zYZm6qD86ICP3Gng2E38v5gbZeCA&oe=69F920C6&_nc_sid=d885a2",
+              "username": "vincentyaldoo"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18066481058678882",
+            "text": "So good 🔥🔥",
+            "created_at": 1776207099,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "66524105510",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/618139034_17922546522217511_5939507775442077591_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=d7pwnRX1ev8Q7kNvwEvzCxk&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3ZwM95zJyB9C2_PowlrZAseIdPDR9IfsKfc9zNWAViJw&oe=69F91DE9&_nc_sid=d885a2",
+              "username": "primalbarbiee"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 2
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18099125161972196",
+            "text": "Im 17 and currently have MARPE. I drink raw dairy and eat lots of lamb and grassfed beef while trying to maximize my fat intake. I sunbathe everyday for vitamin d and do GOATA exercises to align my posture. What else can i do to truly maximize my marpe experience and potential?",
+            "created_at": 1776169263,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "48805706362",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/530244764_18055113794626363_506501791389802446_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=RW13Fl4cZnAQ7kNvwFHDRNI&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1UwAtI6mCJU4c2MkPV_IhRki26Hlw2DS51X4LXGTa40w&oe=69F940A4&_nc_sid=d885a2",
+              "username": "jordan__b18"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 11
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 8,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFCejRKRUUwbi1PckZNeXFVS0QyNmFySnl5Y2FELWhyRTljSk5UVGo2NXdmVGNxQjlOM0p0MFdBSnpRQjNlWjRGZjFMenpZWFFlcEFReVN2Q0tidUhlWA=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18071093915281945",
+                    "text": "@jordan__b18 oh I know jawhacks I follow him. Personally I think it's not as easy for me at 21 to correct my Jaws with simple bite techniques etc. I guess you live in the US where all the good providers seem to be based.",
+                    "created_at": 1776175840,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80049425848",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/612990627_17846962992665849_6680488917194169863_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=8u9xDIsi-toQ7kNvwFUU3Gd&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1YyoPwRgQ7aaEU6o2c9eCketgFiNH_GIHkkg48UT8f9A&oe=69F91FD8&_nc_sid=d885a2",
+                      "username": "thaas21_"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18071647019274222",
+                    "text": "@jordan__b18 what do you mean by do goata?",
+                    "created_at": 1776597499,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "38955782",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/540687201_18525915853043783_7255667340503571757_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=MB5jTwbyGjUQ7kNvwEf5M9P&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1U1d3DOPpp1zKETlXJdxpoEZ6PagpKplnp1Vh3i4MIVA&oe=69F91E71&_nc_sid=d885a2",
+                      "username": "australian_sportsfan_ig_user91"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18091269971466095",
+                    "text": "@primalgyal can you please send me your marpe guide? Thanks either way.",
+                    "created_at": 1776892217,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "70267001435",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFGC81QLtxDY-ILxe2s2y4bDegssn3UvtXXe-Se0LCnm5lODOrJbtQcoDbsLZ9_xvMJTu_3c2TiIZAdqy61UT_g&_nc_ohc=N4OOug8neF8Q7kNvwHW2BOv&edm=AAAAAAABAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af0t1AmRSke4rUAKNsJhL4KDdAl_MF3El6BtaYqr-9HSyA&oe=69F9376A&_nc_sid=328259",
+                      "username": "that.oneusername"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18001430519912391",
+            "text": "🔥🔥🔥",
+            "created_at": 1776179799,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "78329372467",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/624615547_17855232486612468_7812654000817402705_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=Xx2_HCxNXM0Q7kNvwHintbB&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1ftv5wreoO-2kR9mxZ7HW2ClGsLlDGNyrmrKs6lB8Mag&oe=69F9391B&_nc_sid=d885a2",
+              "username": "kareena.raw.wellness"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18072895316560792",
+            "text": "Mam pls reply\nI am 20 yrs old and just finished invisalign treatment and wearing retainers now. I badly want to do thumbpulling adn mewing but they say that retainers resist the force and result . Wt to do i want to grow my facial bones.  Pls help me.",
+            "created_at": 1776181211,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "61115808432",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFGC81QLtxDY-ILxe2s2y4bDegssn3UvtXXe-Se0LCnm5lODOrJbtQcoDbsLZ9_xvMJTu_3c2TiIZAdqy61UT_g&_nc_ohc=N4OOug8neF8Q7kNvwHW2BOv&edm=AAAAAAABAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af0t1AmRSke4rUAKNsJhL4KDdAl_MF3El6BtaYqr-9HSyA&oe=69F9376A&_nc_sid=328259",
+              "username": "rk12345269"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 3,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18101383990971799",
+                    "text": "@rk12345269 i would honestly recommend not using retainers cause thatll restrict ur jaw from growing, but also on the flipside it could potentially mess up the “perfect smile” look",
+                    "created_at": 1776185763,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "48805706362",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/530244764_18055113794626363_506501791389802446_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=RW13Fl4cZnAQ7kNvwFHDRNI&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1UwAtI6mCJU4c2MkPV_IhRki26Hlw2DS51X4LXGTa40w&oe=69F940A4&_nc_sid=d885a2",
+                      "username": "jordan__b18"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18143683585441865",
+                    "text": "@rk12345269 DO NOT wear retainers",
+                    "created_at": 1776185871,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80277033675",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670763662_17863201179673676_5570414051835322267_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cfmAln7kwm4Q7kNvwETOel0&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0XUvIPAa3Smhn7bR0sj2j2_vHI0N5Sa7ft66A4I1OK0Q&oe=69F93248&_nc_sid=d885a2",
+                      "username": "primalgyal"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17887567341468098",
+                    "text": "@rk12345269 get Reviv, eat whole raw steak with your hands (pulling motion for forward growth), chew on raw fat for fun, myo functional exercises, mewing 24/7 lots of sleep n SUN",
+                    "created_at": 1776186087,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80277033675",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670763662_17863201179673676_5570414051835322267_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cfmAln7kwm4Q7kNvwETOel0&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0XUvIPAa3Smhn7bR0sj2j2_vHI0N5Sa7ft66A4I1OK0Q&oe=69F93248&_nc_sid=d885a2",
+                      "username": "primalgyal"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 5
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18120216319651261",
+            "text": "Bones can change, but that's completely different from growth. Adult bone can remodel or distort, depending on the direction and force applied. MARPE does none of this, it is a semi surgical expander and not a natural growth or remodeling process. It mechanically distorts bone. I'm not judging it as good or bad, but it's important to be clear about what's happening.",
+            "created_at": 1776803015,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "60685028097",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/454265685_516674777585060_7193897152713296271_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzUuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=as1o2cN5LE0Q7kNvwEDLBkr&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0KzPJWqHQzR-gmgBTOVzOBlrXDmjkNlfc_xJPB_mtQgA&oe=69F918B5&_nc_sid=d885a2",
+              "username": "cranialdental"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 2
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17936066457217581",
+                    "text": "@cranialdental doesn’t marpe allow new bone to fill in and then that bone remains permanent?",
+                    "created_at": 1776892266,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "70267001435",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFGC81QLtxDY-ILxe2s2y4bDegssn3UvtXXe-Se0LCnm5lODOrJbtQcoDbsLZ9_xvMJTu_3c2TiIZAdqy61UT_g&_nc_ohc=N4OOug8neF8Q7kNvwHW2BOv&edm=AAAAAAABAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af0t1AmRSke4rUAKNsJhL4KDdAl_MF3El6BtaYqr-9HSyA&oe=69F9376A&_nc_sid=328259",
+                      "username": "that.oneusername"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17872137927476704",
+            "text": "Truth bomb",
+            "created_at": 1776198240,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "10415013772",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670146411_18198750913349773_7118581556752730773_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=hAAGhCNmht0Q7kNvwH_ixk8&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0lPmZ83cuWgkQ0GaSXtXH4lTUQBumT5C26mZrLUUCLJA&oe=69F93B1D&_nc_sid=d885a2",
+              "username": "primaljayy"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18117512146579833",
+            "text": "¿Te puedo hacer una pregunta? Conoces la cuenta de mewology? Has visto su cambio? Todo con reviv y técnicas myo",
+            "created_at": 1776185887,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "5401422090",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/641745810_18399404638182091_1539328928112565571_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=gXVnY-7oCgYQ7kNvwHaXtBE&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2vAhzWMxGrdvGKfH8x3NN3YBdEPd8XdYM7e3GdBy_ewg&oe=69F944D7&_nc_sid=d885a2",
+              "username": "spanishfighter94"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18162170101437391",
+                    "text": "@spanishfighter94 Avanzo bastante!!! Un saludo desde España",
+                    "created_at": 1776185904,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "5401422090",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/641745810_18399404638182091_1539328928112565571_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=gXVnY-7oCgYQ7kNvwHaXtBE&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2vAhzWMxGrdvGKfH8x3NN3YBdEPd8XdYM7e3GdBy_ewg&oe=69F944D7&_nc_sid=d885a2",
+                      "username": "spanishfighter94"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18087490565597707",
+            "text": "Pissed i cant afford marpe at 16 rn",
+            "created_at": 1776562676,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "73894783048",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/659032947_17886868638463049_6570831906313927297_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=a61OL4pelLcQ7kNvwFBP5Hv&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2PEmxJc5KV3-g_ADk-PGdsMknZsgFDQn9ix1FYuyGhpQ&oe=69F91D5A&_nc_sid=d885a2",
+              "username": "gosh.dmg"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18101117479806390",
+                    "text": "@gosh.dmg If I were you I would do thumb pulling (and maybe follow  levio's exercises). I'm 42 and thumb pulling allowed me to get my tongue on my palate. Given your age, you could make great progress if you do it carefully.",
+                    "created_at": 1777079987,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "79034928496",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFGC81QLtxDY-ILxe2s2y4bDegssn3UvtXXe-Se0LCnm5lODOrJbtQcoDbsLZ9_xvMJTu_3c2TiIZAdqy61UT_g&_nc_ohc=N4OOug8neF8Q7kNvwHW2BOv&edm=AAAAAAABAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af0t1AmRSke4rUAKNsJhL4KDdAl_MF3El6BtaYqr-9HSyA&oe=69F9376A&_nc_sid=328259",
+                      "username": "suz.glee"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17908699206392161",
+            "text": "The his snowbunny is🔥but why’d she fuk up her lips thoo🙄",
+            "created_at": 1776826124,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "647754953",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/365858274_1036287400758575_7763356118951426075_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MTQuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=iO41u0EcVLQQ7kNvwEf6cCV&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0GtiSiUTQRtkZz93iS6kiH6KbJdj0fQs5z4K4kOB-Tnw&oe=69F92CEB&_nc_sid=d885a2",
+              "username": "therealcoremaster"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 6,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFDZzRSeDQ5a3MyLTVIQXpCb2VwM3ExanB2eW0wNFo2bFlPb3FweWk5MXN1WWlFdm5OODZLbExvSzlLZUt2Vkx6SFFkNG8wRENQcGU4Vlh4TDlGZkIxTQ=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18075746015208275",
+                    "text": "@therealcoremaster lips are hormone responsive, when women are healthy lips will inflate, if they are unhealthy they will deflate",
+                    "created_at": 1776826746,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80277033675",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670763662_17863201179673676_5570414051835322267_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cfmAln7kwm4Q7kNvwETOel0&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0XUvIPAa3Smhn7bR0sj2j2_vHI0N5Sa7ft66A4I1OK0Q&oe=69F93248&_nc_sid=d885a2",
+                      "username": "primalgyal"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18004326416871124",
+                    "text": "@primalgyal some reason I thought u injected the bottom lips mine naturally grew after this one nerd 🤓 girl bit mine 🫦 what’s your ethnicity!???",
+                    "created_at": 1776827170,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "647754953",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/365858274_1036287400758575_7763356118951426075_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MTQuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=iO41u0EcVLQQ7kNvwEf6cCV&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0GtiSiUTQRtkZz93iS6kiH6KbJdj0fQs5z4K4kOB-Tnw&oe=69F92CEB&_nc_sid=d885a2",
+                      "username": "therealcoremaster"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17979788477990672",
+                    "text": "@primalgyal  I want to try facepulling and all that because I don’t have cheekbones. I was I to all this in like 2013/4 and then fell off sooooo hard… barely waking up again",
+                    "created_at": 1777089156,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "79948289317",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/670844713_17869321203665318_6158849433788077847_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=7OLnUlLJ6VgQ7kNvwETo8wJ&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3Q9P39DOBQn3Dx6yj85MlvzSDPbiujMEk1HsNStsvKLQ&oe=69F92978&_nc_sid=d885a2",
+                      "username": "marlene17318"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17917979967147263",
+            "text": "@primalgyal it means bones can grow taller also?",
+            "created_at": 1776740356,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "60941022765",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/527509800_17940009804030766_7284623817788605822_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=lJBdhet0WEMQ7kNvwEZdY93&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1gvd2sbznQMJ-hhmdPn1_jutsTVwI7YblpxQwitj1rNA&oe=69F93983&_nc_sid=d885a2",
+              "username": "itz__singhz"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18134570065534369",
+                    "text": "@itz__singhz yes",
+                    "created_at": 1776741589,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80277033675",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670763662_17863201179673676_5570414051835322267_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=cfmAln7kwm4Q7kNvwETOel0&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0XUvIPAa3Smhn7bR0sj2j2_vHI0N5Sa7ft66A4I1OK0Q&oe=69F93248&_nc_sid=d885a2",
+                      "username": "primalgyal"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_hoisted_comment": {
+      "edges": []
+    },
+    "edge_media_preview_comment": {
+      "count": 86,
+      "edges": [
+        {
+          "node": {
+            "id": "17848343328692928",
+            "text": "spartanlab dot shop offers premium quality 🧫📦",
+            "created_at": 1777244880,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "22560592250",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/682702113_18103440727752251_5919087702925378017_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=qcTnoklIOpQQ7kNvwEB87xI&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3dKl6Ptgqk2dpA768l8CAJpEXdcXXtePpPO2Sf1jZL_g&oe=69F9295B&_nc_sid=d885a2",
+              "username": "bilal620332026"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false
+          }
+        },
+        {
+          "node": {
+            "id": "17848357071694980",
+            "text": "im 20 would this just be cope for me to listen to",
+            "created_at": 1777407780,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "52832904449",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/657892586_18042500633760450_5292734411189933393_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHNVEpZjZd8Dr0laTq1jUZL--aJkpnQLJpcO0xZ9FlL7wq97ii__E-n5pFADbrON_U&_nc_ohc=nC6iCjlLXLYQ7kNvwG9PQhC&_nc_gid=v6RSs0WGNi1w0TujxME24Q&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1yKtIdR8HdC6j4Ja4hlBphQAX_ov9AifstH-cRId5-bQ&oe=69F9219A&_nc_sid=d885a2",
+              "username": "c0nnormorrison"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false
+          }
+        }
+      ]
+    },
+    "comments_disabled": false,
+    "commenting_disabled_for_viewer": false,
+    "taken_at_timestamp": 1776160325,
+    "edge_media_preview_like": {
+      "count": 1210,
+      "edges": []
+    },
+    "edge_media_to_sponsor_user": {
+      "edges": []
+    },
+    "is_affiliate": false,
+    "is_paid_partnership": false,
+    "location": null,
+    "nft_asset_info": null,
+    "viewer_has_liked": false,
+    "viewer_has_saved": false,
+    "viewer_has_saved_to_collection": false,
+    "viewer_in_photo_of_you": false,
+    "viewer_can_reshare": true,
+    "is_ad": false,
+    "edge_web_media_to_related_media": {
+      "edges": []
+    },
+    "coauthor_producers": [],
+    "pinned_for_users": []
+  },
+  "commentsRawData": [],
+  "stats": {
+    "topLevelFetched": 0,
+    "repliesFetched": 0,
+    "totalFetched": 0,
+    "igTotal": 86,
+    "coveragePct": "0.0",
+    "pagesScraped": 0
+  }
+}
