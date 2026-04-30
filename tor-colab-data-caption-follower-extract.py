@@ -1,7 +1,7 @@
 # ╔══════════════════════════════════════════════════════════════════════════╗
 # ║     UNIVERSAL INSTAGRAM EXTRACTOR - PRO AUTO-BATCH & ORGANIZER           ║
 # ║  Modules: RawData | CleanData | Following | Suggested | Tagged Posts     ║
-# ║  Features: Auto-Move JSONs | Dynamic Batch Folder | 12-Threads Parallel  ║
+# ║  Features: K8S Env Vars | Deep CSV Reports | Audio MP3 | 30-Threads      ║
 # ╚══════════════════════════════════════════════════════════════════════════╝
 
 import os, json, re, glob, requests, csv, sys, signal, threading, shutil
@@ -9,22 +9,23 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 
 # ════════════════════════════════════════════════════════════════════
-#  SECTION 1 ── DYNAMIC PATH & BATCH CONFIG
+#  SECTION 1 ── DYNAMIC PATH & BATCH CONFIG (K8s / Grid Ready)
 # ════════════════════════════════════════════════════════════════════
 BASE_DIR   = '.'
-INPUT_FOLDER = os.path.join(BASE_DIR, 'datasets')
+# ── Matrix worker se env var aata hai — warna default ──
+INPUT_FOLDER = os.environ.get("INPUT_FOLDER",  os.path.join(BASE_DIR, 'datasets'))
 
 # Script ki apni location (loose JSON files dhoondne ke liye)
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Real-time Batch Folder — har run par naya folder banega
+# Real-time Batch Folder — worker.py se env var aata hai, warna naya banao
 now = datetime.now()
 folder_timestamp  = now.strftime("%Y-%m-%d-%A_%I-%M-%S-%p")
 BATCH_FOLDER_NAME = f"Batch--{folder_timestamp}"
-OUTPUT_FOLDER     = os.path.join(BASE_DIR, BATCH_FOLDER_NAME)
+OUTPUT_FOLDER     = os.environ.get("OUTPUT_FOLDER", os.path.join(BASE_DIR, BATCH_FOLDER_NAME))
 
 # --- Limits & Behaviour ---
-MAX_WORKERS    = 12
+MAX_WORKERS    = int(os.environ.get("MAX_WORKERS", "30"))  # matrix: 30 per node
 DOWNLOAD_MEDIA = True
 ITEM_LIMIT     = 5000000000
 MAX_PFP_PER_RUN = 99999999
@@ -35,17 +36,13 @@ STATE_FILE      = os.path.join(OUTPUT_FOLDER, "resume_state.json")
 #  SECTION 2 ── AUTO-ORGANIZER  (Loose JSON → datasets folder)
 # ════════════════════════════════════════════════════════════════════
 def organize_input_files():
-    """
-    Script ke sath (SCRIPT_DIR) ya /data mein pari hui loose JSON files
-    ko utha kar INPUT_FOLDER (datasets) mein move karta hai.
-    """
     os.makedirs(INPUT_FOLDER, exist_ok=True)
-
-    # Dono jagah dhoondein: script ki directory + /data root
-    search_dirs = set([SCRIPT_DIR, '/data'])
+    # Search dirs mein 'Inputs' add kiya gaya hai
+    search_dirs = set([SCRIPT_DIR, '/data', os.path.join(BASE_DIR, 'Inputs')])
     loose_jsons = []
     for d in search_dirs:
-        loose_jsons += glob.glob(os.path.join(d, '*.json'))
+        if os.path.exists(d):
+            loose_jsons += glob.glob(os.path.join(d, '*.json'))
 
     SKIP_NAMES = {'resume_state.json', 'package.json', 'package-lock.json'}
     moved_count = 0
@@ -54,7 +51,6 @@ def organize_input_files():
         file_name = os.path.basename(file_path)
         if file_name in SKIP_NAMES:
             continue
-        # Agar file already INPUT_FOLDER ke andar hai to skip
         if os.path.abspath(file_path) == os.path.abspath(os.path.join(INPUT_FOLDER, file_name)):
             continue
         dest_path = os.path.join(INPUT_FOLDER, file_name)
@@ -205,7 +201,6 @@ def update_avatar_cache(user_dict):
 
     with cache_lock:
         best = _avatar_cache.get(uname, {'url': None, 'width': 0})
-
         hd_info = user_dict.get('hd_profile_pic_url_info')
         if isinstance(hd_info, dict) and hd_info.get('url'):
             w = hd_info.get('width', 1080)
@@ -331,23 +326,18 @@ def get_caption(item):
 #  SECTION 7b ── ENTERPRISE METRICS EXTRACTOR
 # ════════════════════════════════════════════════════════════════════
 def get_best_metric(node, keys):
-    """Deep metric extractor — handles both dict-count and direct int formats."""
     for key in keys:
         val = node.get(key)
         if val is None: continue
-        # Format 1: {'count': 123}
         if isinstance(val, dict) and 'count' in val:
             try: return int(val['count'])
             except: pass
-        # Format 2: direct integer (e.g. video_view_count: 1633480)
         if isinstance(val, (int, float)):
             try: return int(val)
             except: pass
-        # Format 3: numeric string
         if isinstance(val, str) and val.strip().lstrip('-').isdigit():
             try: return int(val.strip())
             except: pass
-    # Try one level deeper in common wrapper keys
     for sub in ('xdt_shortcode_media', 'media_or_ad', 'media'):
         sub_node = node.get(sub)
         if isinstance(sub_node, dict):
@@ -413,10 +403,8 @@ def extract_comments_globally(data):
             seen.add(key)
             cmap.setdefault(pid, []).append(c)
 
-    # ── FIX A: Master Dataset {data:[{shortcode, raw_comments_list, raw_post_data}]} ──
-    # Comments pk/id se deduplicate karke shortcode aur numeric_id dono se map karna
     if isinstance(data, dict) and isinstance(data.get('data'), list):
-        _sc_seen = {}  # shortcode -> set of pks (per-shortcode dedup)
+        _sc_seen = {}
         for entry in data['data']:
             if not isinstance(entry, dict): continue
             sc = entry.get('shortcode', '')
@@ -429,7 +417,6 @@ def extract_comments_globally(data):
                     _sc_seen[sc].add(ck)
                     cmap.setdefault(sc, []).append(c)
                     seen.add(ck)
-            # xdt_shortcode_media ka numeric id se bhi map karo
             rp = entry.get('raw_post_data')
             if isinstance(rp, dict):
                 xdt = (rp.get('data') or {}).get('xdt_shortcode_media') or {}
@@ -437,7 +424,6 @@ def extract_comments_globally(data):
                 if nid and nid != sc:
                     for c in cmap.get(sc, []):
                         _add(nid, c)
-    # ── END FIX A ───────────────────────────────────────────────────
 
     def _walk(obj, cur_pid=None):
         if isinstance(obj, dict):
@@ -446,7 +432,6 @@ def extract_comments_globally(data):
             if 'owner' in obj: update_avatar_cache(obj['owner'])
             if 'user'  in obj: update_avatar_cache(obj['user'])
 
-            # NEW LOGIC HANDLER ADDED HERE (Original bacha kar rakha hai)
             pid = str(obj.get('id') or obj.get('pk') or obj.get('shortcode') or '')
             if '_' in pid and not pid.startswith('item_'): pid = pid.split('_')[0]
 
@@ -457,7 +442,6 @@ def extract_comments_globally(data):
             if 'raw_comments_list' in obj and isinstance(obj['raw_comments_list'], list):
                 for c in obj['raw_comments_list']:
                     _add(pid or cur_pid, c)
-            # END OF NEW LOGIC HANDLER
 
             if 'text' in obj and 'created_at' in obj and ('owner' in obj or 'user' in obj):
                 cpid = str(obj.get('media_id') or cur_pid or '')
@@ -473,7 +457,6 @@ def extract_comments_globally(data):
 def find_raw_posts(data, require_owner=False):
     found = []
 
-    # ── FIX B: Master Dataset format — xdt_shortcode_media ko post ki tarah extract karna ──
     if isinstance(data, dict) and isinstance(data.get('data'), list):
         for entry in data['data']:
             if not isinstance(entry, dict): continue
@@ -484,10 +467,9 @@ def find_raw_posts(data, require_owner=False):
                 xdt = (rp.get('data') or {}).get('xdt_shortcode_media')
             if isinstance(xdt, dict) and xdt.get('id'):
                 if sc and not xdt.get('shortcode'):
-                    xdt = dict(xdt)        # mutate mat karo original ko
+                    xdt = dict(xdt)
                     xdt['shortcode'] = sc
                 found.append(xdt)
-    # ── END FIX B ───────────────────────────────────────────────────
 
     def _walk(obj, in_carousel=False):
         if isinstance(obj, dict):
@@ -561,7 +543,7 @@ def extract_active_stories_advanced(data):
     return story_items
 
 # ════════════════════════════════════════════════════════════════════
-#  SECTION 9 ── MULTI-THREADED UNIFIED POST DOWNLOADER
+#  SECTION 9 ── MULTI-THREADED UNIFIED POST DOWNLOADER (UPGRADED)
 # ════════════════════════════════════════════════════════════════════
 def _build_filenames(post_node, global_username, media_source='raw'):
     nid = str(post_node.get('id') or post_node.get('pk') or '')
@@ -623,7 +605,10 @@ def _build_filenames(post_node, global_username, media_source='raw'):
 
     return {
         'numeric_id': nid, 'base_name': base_name, 'suffix': suffix, 'code': code,
-        'meta_name': meta_name, 'cmts_name': cmts_name, 'report_name': report_name, 'audio_meta_name': audio_meta_name, 'audio_mp3_name': audio_mp3_name, 'master_csv_name': master_csv_name, 'location_csv_name': location_csv_name, 'tagged_csv_name': tagged_csv_name,
+        'meta_name': meta_name, 'cmts_name': cmts_name, 'report_name': report_name, 
+        'audio_meta_name': audio_meta_name, 'audio_mp3_name': audio_mp3_name, 
+        'master_csv_name': master_csv_name, 'location_csv_name': location_csv_name, 
+        'tagged_csv_name': tagged_csv_name,
         'is_highlight': is_hl, 'is_active_story': is_active_story,
         'user': user, 'user_val': uval, 'caption': cap_raw,
     }
@@ -704,7 +689,6 @@ def _process_single_post(node, idx, out_dir, global_username, comments_map, medi
     cmts_path   = os.path.join(out_dir, cmts_name)   if cmts_name   else None
     report_path = os.path.join(out_dir, report_name) if report_name else None
 
-    # Skip only when meta AND report (for regular posts) already exist
     if report_path:
         already = os.path.exists(meta_path) and os.path.exists(report_path)
     else:
@@ -721,7 +705,7 @@ def _process_single_post(node, idx, out_dir, global_username, comments_map, medi
         clips_metadata = {}
         
     audio_url = None
-    
+        
     # 1. Check Original Sound
     orig_sound = clips_metadata.get('original_sound_info')
     if isinstance(orig_sound, dict) and orig_sound.get('progressive_download_url'):
@@ -769,7 +753,7 @@ def _process_single_post(node, idx, out_dir, global_username, comments_map, medi
     with open(meta_path, 'w', encoding='utf-8') as f:
         json.dump(save_node, f, indent=4, ensure_ascii=False)
 
-    # 2. Gather comments — id + shortcode dono se, duplicate-free
+    # 2. Gather comments
     _cmap_by_id = comments_map.get(nid, [])
     _cmap_by_sc = comments_map.get(code, []) if (code and code != nid) else []
     _seen_cmts  = {}
@@ -778,7 +762,6 @@ def _process_single_post(node, idx, out_dir, global_username, comments_map, medi
         if _ck not in _seen_cmts:
             _seen_cmts[_ck] = _c
     post_cmts = list(_seen_cmts.values())
-    # END OF GATHER COMMENTS (original NEW LOGIC HANDLER replaced with dedup version)
 
     if media_source == 'clean':
         for ckey in ('comments', 'latestComments', 'extractedComments'):
@@ -865,10 +848,10 @@ def _process_single_post(node, idx, out_dir, global_username, comments_map, medi
             f.write(f"{'='*60}\n")
             f.write(f"📊 ENTERPRISE METRICS & CAPTION REPORT\n")
             f.write(f"{'='*60}\n")
-            f.write(f"🔗 Link     : https://www.instagram.com/p/{code}/\n")
-            f.write(f"👤 User     : @{user}\n")
-            f.write(f"🆔 ID       : {nid}\n")
-            f.write(f"🔑 Code     : {code}\n")
+            f.write(f"🔗 Link      : https://www.instagram.com/p/{code}/\n")
+            f.write(f"👤 User      : @{user}\n")
+            f.write(f"🆔 ID        : {nid}\n")
+            f.write(f"🔑 Code      : {code}\n")
             f.write(f"\n{'-'*30}\n")
             f.write(f"📈 PERFORMANCE STATS\n")
             f.write(f"{'-'*30}\n")
@@ -980,20 +963,14 @@ def _download_posts_batch(posts_list, out_dir, global_username, comments_map=Non
 # ════════════════════════════════════════════════════════════════════
 def module_rawdata(data, out_dir, username):
     safe_print("   📋 [RAW] Extracting posts, highlights, stories...")
-
     tag_active_stories_and_highlights(data)
     comments_map = extract_comments_globally(data)
 
-    # ── FIX C: Alag _comments_ JSON files se comments merge karna ──
-    # File naming pattern: @username_caption_comments_DATE_SHORTCODE.json
-    # Ye files datasets folder mein ya script ke sath hoti hain
     _comment_file_dirs = [INPUT_FOLDER, SCRIPT_DIR, BASE_DIR]
     for _cdir in _comment_file_dirs:
         for _cfile in glob.glob(os.path.join(_cdir, '*_comments_*.json')):
             try:
                 _cbase = os.path.basename(_cfile)
-                # Shortcode filename ke last underscore-separated part mein hota hai
-                # Example: _tomasnoi_..._comments_2026-02-16_06-26-07_DUzN32XCGBE.json
                 _parts = _cbase.replace('.json','').split('_')
                 _sc    = _parts[-1] if _parts else ''
                 if not _sc or len(_sc) < 5: continue
@@ -1004,7 +981,6 @@ def module_rawdata(data, out_dir, username):
                 for _c in _cmts:
                     if not isinstance(_c, dict): continue
                     _key = str(_c.get('id') or _c.get('pk') or _c.get('text',''))
-                    # shortcode se map karo
                     _existing = comments_map.get(_sc, [])
                     _ex_keys  = {str(x.get('id') or x.get('pk') or x.get('text','')) for x in _existing}
                     if _key and _key not in _ex_keys:
@@ -1014,7 +990,6 @@ def module_rawdata(data, out_dir, username):
                     safe_print(f"   📎 [COMMENT FILE] +{_loaded} comments loaded from: {_cbase}")
             except Exception:
                 pass
-    # ── END FIX C ────────────────────────────────────────────────────
 
     acc = None
     if isinstance(data, dict):
@@ -1078,7 +1053,6 @@ def module_rawdata(data, out_dir, username):
 # ════════════════════════════════════════════════════════════════════
 def module_cleandata(data, out_dir, username):
     safe_print("   📋 [CLEAN] Extracting posts, highlights, active stories...")
-
     tag_active_stories_and_highlights(data)
     all_items = []
 
@@ -1466,10 +1440,8 @@ if __name__ == '__main__':
     safe_print("║   Modules: RawData | CleanData | Following | Suggested | Tag ║")
     safe_print("╚══════════════════════════════════════════════════════════════╝\n")
 
-    # STEP 1: Loose JSON files ko datasets folder mein move karo
     organize_input_files()
 
-    # STEP 2: datasets folder se saari JSON files uthao
     all_files = sorted(glob.glob(os.path.join(INPUT_FOLDER, '**', '*.json'), recursive=True))
     all_files = [f for f in all_files if 'resume_state' not in f and 'EXTRACTED_' not in f]
 
@@ -1490,7 +1462,6 @@ if __name__ == '__main__':
         safe_print(f"      • {os.path.basename(f)}")
     safe_print()
 
-    # STEP 3: Processing
     for f in all_files:
         if shutdown_flag: break
         process_file(f)
