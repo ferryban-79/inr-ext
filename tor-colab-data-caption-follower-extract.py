@@ -12,20 +12,19 @@ from datetime import datetime
 #  SECTION 1 ── DYNAMIC PATH & BATCH CONFIG
 # ════════════════════════════════════════════════════════════════════
 BASE_DIR   = '.'
-# ── Matrix worker se env var aata hai — warna default ──
-INPUT_FOLDER = os.environ.get("INPUT_FOLDER",  os.path.join(BASE_DIR, 'datasets'))
+INPUT_FOLDER = os.path.join(BASE_DIR, 'datasets')
 
 # Script ki apni location (loose JSON files dhoondne ke liye)
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Real-time Batch Folder — worker.py se env var aata hai, warna naya banao
+# Real-time Batch Folder — har run par naya folder banega
 now = datetime.now()
 folder_timestamp  = now.strftime("%Y-%m-%d-%A_%I-%M-%S-%p")
 BATCH_FOLDER_NAME = f"Batch--{folder_timestamp}"
-OUTPUT_FOLDER     = os.environ.get("OUTPUT_FOLDER", os.path.join(BASE_DIR, BATCH_FOLDER_NAME))
+OUTPUT_FOLDER     = os.path.join(BASE_DIR, BATCH_FOLDER_NAME)
 
 # --- Limits & Behaviour ---
-MAX_WORKERS    = int(os.environ.get("MAX_WORKERS", "30"))  # matrix: 30 per node
+MAX_WORKERS    = 12
 DOWNLOAD_MEDIA = True
 ITEM_LIMIT     = 5000000000
 MAX_PFP_PER_RUN = 99999999
@@ -36,13 +35,17 @@ STATE_FILE      = os.path.join(OUTPUT_FOLDER, "resume_state.json")
 #  SECTION 2 ── AUTO-ORGANIZER  (Loose JSON → datasets folder)
 # ════════════════════════════════════════════════════════════════════
 def organize_input_files():
+    """
+    Script ke sath (SCRIPT_DIR) ya /data mein pari hui loose JSON files
+    ko utha kar INPUT_FOLDER (datasets) mein move karta hai.
+    """
     os.makedirs(INPUT_FOLDER, exist_ok=True)
-    # Search dirs mein 'Inputs' add kiya gaya hai
-    search_dirs = set([SCRIPT_DIR, '/data', os.path.join(BASE_DIR, 'Inputs')])
+
+    # Dono jagah dhoondein: script ki directory + /data root
+    search_dirs = set([SCRIPT_DIR, '/data'])
     loose_jsons = []
     for d in search_dirs:
-        if os.path.exists(d):
-            loose_jsons += glob.glob(os.path.join(d, '*.json'))
+        loose_jsons += glob.glob(os.path.join(d, '*.json'))
 
     SKIP_NAMES = {'resume_state.json', 'package.json', 'package-lock.json'}
     moved_count = 0
@@ -607,6 +610,11 @@ def _build_filenames(post_node, global_username, media_source='raw'):
         report_name = f"{base_name}_caption_{suffix}.txt"
 
     meta_name = f"{base_name}_meta_{suffix}.json"
+    audio_meta_name = f"{base_name}_audio_meta_{suffix}.json"
+    audio_mp3_name  = f"{base_name}_audio_{suffix}.mp3" 
+    master_csv_name   = f"{base_name}_MasterReport_{suffix}.csv"
+    location_csv_name = f"{base_name}_Location_{suffix}.csv"
+    tagged_csv_name   = f"{base_name}_Tagged_{suffix}.csv"
 
     # For highlights/stories there is no caption report
     if is_hl or is_active_story:
@@ -615,7 +623,7 @@ def _build_filenames(post_node, global_username, media_source='raw'):
 
     return {
         'numeric_id': nid, 'base_name': base_name, 'suffix': suffix, 'code': code,
-        'meta_name': meta_name, 'cmts_name': cmts_name, 'report_name': report_name,
+        'meta_name': meta_name, 'cmts_name': cmts_name, 'report_name': report_name, 'audio_meta_name': audio_meta_name, 'audio_mp3_name': audio_mp3_name, 'master_csv_name': master_csv_name, 'location_csv_name': location_csv_name, 'tagged_csv_name': tagged_csv_name,
         'is_highlight': is_hl, 'is_active_story': is_active_story,
         'user': user, 'user_val': uval, 'caption': cap_raw,
     }
@@ -679,6 +687,10 @@ def _process_single_post(node, idx, out_dir, global_username, comments_map, medi
     info = _build_filenames(node, global_username, media_source)
     nid, base, suffix   = info['numeric_id'], info['base_name'], info['suffix']
     meta_name, cmts_name = info['meta_name'], info['cmts_name']
+    audio_meta_name, audio_mp3_name = info['audio_meta_name'], info['audio_mp3_name']
+    master_csv_name   = info['master_csv_name']
+    location_csv_name = info['location_csv_name']
+    tagged_csv_name   = info['tagged_csv_name']
     report_name, full_caption = info['report_name'], info['caption']
     code = info.get('code', nid)
     is_hl, is_active_story = info['is_highlight'], info['is_active_story']
@@ -701,6 +713,56 @@ def _process_single_post(node, idx, out_dir, global_username, comments_map, medi
     if already:
         safe_print(f"      [{idx+1}] ⏭️  SKIPPED (exists): {meta_name}")
         return
+
+    # -- AUDIO EXTRACTION LOGIC (UPDATED FOR MP3) --
+    has_audio = node.get('has_audio', False)
+    clips_metadata = node.get('clips_metadata')
+    if not isinstance(clips_metadata, dict):
+        clips_metadata = {}
+        
+    audio_url = None
+    
+    # 1. Check Original Sound
+    orig_sound = clips_metadata.get('original_sound_info')
+    if isinstance(orig_sound, dict) and orig_sound.get('progressive_download_url'):
+        audio_url = orig_sound.get('progressive_download_url')
+        
+    # 2. Check Music Asset
+    if not audio_url:
+        music_info = clips_metadata.get('music_info')
+        if isinstance(music_info, dict):
+            asset_info = music_info.get('music_asset_info')
+            if isinstance(asset_info, dict) and asset_info.get('progressive_download_url'):
+                audio_url = asset_info.get('progressive_download_url')
+
+    # 3. Direct Root Check
+    if not audio_url:
+        audio_url = node.get('progressive_download_url')
+    
+    attr_info = node.get('clips_music_attribution_info', {}) or {}
+    
+    if has_audio or audio_url or attr_info:
+        audio_meta_path = os.path.join(out_dir, audio_meta_name)
+        audio_mp3_path  = os.path.join(out_dir, audio_mp3_name)
+        
+        if not os.path.exists(audio_meta_path):
+            audio_data = {
+                "has_audio": has_audio,
+                "audio_id": attr_info.get('audio_id', 'N/A') if isinstance(attr_info, dict) else 'N/A',
+                "song_name": attr_info.get('song_name', 'N/A') if isinstance(attr_info, dict) else 'N/A',
+                "artist_name": attr_info.get('artist_name', 'N/A') if isinstance(attr_info, dict) else 'N/A',
+                "uses_original_audio": attr_info.get('uses_original_audio', 'N/A') if isinstance(attr_info, dict) else 'N/A',
+                "is_muted": attr_info.get('should_mute_audio', False) if isinstance(attr_info, dict) else False,
+                "mute_reason": attr_info.get('should_mute_audio_reason', '') if isinstance(attr_info, dict) else '',
+                "audio_download_url": audio_url,
+                "clips_music_attribution_info": attr_info
+            }
+            with open(audio_meta_path, 'w', encoding='utf-8') as f:
+                json.dump(audio_data, f, indent=4, ensure_ascii=False)
+        
+        if audio_url and not os.path.exists(audio_mp3_path):
+            download(audio_url, audio_mp3_path)
+    # -- END AUDIO EXTRACTION LOGIC --
 
     # 1. Save Meta JSON
     save_node = {k: v for k, v in node.items() if k not in ('_is_highlight', '_highlight_title', '_is_active_story')}
@@ -740,18 +802,129 @@ def _process_single_post(node, idx, out_dir, global_username, comments_map, medi
         views = f"{v_val:,}" if v_val is not None else "N/A"
         plays = f"{p_val:,}" if p_val is not None else "N/A"
 
+        # ── DEEP FIELDS: Flags ──
+        is_paid      = node.get('is_paid_partnership', False)
+        cap_edited   = node.get('caption_is_edited', False)
+        com_disabled = node.get('comments_disabled', False)
+
+        # ── DEEP FIELDS: Location ──
+        loc_obj   = node.get('location')
+        loc_name  = ''
+        loc_city  = ''
+        loc_fb_id = ''
+        if isinstance(loc_obj, dict):
+            loc_name  = loc_obj.get('name', '')
+            loc_fb_id = loc_obj.get('id', '')
+            try:
+                import json as _json
+                addr = _json.loads(loc_obj.get('address_json', '{}'))
+                loc_city = addr.get('city_name', '')
+            except Exception:
+                pass
+
+        # ── DEEP FIELDS: AI Accessibility Caption ──
+        acc_cap = node.get('accessibility_caption', '')
+
+        # ── DEEP FIELDS: Tagged Users ──
+        tagged_edges = node.get('edge_media_to_tagged_user', {}).get('edges', [])
+
+        # ── PER-POST DEEP DATA CSVs ──
+        # 1. Master Post Report CSV
+        master_csv_path = os.path.join(out_dir, master_csv_name)
+        if not os.path.exists(master_csv_path):
+            with open(master_csv_path, 'w', newline='', encoding='utf-8') as f:
+                w = csv.writer(f)
+                w.writerow(['Shortcode', 'Numeric ID', 'Views', 'Plays', 'Likes', 'Comments Count', 'Is Paid', 'Caption Edited', 'Comments Disabled', 'Accessibility Caption', 'Full Caption'])
+                w.writerow([code, nid, views, plays, likes, comments_count, is_paid, cap_edited, com_disabled, acc_cap, full_caption])
+
+        # 2. Location Inventory CSV
+        if loc_name or loc_city or loc_fb_id:
+            loc_csv_path = os.path.join(out_dir, location_csv_name)
+            if not os.path.exists(loc_csv_path):
+                with open(loc_csv_path, 'w', newline='', encoding='utf-8') as f:
+                    w = csv.writer(f)
+                    w.writerow(['Post Shortcode', 'Location Name', 'City', 'FB Page ID'])
+                    w.writerow([code, loc_name, loc_city, loc_fb_id])
+                    
+        # 3. Tagged Users List CSV
+        if tagged_edges:
+            tagged_csv_path = os.path.join(out_dir, tagged_csv_name)
+            if not os.path.exists(tagged_csv_path):
+                with open(tagged_csv_path, 'w', newline='', encoding='utf-8') as f:
+                    w = csv.writer(f)
+                    w.writerow(['Post Shortcode', 'Tagged Username', 'User ID', 'Pos X', 'Pos Y'])
+                    for edge in tagged_edges:
+                        tnode = edge.get('node', {})
+                        tuser = tnode.get('user', {})
+                        tx = tnode.get('x', 'N/A')
+                        ty = tnode.get('y', 'N/A')
+                        w.writerow([code, tuser.get('username','?'), tuser.get('id','?'), tx, ty])
+        
+        # ── WRITE UPGRADED CAPTION REPORT ──
         with open(report_path, 'w', encoding='utf-8') as f:
-            f.write(f"{'='*60}\n📊 ENTERPRISE METRICS & CAPTION REPORT\n{'='*60}\n")
+            f.write(f"{'='*60}\n")
+            f.write(f"📊 ENTERPRISE METRICS & CAPTION REPORT\n")
+            f.write(f"{'='*60}\n")
             f.write(f"🔗 Link     : https://www.instagram.com/p/{code}/\n")
             f.write(f"👤 User     : @{user}\n")
             f.write(f"🆔 ID       : {nid}\n")
             f.write(f"🔑 Code     : {code}\n")
+            f.write(f"\n{'-'*30}\n")
+            f.write(f"📈 PERFORMANCE STATS\n")
             f.write(f"{'-'*30}\n")
             f.write(f"❤️  Likes    : {likes:,}\n")
             f.write(f"💬 Comments : {comments_count:,}\n")
             f.write(f"▶️  Plays    : {plays}\n")
             f.write(f"👁️  Views    : {views}\n")
-            f.write(f"{'-'*30}\n📝 CAPTION:\n{full_caption}\n")
+            f.write(f"\n{'-'*30}\n")
+            f.write(f"🚩 POST STATUS & FLAGS\n")
+            f.write(f"{'-'*30}\n")
+            f.write(f"🤝 Paid Partnership  : {'Yes' if is_paid else 'No'}\n")
+            f.write(f"✏️  Caption Edited    : {'Yes' if cap_edited else 'No'}\n")
+            f.write(f"🚫 Comments Disabled : {'Yes' if com_disabled else 'No'}\n")
+            f.write(f"\n{'-'*30}\n")
+            f.write(f"📍 LOCATION & AI DESCRIPTION\n")
+            f.write(f"{'-'*30}\n")
+            if loc_name:
+                f.write(f"🏠 Location Name : {loc_name}\n")
+                if loc_city and loc_city != loc_name:
+                    f.write(f"🌆 City          : {loc_city}\n")
+                if loc_fb_id:
+                    f.write(f"🆔 FB Location ID: {loc_fb_id}\n")
+            else:
+                f.write(f"🏠 Location Name : N/A\n")
+            if acc_cap:
+                words = acc_cap.split()
+                lines, cur = [], []
+                for w in words:
+                    cur.append(w)
+                    if len(' '.join(cur)) > 60:
+                        lines.append(' '.join(cur[:-1]))
+                        cur = [w]
+                if cur: lines.append(' '.join(cur))
+                f.write(f"🤖 AI Description: {lines[0]}\n")
+                for ln in lines[1:]:
+                    f.write(f"                   {ln}\n")
+            else:
+                f.write(f"🤖 AI Description: N/A\n")
+            f.write(f"\n{'-'*30}\n")
+            f.write(f"👥 TAGGED USERS\n")
+            f.write(f"{'-'*30}\n")
+            if tagged_edges:
+                for ti, edge in enumerate(tagged_edges, 1):
+                    tnode = edge.get('node', {})
+                    tuser = tnode.get('user', {})
+                    tx = tnode.get('x', 'N/A')
+                    ty = tnode.get('y', 'N/A')
+                    txf = f"{float(tx):.4f}" if tx != 'N/A' else 'N/A'
+                    tyf = f"{float(ty):.4f}" if ty != 'N/A' else 'N/A'
+                    f.write(f"  {ti}. @{tuser.get('username','?')} (ID: {tuser.get('id','?')}) -> Pos: [X:{txf}, Y:{tyf}]\n")
+            else:
+                f.write(f"  (No tagged users)\n")
+            f.write(f"\n{'-'*30}\n")
+            f.write(f"📝 CAPTION:\n")
+            f.write(f"{'-'*30}\n")
+            f.write(f"{full_caption}\n")
             f.write(f"{'='*60}\n")
 
     # 4. Download Media
