@@ -1,0 +1,1799 @@
+{
+  "shortcode": "DXnsSJxCSt3",
+  "mediaId": "3884267965113772919",
+  "igCommentCount": 516,
+  "postRawData": {
+    "__typename": "XDTGraphSidecar",
+    "__isXDTGraphMediaInterface": "XDTGraphSidecar",
+    "id": "3884267965113772919",
+    "shortcode": "DXnsSJxCSt3",
+    "thumbnail_src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684182707_17936348142229216_4325703626023170443_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=ywgws5zQUIcQ7kNvwGZpwu8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af108kFrmfKxjIUfKR6BQ0Z1u5hz-1VB7ajNELFXiUKZdA&oe=69F920B0&_nc_sid=d885a2",
+    "dimensions": {
+      "height": 1080,
+      "width": 1080
+    },
+    "gating_info": null,
+    "fact_check_overall_rating": null,
+    "fact_check_information": null,
+    "sensitivity_friction_info": null,
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "media_overlay_info": null,
+    "media_preview": null,
+    "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684182707_17936348142229216_4325703626023170443_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=ywgws5zQUIcQ7kNvwGZpwu8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0YNVAXMDLseJoM3AM7AISfoB2tgxH4RNu3EfP0MkNZ4Q&oe=69F920B0&_nc_sid=d885a2",
+    "display_resources": [
+      {
+        "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684182707_17936348142229216_4325703626023170443_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjU0eDEyNTQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=ywgws5zQUIcQ7kNvwGZpwu8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af108kFrmfKxjIUfKR6BQ0Z1u5hz-1VB7ajNELFXiUKZdA&oe=69F920B0&_nc_sid=d885a2",
+        "config_width": 640,
+        "config_height": 640
+      },
+      {
+        "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684182707_17936348142229216_4325703626023170443_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjU0eDEyNTQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=ywgws5zQUIcQ7kNvwGZpwu8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2eRO44XO8J_x2Uqpfv-Qu1kQ41s30Gx50fw8KBb8s6rQ&oe=69F920B0&_nc_sid=d885a2",
+        "config_width": 750,
+        "config_height": 750
+      },
+      {
+        "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684182707_17936348142229216_4325703626023170443_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjU0eDEyNTQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=ywgws5zQUIcQ7kNvwGZpwu8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2YS8UMgClsYHuayc9Yi5JFX7GdkQFRLzVGvjAJ-a1wtg&oe=69F920B0&_nc_sid=d885a2",
+        "config_width": 1080,
+        "config_height": 1080
+      }
+    ],
+    "is_video": false,
+    "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTY1MTEzNzcyOTE5Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjUyMHwzODg0MjY3OTY1MTEzNzcyOTE5fDQwOTc5Nzg4NDg0fDUxYjlhZjkwZDUwMjg5MDJiN2RhZjNiNzE1MjIwMjQzZGNmMWQzOWE2ZDJmNWIxOTFhNGMwMTE3M2MzMWI2NmMifSwic2lnbmF0dXJlIjoiIn0=",
+    "upcoming_event": null,
+    "edge_media_to_tagged_user": {
+      "edges": []
+    },
+    "owner": {
+      "id": "66847293215",
+      "username": "techwith.ram",
+      "is_verified": false,
+      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+      "blocked_by_viewer": false,
+      "restricted_by_viewer": false,
+      "followed_by_viewer": false,
+      "full_name": "Data Science| Machine Learning | Ramakrushna",
+      "has_blocked_viewer": false,
+      "is_embeds_disabled": false,
+      "is_private": false,
+      "is_unpublished": false,
+      "requested_by_viewer": false,
+      "pass_tiering_recommendation": true,
+      "edge_owner_to_timeline_media": {
+        "count": 282
+      },
+      "edge_followed_by": {
+        "count": 43366
+      }
+    },
+    "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be a graphic of phone, poster and text that says 'Startup StartupPitchPolisher Pitch Polisher AITO AITOELEVATE to ELEVATE YOUR PITCH GAME Claude Opus 4.7 Qwen3.6 35B-A3B techwith.ram •....... Swipe >> Moreinsightsahead More insights ahead'.",
+    "edge_sidecar_to_children": {
+      "edges": [
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3884267954711932952",
+            "shortcode": "DXnsSAFCbAY",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoq2C2x23PweQPQUguUP8Y56dKiu1BViR/DXPb8g7hg8bf61z8zu0jpjDm11OsVweM5P0p9ZtlcCYgdxVkSv22twO4HOOfw9Paqi21qZyjyuxYIPrS1GjNj58A57e/SpKsgpXKiQmMnBIyPXjvWLLYtGc7hjtn9fWt2ZghLHsOtYk7yT5ccKnQZrne7OmF7abFixs5IZVYkY56H2PtWwYEPJA//AFf5x9KoafKZANxyynB/pU4cg7dxHOOgPTjPt057c8VrDZ+pnUvfUthAOg/yOlOqqJMEAsSScdPQkevH/wCo1aqzMoXsLTjahA5GcnFVBp8u0gFckjHJ6D8K2qKnlRam0rLYzrK0eBiXIOfT8fatHAooppW2JbcndkbuqckHt0FSUYFLTEf/2Q==",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684182707_17936348142229216_4325703626023170443_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=ywgws5zQUIcQ7kNvwGZpwu8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0YNVAXMDLseJoM3AM7AISfoB2tgxH4RNu3EfP0MkNZ4Q&oe=69F920B0&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684182707_17936348142229216_4325703626023170443_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjU0eDEyNTQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=ywgws5zQUIcQ7kNvwGZpwu8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af108kFrmfKxjIUfKR6BQ0Z1u5hz-1VB7ajNELFXiUKZdA&oe=69F920B0&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684182707_17936348142229216_4325703626023170443_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjU0eDEyNTQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=ywgws5zQUIcQ7kNvwGZpwu8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2eRO44XO8J_x2Uqpfv-Qu1kQ41s30Gx50fw8KBb8s6rQ&oe=69F920B0&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684182707_17936348142229216_4325703626023170443_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjU0eDEyNTQuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=ywgws5zQUIcQ7kNvwGZpwu8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2YS8UMgClsYHuayc9Yi5JFX7GdkQFRLzVGvjAJ-a1wtg&oe=69F920B0&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be a graphic of phone, poster and text that says 'Startup StartupPitchPolisher Pitch Polisher AITO AITOELEVATE to ELEVATE YOUR PITCH GAME Claude Opus 4.7 Qwen3.6 35B-A3B techwith.ram •....... Swipe >> Moreinsightsahead More insights ahead'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTU0NzExOTMyOTUyIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjU5NnwzODg0MjY3OTU0NzExOTMyOTUyfDQwOTc5Nzg4NDg0fGVhOGNiYzM4NjkxODY5OWIwM2FjZmM5MDIzZGQxNTcyNzUzMGRiNDg5NTEyZjAwN2ZhZmQyMTY3NzVmZjM4ZDUifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3884267954686722568",
+            "shortcode": "DXnsSADiQII",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoqxAhILdhgE/WnGFh+PuPTP5cH8qkiPy8gkbuce/QfmP5VLgtgjJwxyenf6+hA9+fegCq0TIMnoeP8/lUdXZF3rgctxjngnvxn059gaqMpU4PWgBtFFFAEyHjHPX/CnF2PGTz19Ov/AOuol6UozSsVdC72H3SQOn5VHTqTFMQ2ilNJQIepHelytR0UhkmVoyvpUdFAXHkimUUUxH//2Q==",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681211076_17936348106229216_4735416692296113522_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bGG47kuVsqUQ7kNvwEWoFQS&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3xyvozx7W3M-4hX7GdvSZJ0nGYSh5NbjwLHv4DCS2DUA&oe=69F91CC6&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681211076_17936348106229216_4735416692296113522_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bGG47kuVsqUQ7kNvwEWoFQS&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0XdL4YuL0xDZY2PptgB9kDqcG0bD1ZTNn78oO9AIpLaQ&oe=69F91CC6&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681211076_17936348106229216_4735416692296113522_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bGG47kuVsqUQ7kNvwEWoFQS&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0RAwxGx8Gy5cL2s-mpjlBgGC7GSVh2I5KiGaM_S8Dkww&oe=69F91CC6&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681211076_17936348106229216_4735416692296113522_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bGG47kuVsqUQ7kNvwEWoFQS&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3c9tRa12KIqvbLKVvzWwIkmUoD9bwz4dfGIrtO5NOoMw&oe=69F91CC6&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be an image of laptop and text that says 'LET THAT SINK IN A20GB A 20 GB FILE ON A LAPTOP BEATS OPUS 4.7. SimonWillison ran botho 36B-A3 quantized file MacBookM5 outperf Laude outperformedClaudeOpus4. Opus the bicycle frame. Qwen messed Qwen3.6 MStudio ona SVG generat on. Twice. Opus \"If the thing you c is SVG illustration of now Qwen3. 35B A3B running on a a laptop a better bet Willison 2026 Apr pelican riding han Opus bicycle, right .7.\" Simon'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTU0Njg2NzIyNTY4Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjU5NnwzODg0MjY3OTU0Njg2NzIyNTY4fDQwOTc5Nzg4NDg0fDUxODlhMzZjNzA0MDIwMWU3MmZhZTkzNTEzMTA5NjYwMzVjMzE5MDM4N2QyNzVhMmI2NjkyMTM4NDJhNGUyY2MifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3884267954611235912",
+            "shortcode": "DXnsR__CSxI",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoq17jG4ZxyOpAP8x/+rn1pkZOPlYDPQYx+YA78c+tSzA5GM4x2+v8A9emKTnPzEDJweOnt75+nHtSGSqWc5B4z+mOlT1n5Jzyw/A/njPTuc/hirMJJJ68+vb2/z6UAT0UUUAULq+jtmCvuyRngZ7n3FVv7Yg/2/wDvn/69Udb/ANcv+5/U1jg/jQI6+2vorkkJu4GeRj29atgj3rntHGZGH+z/AFFb+ygY8EU+ogMVLQBzGuf65f8Ac/qaxq2dc/1y/wC5/U1jUxGnpkwgMkhGQqjge7AVo/2yn9xvzFY1v/q5f91f/QxVc0hnTW2qpcSCMKwLdyR2Ga164/S/+PlPx/ka7CgR/9k=",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681099962_17936348130229216_6038957704275229133_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=-O3aWqlmoV4Q7kNvwGI5mbi&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1chZCU8ROv-q8K8I22PJdKSAV-doz_7WXy9nDf1budGg&oe=69F93BB7&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681099962_17936348130229216_6038957704275229133_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=-O3aWqlmoV4Q7kNvwGI5mbi&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af00pJqhCaNqu2H7uKFFADXL6n1TIvvD-iyhayTpr8S3Dg&oe=69F93BB7&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681099962_17936348130229216_6038957704275229133_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=-O3aWqlmoV4Q7kNvwGI5mbi&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0iULNxbSGYf57i1nQgTmtrgwpP8X5RirrZaf_jr8p-JA&oe=69F93BB7&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681099962_17936348130229216_6038957704275229133_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=-O3aWqlmoV4Q7kNvwGI5mbi&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af28ZGqutNY0D_yLAKRY-Lt2DrYM1AzmkrcyXVN0tylJtg&oe=69F93BB7&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be a graphic of poster, crossword puzzle and text that says 'QWEN 3.6 36B-A3B. WHAT DOES THAT MEAN? MOE Mixture of Experts. 36 billion total parameters. Only 3 billion activate per token. You get frontier orce at a fraction of the and it runs locally. compute ARCHITECTURE 36B RUN LOCALLY 128K native 1M ex. icense Quantized = 20.9 GB. Fits in any Mac with G GB RAM. Runs in LM Studio ollama. Zero API cost. No data leaves your machine. 119 Apache Yes (/think) Inference speed (M5 MacBook) 273tok/s 273 tok/s'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTU0NjExMjM1OTEyIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjU5NnwzODg0MjY3OTU0NjExMjM1OTEyfDQwOTc5Nzg4NDg0fDlmOTUwMTdiNTcxZDQ2MzRjOGUzMzJjOTQxZDFhM2E4YjU1YTBmMzk1YzQzYjQ1YjA3MzQyMDQ4N2Y5MjIxNzAifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3884267954602882012",
+            "shortcode": "DXnsR_-ibPc",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoqyoRlTxkZ9SOg56fUe/pUjKAfmHykdM+nJ9f19aqA4ozQBYBjA5XOP/19Kbvj/u+n+evOahzSZoAVsEnHA7U2lpKAHKATz0qTanq35U2M4IOcc9anaT/bJ/D/AOvUv+v6sUv6/q6IdqerfkP8aNqerfkP8ak3/wC235f/AF6TzP8Abb8v/r0tf6/4YrTy/D/MjITHBOfoP8ajpaSrIHKxU5HUU/zn9TUVFKwXa2JfOf1NJ5r+pqOiiy7Bd92KSScnk0lFFMR//9k=",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681663339_17936348088229216_5337955615756356560_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=nAfV48eFgJoQ7kNvwFbx2KL&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1XsM_ED9MY53zb5vGR5a5dljA1c5zjlm2sP3r_bRSV3A&oe=69F9345E&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681663339_17936348088229216_5337955615756356560_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=nAfV48eFgJoQ7kNvwFbx2KL&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1KQdhafZJ-2h8sNv6makc-vqcY3SmT3Wr_e_MoiKfjqQ&oe=69F9345E&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681663339_17936348088229216_5337955615756356560_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=nAfV48eFgJoQ7kNvwFbx2KL&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1x2y_pMMMqWU2ttWM0prd7gpm7yp6qhSA_j_iLGXKrfg&oe=69F9345E&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/681663339_17936348088229216_5337955615756356560_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=nAfV48eFgJoQ7kNvwFbx2KL&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3esY1nGWo5MPc1zn_MFuHqxvS9n6lDjD2lW0l3Vsoi_g&oe=69F9345E&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be a graphic of ‎poster and ‎text that says '‎THE NUMBERS DON'T LIE. 5ClaudeOpus 4.7.Mhere3Bacivepra 4.7. parameters $15/M nt:titiygyateteal Same benchmarks Radically different -87% -86 Competitive Conpetit Edge with scaffold High 68s-78s ه High 60s-70s 3 76.5-WINS WINS 76.5 58.0‎'‎‎.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTU0NjAyODgyMDEyIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjU5N3wzODg0MjY3OTU0NjAyODgyMDEyfDQwOTc5Nzg4NDg0fGM4MTRlYzcwN2EwNjUyZGQxYjgxNDFlYTZjYWExMzE2OTNjZDk1ZjU4YmY3NTc0YWZjYTJlZWE2OTNkNGZkYjQifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3884267954611246144",
+            "shortcode": "DXnsR__CVRA",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoq2pbkRHaVdsjOVUkfn61GL1T/AASc8fcNOuM56Hp2+tRgEZ+8c5H16e3Bx+lIC9RVWP5G7kMcZ59M56e+Pwq1QMKKKKAIZASemf8A9f8An600LjnBz/8Aqx9M1M1QqHB56c+v4UrDuSB29Kkqne5+zyf7prjxnvn9aYjvKK4uz3efH1++vr612lAGbe2ctw4aN9gAxjLdcnng1U/su4/56/q/+NbtFAGF/Zdx/wA9f1f/ABo/su4/56/q/wDjW7RQIxotOnR1Yy5CkEjLcgduTWzRRQB//9k=",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/675465636_17936348097229216_1949511117700865121_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=CX8IhCsWV0wQ7kNvwGBZf4l&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2EA10cK6--fj2RGUTec6mGkKxvXLSdPTyG2busb3uMog&oe=69F922DD&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/675465636_17936348097229216_1949511117700865121_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=CX8IhCsWV0wQ7kNvwGBZf4l&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3jNpSz2wliCjLsgnVrMRf94olTXu6oGw0BGTu4dokcoA&oe=69F922DD&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/675465636_17936348097229216_1949511117700865121_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=CX8IhCsWV0wQ7kNvwGBZf4l&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1fK8oXdVp0kImYd8YRfmHC6CKSHP2UiGEOr02-kAgStA&oe=69F922DD&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/675465636_17936348097229216_1949511117700865121_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=CX8IhCsWV0wQ7kNvwGBZf4l&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1-AelnfPngrP98jTNP_UwIXobIpSf3_SwyjwfzITIjMA&oe=69F922DD&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be a graphic of money, poster, card and text that says 'THE REAL ARGUMENT SIMILAR RESULTS. ZERO DOLLARS. CLAUDE OPUS 4.7 $15 per M output tokens Input: $5/M Output: $15/M QWEN3.636B-A3B QWEN 36B-A3B 36B A3B $0 VS Apache2. license Use it in production. Fine-tune it. Self-host it. No usage ap, no Te imits no API key, no audit trail sent o Anthropic.'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTU0NjExMjQ2MTQ0Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjU5N3wzODg0MjY3OTU0NjExMjQ2MTQ0fDQwOTc5Nzg4NDg0fDg5ZGRkZjFmYTgyZjFjMmRiZjliMTIyOGFjNmRmYmYxZjA3YzBlZTU0MWNmMDI4M2VkYmU0MGQ4OGRmZmFmYzkifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3884267954611225486",
+            "shortcode": "DXnsR__CQOO",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoqy4ACOfX1x6d+39c+1IxU5GOeR178/nUAOKXdSGTEx4+7+tQOQTkDA9KSimISilpKAHAA9Til2r6/pSocf/WqTd7t+VIZDgetGKcf88UlACYptPNMpgPU474p+4epqGikFyQn3P40mfemUUBceTTKKKYj/9k=",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684215697_17936348115229216_4682680228712049345_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=rmJyXKCizrkQ7kNvwF49Jyn&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2iZZiJFEpZWJe_b5JfPEdadiwL-UzsqCGF8YSY2GSBsA&oe=69F91634&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684215697_17936348115229216_4682680228712049345_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=rmJyXKCizrkQ7kNvwF49Jyn&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2I3X3UEtE2Slomcu3Y5QHXwcQIOEMCZM1ioHeNlSDfrg&oe=69F91634&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684215697_17936348115229216_4682680228712049345_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=rmJyXKCizrkQ7kNvwF49Jyn&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0mJXmsIzSvtsKKXxKILh48S_ly9FoBzw853UPbGOCpSg&oe=69F91634&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684215697_17936348115229216_4682680228712049345_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=rmJyXKCizrkQ7kNvwF49Jyn&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1KGJBvhrsM_Ug568Nz1Y8FWy2IKornSIh03rsAmZ1w5w&oe=69F91634&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be a graphic of scoreboard, poster and text that says 'QWEN WINS N THESE TASKS. Qwen thesehit them checklist. Pick PickOpus when noneo Local private workloads 02 High-volume High-volumeinference olume inference Multilingual applications 03 Python better math-heavy coding Startups in early validation 05 complex'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTU0NjExMjI1NDg2Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjU5N3wzODg0MjY3OTU0NjExMjI1NDg2fDQwOTc5Nzg4NDg0fDU3MTA3ZDU2ZjFlZWViMTQ5Njg5ZGVlZWUwMGUzZjMxYTQxOGVlNDIzZmUzOWJiNmQxMGYzYjdiOGE1OGQxNmIifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3884267954611283178",
+            "shortcode": "DXnsR__CeTq",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoq2J13N24GeVB6e5/lQqtGcZ4ByQAB+g+lTOuT3/ChVxzz+JqRkahzzu/D/P8Ant0qVAQPmOTTuaOf8mmAtFJS0AZ93qK2rhGUkkZyCB3x3+lVv7aj/un8xVfV2xMo3Y+Tp26n3FZRfj7x/L/69AjbOuRj+Bj+Io/tyP8AuN+a1hb/APbb9f8AGjf/ALbfr/jTA6GLWUldUCMCxAzkd616460f9/H85++vGPf612NICJ442OXCk+4B/mKZ5MP91P8Avkf4VK3Wq47Uih/kw/3U/wC+R/hR5MP9xP8Avkf4UuBRigLAsMQOVVQR0IUf4VPUI61NTEf/2Q==",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/682891573_17936348124229216_587407732136121142_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=mT4Tfu8886oQ7kNvwHOxNQT&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2DYHEl_lw1mQKe0696MvT3Mp4LIJz6bFflvmek0Cy9iA&oe=69F92BC1&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/682891573_17936348124229216_587407732136121142_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=mT4Tfu8886oQ7kNvwHOxNQT&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1M-yKCh-JhT6kiM-qFbzEO0uU5REUbzK7nyg9p7c2WAQ&oe=69F92BC1&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/682891573_17936348124229216_587407732136121142_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=mT4Tfu8886oQ7kNvwHOxNQT&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3mUiAZMT-gFs3zGlaGE3Vqg0UkrnZ6yAEv1M1Y0Q-vJw&oe=69F92BC1&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/682891573_17936348124229216_587407732136121142_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=mT4Tfu8886oQ7kNvwHOxNQT&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3GiVrbrCRP_3__mh9nMcZ2FrVroHhhr-dnqtRLK3aXzQ&oe=69F92BC1&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be a graphic of poster, scoreboard and text that says 'WHEN OPUS 4.7 STILL WINS. This is an honest take. There are tasks where paying $15/M output is still the right call. Long- g-running autonomous agents Claude Code scaffold No GPU - API only THE VERDICT For most tasks at most budgets Qwen wins on value. For production agentic systems where reliability over 20+ steps is critical - Opus still its'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTU0NjExMjgzMTc4Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjU5N3wzODg0MjY3OTU0NjExMjgzMTc4fDQwOTc5Nzg4NDg0fGVhYTdlOTY2OTZiMDA2MjRiNTdmZWJkYzE3NTk5YTcyMWZjOTllMDg0MDM5OTlkNDUwOTM4ZmI1ZWYxODI0M2EifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3884267954669976891",
+            "shortcode": "DXnsSACiX07",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoqyI2AXBByT1z0pzFSQdvTsTn0/wDr/iar5ozSGTYXbjHzev4/4VCRijNGaYCUUUUCHrTuPT+dMUjvzS0hiMeaTNLRQAmc0lOptMQ5W207efU1HRQA7NJmkooAXNJRRQB//9k=",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/682069447_17936348079229216_8691591919951870801_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=g62Da97MFf4Q7kNvwGFeXpg&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2hF0f1-MqOSQdcFpaymT74GzTgv2alQz_aKWGDMe3j5Q&oe=69F948CC&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/682069447_17936348079229216_8691591919951870801_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=g62Da97MFf4Q7kNvwGFeXpg&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2MhKVxvnrZ7opHBffmfm6dyUTXY3_TRsrdDGPV_6z6nw&oe=69F948CC&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/682069447_17936348079229216_8691591919951870801_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=g62Da97MFf4Q7kNvwGFeXpg&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1f38nEk2oU40KT0RA1aZztMWHD6EO3e6Meww24132J3A&oe=69F948CC&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/682069447_17936348079229216_8691591919951870801_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=g62Da97MFf4Q7kNvwGFeXpg&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3cOthdQYqu52aqNhnGUo4c2DzpMVXGdFqaHV4-yk55IQ&oe=69F948CC&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be a graphic of timer, poster and text that says 'RUN IT IN 3 MINUTES. run Qwen 36B-A3B today. Pick yoursetup. your Loca(Nac/PCwith32GBRAH) PC with 32 RAM) Local (Mac Download DownloadLMStudio(1nstudio.ai) oad LM Studio (Ims Imstudio ai) 2. Search: 3. Download Dowmload28.9GB-Load-Run oad 20.9 GB Load Run 02 ollama CLI 030penRouter(noGPUneeded) 03 OpenRouter (no GPU needed) Model string:'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTU0NjY5OTc2ODkxIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjU5N3wzODg0MjY3OTU0NjY5OTc2ODkxfDQwOTc5Nzg4NDg0fDA5MWIxMmMzMTFmOTMzNWRjNmRiMDliMzcyMDRiMDI2NGRlNmE5MjE1MzM5ZjU0NDRlNGVkZGMxMTgzMzkwYzIifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3884267954695133900",
+            "shortcode": "DXnsSAECVrM",
+            "dimensions": {
+              "height": 1080,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACoqwutO2MOxpoOOR2qZHZuOv5ev+J49+lAEflsecH8qPLb0NWB5gPGQfw/zwfyzUbMyYzkH3+uf5/jSGQlSpweDSU5mLHJ5NNpiCnqSvIyKZTx0oAdvb1NNJJ4OSB0p+fb9KaT3pDsR0UUUxBT025+YkD2plFAFj916t+Qpj7P4Cx+tRUtK3myr+SCilooEf//Z",
+            "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684148472_17936348070229216_4503365453757377251_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=h3AcrcF6_y0Q7kNvwG94FiE&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af34k1h2pCRtXtIOhReSSgfV58E5NdwLxYJnwK_1KFHYxw&oe=69F91AB7&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684148472_17936348070229216_4503365453757377251_n.jpg?stp=dst-jpg_e35_s640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=h3AcrcF6_y0Q7kNvwG94FiE&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2J273lSGwN_Ar8bEkTrq-deaSuVBw1UKqqHcxc75aIvQ&oe=69F91AB7&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 640
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684148472_17936348070229216_4503365453757377251_n.jpg?stp=dst-jpg_e35_s750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=h3AcrcF6_y0Q7kNvwG94FiE&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0CcC8hU-O1AP40rjR0yKhndsxQBxn93QO4_cvTfICTOw&oe=69F91AB7&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 750
+              },
+              {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/684148472_17936348070229216_4503365453757377251_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=h3AcrcF6_y0Q7kNvwG94FiE&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2grX8eOPaxqL0R5CAc8FL5n3IYm_sY3y1GjB6tqvXZQQ&oe=69F91AB7&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1080
+              }
+            ],
+            "accessibility_caption": "Photo by Data Science| Machine Learning | Ramakrushna on April 26, 2026. May be a meme of poster and text that says 'THAT'S THAT'SAWRA WRAP QWEN3.6VSOPUS4 FOLLOW FOR DAILY AI DROPS. htlsaealco.omorala model Hot and real hmarks hype,every everyday. \"QWEN\" @techwith.ram ram Follow for daily FollofordailyAIdrops AI drops'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjFiMzA3ZWEzNGEwNDc5ZmI0MjA5NjRkODRkODE3M2YzODg0MjY3OTU0Njk1MTMzOTAwIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjcwNjU5OHwzODg0MjY3OTU0Njk1MTMzOTAwfDQwOTc5Nzg4NDg0fDg3ZGQwMWQ3ZWQ0NGY1YTU5Njc1MjhkMjFlMTAxNWFhN2ExNGYxZGNmMzNmMWJhODdlYjBkZTY2NzBkZGM0OTQifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_caption": {
+      "edges": [
+        {
+          "node": {
+            "created_at": "1777260847",
+            "text": "Try Qwen 3.6. I swear you won't regret it. The most important thing is its open source.",
+            "id": "17862846153682231"
+          }
+        }
+      ]
+    },
+    "can_see_insights_as_brand": false,
+    "caption_is_edited": false,
+    "has_ranked_comments": true,
+    "like_and_view_counts_disabled": false,
+    "edge_media_to_parent_comment": {
+      "count": 516,
+      "page_info": {
+        "has_next_page": true,
+        "end_cursor": "{\"cached_comments_cursor\": \"17935789839053777\", \"bifilter_token\": \"KCsBDgAwABgAEAAIAAgACAAIAHunmuvv9fH-00_XbV_3_5e5d1rIXNIdIBQIAA==\"}"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "17872883799599845",
+            "text": "Qwen",
+            "created_at": 1777407139,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "16399467745",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/518993490_18105602527547746_5544534470306457607_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MTkuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=xYzpzLvxhz8Q7kNvwGV3vS7&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2CZuNcoyPnYnhIsu01AcTrjJA-GJTg0mT7Y9iVM45vOQ&oe=69F91C90&_nc_sid=d885a2",
+              "username": "bruno_brdo"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 2
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18108323323906120",
+                    "text": "@bruno_brdo Sending right away",
+                    "created_at": 1777407151,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18071234774303605",
+            "text": "Kimi 2.6 is way better than Qwen.😂",
+            "created_at": 1777352065,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "10206455",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/455961732_480280438095388_8872123012529903723_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=qvBAVNmse_EQ7kNvwFflhBI&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1096UPg26JWueRXK-Rk8MO9yVEHUdjEVonUwettLy3Bg&oe=69F91751&_nc_sid=d885a2",
+              "username": "firat_tuncbas__discorama_music"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 6
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 13,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFCVlFGY3JUeHVfSWI1YkFIVWtzdzhpVDhWTEl0MEg4MjhzaUhKd1Z5Qk40NWNoWTFOWldidE5NMUhpcE1GTVljM1ZJZ1R1M2NUeTh2WWFCUW8zakpHVA=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17975666801859659",
+                    "text": "@firat_tuncbas__discorama_music that's True... Kimi is 1/4th size of Claude in terms of context window... But that is the only flaw according to me... When Compared kimi's memory is way Claude's memory... So it's easy to switch between new windows... It's for creative thinking, planning, reasoning and other stuff... But for coding and stuff content window size  is a major drawback in kimi....",
+                    "created_at": 1777482906,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "64264331654",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/476504246_1357489415696375_2541205600948952492_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=pjUPGf06UegQ7kNvwEOM3zC&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af23YwsvYjesagBjcQxFE3BljkPW1wIlWqrgGMcC2nQmUg&oe=69F93624&_nc_sid=d885a2",
+                      "username": "__.no_guy.__"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18150576820476820",
+                    "text": "@firat_tuncbas__discorama_music I'm using a laptop with 16 gb ram and 4 gb rtx 3050 gpu... If i did that my laptop will turn burn and turn into ashes 😂😂",
+                    "created_at": 1777483217,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "64264331654",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/476504246_1357489415696375_2541205600948952492_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=pjUPGf06UegQ7kNvwEOM3zC&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af23YwsvYjesagBjcQxFE3BljkPW1wIlWqrgGMcC2nQmUg&oe=69F93624&_nc_sid=d885a2",
+                      "username": "__.no_guy.__"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18166149838420844",
+                    "text": "@__.no_guy.__ Probably yes 😂",
+                    "created_at": 1777483278,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "10206455",
+                      "is_verified": true,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/455961732_480280438095388_8872123012529903723_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=qvBAVNmse_EQ7kNvwFflhBI&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1096UPg26JWueRXK-Rk8MO9yVEHUdjEVonUwettLy3Bg&oe=69F91751&_nc_sid=d885a2",
+                      "username": "firat_tuncbas__discorama_music"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17887296732491318",
+            "text": "Qwen",
+            "created_at": 1777478517,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "51180734465",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/354790438_1398734067643831_1466599861848798006_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=spNpTnfjo9kQ7kNvwHW9rN9&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af27VMdzXtszbZ18EykCKUTIRUL_0iZ-fMG8rrkKETJmaQ&oe=69F924BD&_nc_sid=d885a2",
+              "username": "armell.13"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18327224689251715",
+                    "text": "@armell.13 Sending right away",
+                    "created_at": 1777478545,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18099758555083339",
+            "text": "Qwen",
+            "created_at": 1777496525,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "8531997783",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/37545894_965841203599621_125581111408459776_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=uvMMuYCTlEQQ7kNvwGHp64G&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af105nPUiu7AnubaDhiUPBxZjMtcKsSOZts4hb4d6HGG6w&oe=69F92E5D&_nc_sid=d885a2",
+              "username": "ariel.ofer"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18117922228675569",
+                    "text": "@ariel.ofer On your way",
+                    "created_at": 1777496534,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18061591955450218",
+            "text": "Qwen",
+            "created_at": 1777491996,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "44783122566",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/663172542_18101448695490567_9018795557271489612_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=Y0daeuHeEy4Q7kNvwFnCqD3&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1HabCrn8HjGCmo-CxG74cC2dDA4cpqTK-JGN1YBOPFTA&oe=69F94870&_nc_sid=d885a2",
+              "username": "yogeesh_0202"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18086660186361346",
+                    "text": "@yogeesh_0202 On your way. Check DM",
+                    "created_at": 1777492007,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18083002214100167",
+            "text": "Qwen",
+            "created_at": 1777469696,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "58381899528",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGwN0Id9QI3jm_kYw5W5pbeFu9ep3X26elZk1K_jIuLNpV6hw1fRckoaCJJUG9T6XK4mcS9EA86oELGP2N-7nut&_nc_ohc=N4OOug8neF8Q7kNvwEsXB6p&_nc_gid=F3E0p_8oFIh_-7Dr-C6j9A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af2P-1SWm5qrC0w38-UIZJSUY2LX2OHODa0pWw3IHIvAfg&oe=69F9376A&_nc_sid=10d13b",
+              "username": "adnan_awan04"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18065307368353632",
+                    "text": "@adnan_awan04 On your way",
+                    "created_at": 1777469707,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17945841018158019",
+            "text": "Qwen",
+            "created_at": 1777555547,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "52743264687",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/512506764_18011344877752688_5422022503462108227_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=98CHN9RDGuwQ7kNvwEf1NZd&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0Wwg-2ddBI7Ok4X7Y9Gzuo7fVtPRzhOBfNxvuODB--qQ&oe=69F93CE6&_nc_sid=d885a2",
+              "username": "ronnielim17"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18068425613670422",
+                    "text": "@ronnielim17 Sending right away",
+                    "created_at": 1777555567,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18119979688633108",
+            "text": "Qwen",
+            "created_at": 1777448187,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "55207580233",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/301798891_779481860146479_752076083101734224_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=iaA1LS2wHG0Q7kNvwG7S9j6&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0EcvtvMLPph-0bvyGtYQM1-BPBclCuyaWl4cW08xhItw&oe=69F92BCB&_nc_sid=d885a2",
+              "username": "burns_22222"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18163351804428481",
+                    "text": "@burns_22222 On your way. Check DM",
+                    "created_at": 1777448197,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17946190107000788",
+            "text": "Qwen",
+            "created_at": 1777468026,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "41758689",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/461163983_1040371661145013_4677102936129422712_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=mvds6uC2kUgQ7kNvwFDK_yu&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0xJg-CNunJHUcLUAnej6lJwJmqN2Vn-mf_dpdjN0QH6g&oe=69F91542&_nc_sid=d885a2",
+              "username": "lex_merle"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18014684255847842",
+                    "text": "@lex_merle On your way",
+                    "created_at": 1777468039,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18124201204527556",
+            "text": "Qwen",
+            "created_at": 1777546159,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "62049446023",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670859490_17963092710070024_6707906949205183991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=snkB_Zj5Y9gQ7kNvwGGCmj8&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2KdQq5L_Sn9_hPqNx84BfIxz11ZJnqMFM9-xr6QnxmAA&oe=69F93898&_nc_sid=d885a2",
+              "username": "zeusheel"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17887119726485022",
+                    "text": "@zeusheel Sending right away",
+                    "created_at": 1777546179,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18099991127473768",
+            "text": "Qwen Distilled on Opus 4.6 is amazing Model , It's open on HF",
+            "created_at": 1777526756,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "45803255177",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/671806996_18083450156527178_4599174006594425864_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=JlTs2gFdQQUQ7kNvwF5qO3z&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1m98RvovDhNLv8kP6rFcJeIxZsr_Mwf-BF9xjfCHAobA&oe=69F94008&_nc_sid=d885a2",
+              "username": "ziyadwho0"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17889636216351649",
+                    "text": "@ziyadwho0 On your way",
+                    "created_at": 1777526810,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18319630015283183",
+            "text": "QWEN",
+            "created_at": 1777503383,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "241666595",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/618653041_18546396166002596_8292511063351750461_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDguYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=zR6TR0lXgR0Q7kNvwGR_wB4&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1CKrPFqGXp4gMVS6M5xqetCQA0xweWuQlUw8H4qoKWDA&oe=69F93559&_nc_sid=d885a2",
+              "username": "drcaiofabio"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18003739046734215",
+                    "text": "@drcaiofabio On your way",
+                    "created_at": 1777503394,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18064956173381036",
+            "text": "Qwen",
+            "created_at": 1777549065,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "67953742642",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/471953291_1403666807275535_5639658688958515373_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=BCpDH-GizcIQ7kNvwGgeoxY&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af13hocsnisYfWUZbBD6RWhjPWXyIouF6gjl6BP4dhX23Q&oe=69F94504&_nc_sid=d885a2",
+              "username": "nishanthrajendran4"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18090883115186450",
+                    "text": "@nishanthrajendran4 Sending right away",
+                    "created_at": 1777549077,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17892828747332698",
+            "text": "QWEN",
+            "created_at": 1777479959,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "34909276220",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/95980435_686968378716686_2530322567315587072_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=wyK-MsAiW_kQ7kNvwGiy3iG&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0fKODPPecAO7YOzu35K99e-_4YbKb3FNtV5fqwxAaobA&oe=69F937C1&_nc_sid=d885a2",
+              "username": "manish.subbu"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18059561207469004",
+                    "text": "@manish.subbu Sending right away",
+                    "created_at": 1777479970,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17934408402083815",
+            "text": "Qwen",
+            "created_at": 1777537102,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "64581239269",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/433298111_944513144060860_474419444013930763_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=KwgsCegm3OsQ7kNvwGxuzva&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0Rxu7EzlZp06Dxri-7JDer3SJWp6MU-LUS9Tbf-moAww&oe=69F91ABA&_nc_sid=d885a2",
+              "username": "rei.naldoaugusto"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17861705967685518",
+                    "text": "@rei.naldoaugusto On your way. Check DM",
+                    "created_at": 1777537114,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18004719872864514",
+            "text": "Qwen",
+            "created_at": 1777493050,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "49787271369",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGwN0Id9QI3jm_kYw5W5pbeFu9ep3X26elZk1K_jIuLNpV6hw1fRckoaCJJUG9T6XK4mcS9EA86oELGP2N-7nut&_nc_ohc=N4OOug8neF8Q7kNvwEsXB6p&_nc_gid=F3E0p_8oFIh_-7Dr-C6j9A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af2P-1SWm5qrC0w38-UIZJSUY2LX2OHODa0pWw3IHIvAfg&oe=69F9376A&_nc_sid=10d13b",
+              "username": "ft.midlaaj"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17915958765162551",
+                    "text": "@ft.midlaaj On your way. Check DM",
+                    "created_at": 1777493061,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18128138428586309",
+            "text": "Qwen",
+            "created_at": 1777478861,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "7701934877",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/488542288_1112411854254888_991794940482714158_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=hJ9VksV4ITYQ7kNvwHpraA5&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0xGakLg1QaIX94-meR5Qzt7flpfBfuhbuyuJUCIue7aQ&oe=69F94324&_nc_sid=d885a2",
+              "username": "kmldty"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18102203771486134",
+                    "text": "@kmldty On your way",
+                    "created_at": 1777478901,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18049725380724773",
+            "text": "Qwen",
+            "created_at": 1777467951,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "1922181019",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/449689395_502281198898510_6413837602980929406_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=gatVsA0cWv4Q7kNvwGUd_--&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2HLdvC1qREN5IcO32p3Bn-rw1rFAxqX-O06CSj7EnJEg&oe=69F9391A&_nc_sid=d885a2",
+              "username": "akshaykkumar_"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18109062457681647",
+                    "text": "@akshaykkumar_ On your way. Check DM",
+                    "created_at": 1777467964,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17887789797498804",
+            "text": "Qwen",
+            "created_at": 1777473298,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "3981091178",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/431460854_3624197304562640_3560663997497333931_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=0eJMvBQgle4Q7kNvwFKkXqW&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af26_QDdElf-eOX0PrDF9jUR0xpTIeRAygr6zBYpZBxhDw&oe=69F9201F&_nc_sid=d885a2",
+              "username": "kakenasowo"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18074899856237878",
+                    "text": "@kakenasowo On your way. Check DM",
+                    "created_at": 1777473308,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17910238401205323",
+            "text": "Qwen",
+            "created_at": 1777551093,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "7060314121",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/307565854_1432523997260141_6663121236491599887_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=BbFAnupDlwsQ7kNvwEZqLyz&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0YHnW6lMI1m-sVD7VbCdGjRii_WVzKSUpa0bCIt2kytA&oe=69F92149&_nc_sid=d885a2",
+              "username": "aimanzahid1610"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18115131391748648",
+                    "text": "@aimanzahid1610 Sending right away",
+                    "created_at": 1777551105,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18316476439258123",
+            "text": "Qwen",
+            "created_at": 1777502896,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "8547135768",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670804158_18315470152287769_6943867688144716599_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=M3PLe2x6QaUQ7kNvwFRq01d&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2jTl6lTZUZ_RkYdzmTTZYUcPbX7njNJTrr9mEzq-MfUw&oe=69F945A4&_nc_sid=d885a2",
+              "username": "nicoliebbe"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18457491139108710",
+                    "text": "@nicoliebbe On your way. Check DM",
+                    "created_at": 1777502909,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18074547959644331",
+            "text": "bruh, only if your laptop is powerful enough to run it 😒 couldn't get the 27b version to run on mine even, stop misleading",
+            "created_at": 1777306501,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "505749687",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/352236327_595034192609999_185037736119063363_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=XR914RShBogQ7kNvwE9HwjD&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2M7vqUMEbDvovEKL7Jf4vkIuRWT0s4pYJZp9hJ_Yds3g&oe=69F934CA&_nc_sid=d885a2",
+              "username": "ade6ayo"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 34
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 5,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFBMjhjUV9sajlEZ1VTd0hZR0g0cVZPWDVnQXFTQUlWVUJOR2Q4SkRERlY0SjV4d1Z5cFZ0SXprYnV3TkZxRVdPNnFKSXpqb1M3cnFGXzB6NVlrZ1JUQg=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17915902821164753",
+                    "text": "@hey.itsparthx777 sad stuff",
+                    "created_at": 1777405773,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "505749687",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/352236327_595034192609999_185037736119063363_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=XR914RShBogQ7kNvwE9HwjD&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2M7vqUMEbDvovEKL7Jf4vkIuRWT0s4pYJZp9hJ_Yds3g&oe=69F934CA&_nc_sid=d885a2",
+                      "username": "ade6ayo"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18090557774211549",
+                    "text": "@ade6ayo wdym 27B is dense version, and 35B a3b is just MoE version which mean, only 3b that run. (well you need atleast 35GB of VRAM, as i know)",
+                    "created_at": 1777427964,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "33309643871",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/281304054_3077878485794177_7706174095167397185_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=2q3VOrga_y8Q7kNvwHu6MoJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af09RQPGV9T5jBbJNmu5n-xqrArMTvM_8jVx7-thIslz5Q&oe=69F92E7C&_nc_sid=d885a2",
+                      "username": "jxxy_art"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18091807226613624",
+                    "text": "@ade6ayo I could run the 35:b easily on my laptop?",
+                    "created_at": 1777473839,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "74143885331",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGwN0Id9QI3jm_kYw5W5pbeFu9ep3X26elZk1K_jIuLNpV6hw1fRckoaCJJUG9T6XK4mcS9EA86oELGP2N-7nut&_nc_ohc=N4OOug8neF8Q7kNvwEsXB6p&_nc_gid=F3E0p_8oFIh_-7Dr-C6j9A&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af2P-1SWm5qrC0w38-UIZJSUY2LX2OHODa0pWw3IHIvAfg&oe=69F9376A&_nc_sid=10d13b",
+                      "username": "emilkuskhansen"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18551164447065570",
+            "text": "Qwen",
+            "created_at": 1777494600,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "46974258",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/340335943_539920234953924_4410060907375903139_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=9JU_7B7acnwQ7kNvwHNZpkC&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0GCXBELuElic6cn8dBqYmTiJysSapwB8CLnHO1yJ9SAA&oe=69F92794&_nc_sid=d885a2",
+              "username": "alaniblade"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17946292620161748",
+                    "text": "@alaniblade On your way",
+                    "created_at": 1777494610,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17916760266359806",
+            "text": "QWEN",
+            "created_at": 1777506818,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "1459071941",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/332308415_727776772156550_7128818733323368669_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=g-QLzRMVJo4Q7kNvwFoto5J&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3U1Kcqh6wPV203z3MDxcuPvNNrfPKbJf9K-Qx7VGEaiQ&oe=69F9372B&_nc_sid=d885a2",
+              "username": "pavithran_vinith"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18062150087424532",
+                    "text": "@pavithran_vinith Sending right away",
+                    "created_at": 1777506831,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66847293215",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+                      "username": "techwith.ram"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_hoisted_comment": {
+      "edges": []
+    },
+    "edge_media_preview_comment": {
+      "count": 516,
+      "edges": [
+        {
+          "node": {
+            "id": "17945841018158019",
+            "text": "Qwen",
+            "created_at": 1777555547,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "52743264687",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/512506764_18011344877752688_5422022503462108227_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=98CHN9RDGuwQ7kNvwEf1NZd&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0Wwg-2ddBI7Ok4X7Y9Gzuo7fVtPRzhOBfNxvuODB--qQ&oe=69F93CE6&_nc_sid=d885a2",
+              "username": "ronnielim17"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false
+          }
+        },
+        {
+          "node": {
+            "id": "18068425613670422",
+            "text": "@ronnielim17 Sending right away",
+            "created_at": 1777555567,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "66847293215",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/675423323_17935895472229216_5300013816307430226_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNbrEtWEhqpgpbamQCGGDImFuF7dWv8I0PhOV8RiAgZbJzlgZoeyf_8Hm3aFgkSg&_nc_ohc=bUp3j8VyfjkQ7kNvwFLLPdJ&_nc_gid=FcTs1toEUJJQVqmy5flumA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3K4MXveP0Y2BOIbMfJuGRu_LzXGSbpux5zEWeMw0jxTQ&oe=69F93961&_nc_sid=d885a2",
+              "username": "techwith.ram"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false
+          }
+        }
+      ]
+    },
+    "comments_disabled": false,
+    "commenting_disabled_for_viewer": false,
+    "taken_at_timestamp": 1777260846,
+    "edge_media_preview_like": {
+      "count": 4260,
+      "edges": []
+    },
+    "edge_media_to_sponsor_user": {
+      "edges": []
+    },
+    "is_affiliate": false,
+    "is_paid_partnership": false,
+    "location": null,
+    "nft_asset_info": null,
+    "viewer_has_liked": false,
+    "viewer_has_saved": false,
+    "viewer_has_saved_to_collection": false,
+    "viewer_in_photo_of_you": false,
+    "viewer_can_reshare": true,
+    "is_ad": false,
+    "edge_web_media_to_related_media": {
+      "edges": []
+    },
+    "coauthor_producers": [],
+    "pinned_for_users": []
+  },
+  "commentsRawData": [],
+  "stats": {
+    "topLevelFetched": 0,
+    "repliesFetched": 0,
+    "totalFetched": 0,
+    "igTotal": 516,
+    "coveragePct": "0.0",
+    "pagesScraped": 0
+  }
+}
