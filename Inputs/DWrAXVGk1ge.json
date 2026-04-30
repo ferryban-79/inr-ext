@@ -1,0 +1,1724 @@
+{
+  "shortcode": "DWrAXVGk1ge",
+  "mediaId": "3867186308234565662",
+  "igCommentCount": 6175,
+  "postRawData": {
+    "__typename": "XDTGraphVideo",
+    "__isXDTGraphMediaInterface": "XDTGraphVideo",
+    "id": "3867186308234565662",
+    "shortcode": "DWrAXVGk1ge",
+    "thumbnail_src": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658561490_919744384202606_6985011595789329425_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=we7-e3mP4Z8Q7kNvwEKn7jK&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af23GZaLsRst2u0CYJYrSFgGsBCBVtfbTQwQZ1WHgYjA3A&oe=69F9149B&_nc_sid=d885a2",
+    "dimensions": {
+      "height": 1136,
+      "width": 640
+    },
+    "gating_info": null,
+    "fact_check_overall_rating": null,
+    "fact_check_information": null,
+    "sensitivity_friction_info": null,
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "media_overlay_info": null,
+    "media_preview": "ABgqxzKDHt756dunrV9LVSPLOOuCcDPpnPXr2qraRx4Ly9OgGDj6nFaaTWiv5hY564+bGcYzjHWj0KXmZi3ARdhVSVBHTr2zRS3oic74SMDrgEd+D/Q0UIlleSUPgAYCgCoyo7c/gR/WiPAYE9AauCQYIxlT35x1/L8PWlsPcrRts3D+8MUUzvRVCG4zwKkdSoC5z3wPX/8AVTR90miP+L/dP9KQxuaKbRQI/9k=",
+    "display_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658561490_919744384202606_6985011595789329425_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=we7-e3mP4Z8Q7kNvwEKn7jK&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af03NFS4azTxuZRm9g0JKbNb2WJUuZRQIARJPFVk8ue9Pw&oe=69F9149B&_nc_sid=d885a2",
+    "display_resources": [
+      {
+        "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658561490_919744384202606_6985011595789329425_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=we7-e3mP4Z8Q7kNvwEKn7jK&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af03NFS4azTxuZRm9g0JKbNb2WJUuZRQIARJPFVk8ue9Pw&oe=69F9149B&_nc_sid=d885a2",
+        "config_width": 640,
+        "config_height": 1136
+      },
+      {
+        "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658561490_919744384202606_6985011595789329425_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=we7-e3mP4Z8Q7kNvwEKn7jK&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af03NFS4azTxuZRm9g0JKbNb2WJUuZRQIARJPFVk8ue9Pw&oe=69F9149B&_nc_sid=d885a2",
+        "config_width": 750,
+        "config_height": 1331
+      },
+      {
+        "src": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658561490_919744384202606_6985011595789329425_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=we7-e3mP4Z8Q7kNvwEKn7jK&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af03NFS4azTxuZRm9g0JKbNb2WJUuZRQIARJPFVk8ue9Pw&oe=69F9149B&_nc_sid=d885a2",
+        "config_width": 1080,
+        "config_height": 1917
+      }
+    ],
+    "accessibility_caption": null,
+    "dash_info": {
+      "is_dash_eligible": true,
+      "video_dash_manifest": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<MPD xmlns=\"urn:mpeg:dash:schema:mpd:2011\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd\" profiles=\"urn:mpeg:dash:profile:isoff-on-demand:2011\" minBufferTime=\"PT2S\" type=\"static\" mediaPresentationDuration=\"PT143.544312S\" FBManifestTimestamp=\"1777556606\" FBManifestIdentifier=\"Fvzxmp8NGBJyMmV2ZXZwOS1yMWdlbjJ2cDkZZp7osoi30bYD9qaMwPyr3waKwbu/6YiuCJK+1fHQ9oMK7uOprtqc8A38j8j27NTkYCIYGGRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsGRgObW9kZXJhdGVfaGVhdnkAFjQUABIUAgA=\"><Period id=\"0\" duration=\"PT143.544312S\"><AdaptationSet id=\"0\" contentType=\"video\" subsegmentAlignment=\"true\" par=\"9:16\" FBUnifiedUploadResolutionMos=\"360:75.9\"><Representation id=\"2823384918044553v\" bandwidth=\"132730\" codecs=\"vp09.00.30.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2evevp9-r1gen2vp9_q50\" FBContentLength=\"2381409\" FBPlaybackResolutionMos=\"0:100,360:89,480:87,720:83.4,1080:81\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:96,480:95,720:92.5,1080:88.5\" FBAbrPolicyTags=\"\" width=\"540\" height=\"960\" frameRate=\"15360/512\" FBQualityClass=\"sd\" FBQualityLabel=\"480p\"><BaseURL>https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m366/AQNEaCJB2ZKqjgjvWOpWCvcpr_WK3cDRWWTfyJ7BDQf5_qe5Xt4VtktvaD2gLR5et9lc1EfA7oXZfb01geN6D8uGH9-I_Jr3w38EDek.mp4?_nc_cat=110&amp;_nc_sid=9ca052&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_ohc=7aE2MWC9JjAQ7kNvwEUOtj2&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E1MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzk0NDU2NDUyNzE0OTU1MiwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQzLCJiaXRyYXRlIjoxMzI3MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&amp;_nc_zt=28&amp;_nc_ss=7a22e&amp;oh=00_Af3nf-XylnLWRxsFaK59NMJ5hcCAxmZ0fPMNKZbIvMNQTw&amp;oe=69F9140B</BaseURL><SegmentBase indexRange=\"818-1197\" timescale=\"15360\" FBMinimumPrefetchRange=\"1198-33405\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"1198-60009\" FBFirstSegmentRange=\"1198-83434\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"83435-168146\" FBPrefetchSegmentRange=\"1198-83434\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-817\"/></SegmentBase></Representation><Representation id=\"1898512514124219v\" bandwidth=\"275270\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2evevp9-r1gen2vp9_q60\" FBContentLength=\"4938815\" FBPlaybackResolutionMos=\"0:100,360:93.2,480:92,720:90.2,1080:87.8\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:97.2,480:96.9,720:95.8,1080:93.8\" FBAbrPolicyTags=\"\" width=\"720\" height=\"1280\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"540p\"><BaseURL>https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m366/AQP-8db--4pXb0UFVu8CqIACZdLjKEoYYs2s2GRVAoc2DLOY5NDNz1wwuVWI64sPzO4MONZXkF7l2hpp9BVf-7k_Z7FQv5xkAYilP6w.mp4?_nc_cat=100&amp;_nc_sid=9ca052&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_ohc=ZsSsW3M1DcAQ7kNvwHfmb1R&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E2MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzk0NDU2NDUyNzE0OTU1MiwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQzLCJiaXRyYXRlIjoyNzUyNzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&amp;_nc_zt=28&amp;_nc_ss=7a22e&amp;oh=00_Af16JHr8gb4l9olQ-8tcFVbVHTMYvVYHWjWbbZ6oxvT06A&amp;oe=69F93421</BaseURL><SegmentBase indexRange=\"818-1197\" timescale=\"15360\" FBMinimumPrefetchRange=\"1198-59951\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"1198-126719\" FBFirstSegmentRange=\"1198-176331\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"176332-348832\" FBPrefetchSegmentRange=\"1198-176331\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-817\"/></SegmentBase></Representation><Representation id=\"2353106481803333v\" bandwidth=\"418266\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2evevp9-r1gen2vp9_q70\" FBContentLength=\"7504407\" FBPlaybackResolutionMos=\"0:100,360:94.5,480:93.6,720:92.3,1080:89.9\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:97.6,480:97.5,720:96.8,1080:95.2\" FBAbrPolicyTags=\"avoid_on_cellular,avoid_on_cellular_intentional\" width=\"720\" height=\"1280\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"640p\"><BaseURL>https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m366/AQMz2-xGKWytvSkWmQzEAHNe9RoaaVw4U9orM5oNrmIqRO1k-ys5sSzOKOuQIpejfK9CtabPfYrhD1XHCJF5ybLy3VVwMmPwPEsTQ8A.mp4?_nc_cat=100&amp;_nc_sid=9ca052&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_ohc=uXTaT4bpwkIQ7kNvwHvHKSP&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E3MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzk0NDU2NDUyNzE0OTU1MiwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQzLCJiaXRyYXRlIjo0MTgyNjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&amp;_nc_zt=28&amp;_nc_ss=7a22e&amp;oh=00_Af2PGCbp2oaTCq6YPDAwYK1KAjn1cghj03IBISEktlRf1g&amp;oe=69F93A4D</BaseURL><SegmentBase indexRange=\"818-1197\" timescale=\"15360\" FBMinimumPrefetchRange=\"1198-76504\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"1198-195128\" FBFirstSegmentRange=\"1198-282169\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"282170-536207\" FBPrefetchSegmentRange=\"1198-282169\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-817\"/></SegmentBase></Representation><Representation id=\"27242957818627070v\" bandwidth=\"626852\" codecs=\"vp09.00.31.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2evevp9-r1gen2vp9_q80\" FBContentLength=\"11246787\" FBPlaybackResolutionMos=\"0:100,360:95.4,480:94.7,720:93.6,1080:91.3\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:97.8,480:97.7,720:97.2,1080:96\" FBAbrPolicyTags=\"avoid_on_cellular,avoid_on_cellular_intentional\" width=\"720\" height=\"1280\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"720p\"><BaseURL>https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m366/AQOkRuAxUZmjQDtracl7Mt1CUE6NL5CSyyTvuTh-vmLj8E6t_svR537KNoSUsmldLBzZ59oTNBDzpCF9ed-QIQ7LeWH449owavqPTmw.mp4?_nc_cat=101&amp;_nc_sid=9ca052&amp;_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_ohc=4G6i-f0RllEQ7kNvwGOPZaD&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E4MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzk0NDU2NDUyNzE0OTU1MiwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQzLCJiaXRyYXRlIjo2MjY4NTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&amp;_nc_zt=28&amp;_nc_ss=7a22e&amp;oh=00_Af0nISDGE-iregMWIFsOLCuXwOaqSud-5IaCrJvX_OJXWg&amp;oe=69F942E6</BaseURL><SegmentBase indexRange=\"818-1197\" timescale=\"15360\" FBMinimumPrefetchRange=\"1198-95954\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"1198-299593\" FBFirstSegmentRange=\"1198-452496\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"452497-859470\" FBPrefetchSegmentRange=\"1198-452496\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-817\"/></SegmentBase></Representation><Representation id=\"964571146115599v\" bandwidth=\"871493\" codecs=\"vp09.00.40.08.00.01.01.01.00\" mimeType=\"video/mp4\" sar=\"1:1\" FBEncodingTag=\"dash_r2evevp9-r1gen2vp9_q90\" FBContentLength=\"15636051\" FBPlaybackResolutionMos=\"0:100,360:96,480:95.3,720:94.3,1080:93.6\" FBPlaybackResolutionMosConfidenceLevel=\"high\" FBPlaybackResolutionCsvqm=\"0:100,360:97.8,480:97.7,720:97.4,1080:96.9\" FBAbrPolicyTags=\"avoid_on_cellular,avoid_on_cellular_intentional\" width=\"1080\" height=\"1920\" frameRate=\"15360/512\" FBQualityClass=\"hd\" FBQualityLabel=\"1080p\"><BaseURL>https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m366/AQNrNIA-8qTGy92w35E0LCc7nYDiPsjhtBdm5wVtUX1vdp0v4-hHPGxa1Q4mvqbAYVp9iibXRhO5Q8a2bpiM_1ot91YtzdSJ9URWYLA.mp4?_nc_cat=102&amp;_nc_sid=9ca052&amp;_nc_ht=scontent-iad6-1.cdninstagram.com&amp;_nc_ohc=rQjZ7cEo2jkQ7kNvwHZPkH9&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfcjJldmV2cDktcjFnZW4ydnA5X3E5MCIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzk0NDU2NDUyNzE0OTU1MiwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQzLCJiaXRyYXRlIjo4NzE0OTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&amp;_nc_zt=28&amp;_nc_ss=7a22e&amp;oh=00_Af02Yn0lO0oE2-UNc3jsjRj3aPknZnJWsfzeN-oLARZqAQ&amp;oe=69F9251F</BaseURL><SegmentBase indexRange=\"818-1197\" timescale=\"15360\" FBMinimumPrefetchRange=\"1198-118195\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"1198-398888\" FBFirstSegmentRange=\"1198-614385\" FBFirstSegmentDuration=\"5000\" FBSecondSegmentRange=\"614386-1191859\" FBPrefetchSegmentRange=\"1198-614385\" FBPrefetchSegmentDuration=\"5000\"><Initialization range=\"0-817\"/></SegmentBase></Representation></AdaptationSet><AdaptationSet id=\"1\" contentType=\"audio\" subsegmentStartsWithSAP=\"1\" subsegmentAlignment=\"true\"><Representation id=\"3905958466369783a\" bandwidth=\"55396\" codecs=\"mp4a.40.5\" mimeType=\"audio/mp4\" FBAvgBitrate=\"55396\" audioSamplingRate=\"44100\" FBEncodingTag=\"dash_ln_heaac_vbr3_audio\" FBContentLength=\"995687\" FBPaqMos=\"89.78\" FBAbrPolicyTags=\"\"><AudioChannelConfiguration schemeIdUri=\"urn:mpeg:dash:23003:3:audio_channel_configuration:2011\" value=\"2\"/><BaseURL>https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m78/AQMF5sDnm7Ku34j5GpmyuA5D6yweBGeiPc3tFI4vdxvRluOrDpckA7jolbYI8NQXvonR4hDbh_f3mbOPgeiEFSaePCM_0lN8o12ZuE8.mp4?_nc_cat=105&amp;_nc_sid=9ca052&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;_nc_ohc=vCp-NsYuKxsQ7kNvwEVUwjU&amp;efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfbG5faGVhYWNfdmJyM19hdWRpbyIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoxNzk0NDU2NDUyNzE0OTU1MiwiYXNzZXRfYWdlX2RheXMiOjI2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQzLCJiaXRyYXRlIjo1NTQ5MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&amp;ccb=17-1&amp;_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&amp;_nc_zt=28&amp;_nc_ss=7a22e&amp;oh=00_Af0oZNhZT5kXl8QBh0psCuNJpLR8gIxMMqP7ghi60hwIpw&amp;oe=69F520CA</BaseURL><SegmentBase indexRange=\"824-1719\" timescale=\"44100\" FBMinimumPrefetchRange=\"1720-2063\" FBPartialPrefetchDuration=\"2500\" FBPartialPrefetchRange=\"1720-18995\" FBFirstSegmentRange=\"1720-16290\" FBFirstSegmentDuration=\"2021\" FBSecondSegmentRange=\"16291-29120\" FBPrefetchSegmentRange=\"1720-29120\" FBPrefetchSegmentDuration=\"4017\"><Initialization range=\"0-823\"/></SegmentBase></Representation></AdaptationSet></Period></MPD>\n",
+      "number_of_qualities": 5
+    },
+    "has_audio": false,
+    "video_url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t16/f2/m86/AQNrygYsFX6JdNvBjiIhAofNPIhGTfD_luzeX16-VNKC0XYNQDR5AShPxgz52api2MD8R1wTuMex7CUktQtHKqhLwrEN1xRVnPLJTrg.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=104&vs=1274527301298022_882115441&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMjRDNzI2QzFGOUFBNEJGOUQ4RUQwQ0E4NUFFNDBCOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U3NDYyNkMzOUI0MTI4MDMyQ0MzRTVFOTdGMjREOEJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAm4KW8k5Cf4D8VAigCQzMsF0Bh8Q5WBBiTGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=2ac92749b8&ccb=9-4&oh=00_Af1hEKt0UxyKDSCE0Hc_uy7VwruxbJFAaRsEWWma26ixDA&oe=69F52948&_nc_sid=d885a2",
+    "video_view_count": 1094803,
+    "video_play_count": 3421205,
+    "encoding_status": null,
+    "is_published": true,
+    "product_type": "clips",
+    "title": "",
+    "video_duration": 143.545,
+    "clips_music_attribution_info": {
+      "artist_name": "isherazbutt",
+      "song_name": "Original audio",
+      "uses_original_audio": true,
+      "should_mute_audio": false,
+      "should_mute_audio_reason": "",
+      "audio_id": "26330367069968164"
+    },
+    "is_video": true,
+    "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMmFjOTIyYzViOTAyNDVmYmI2ODBlZjgzMmE2MmU1YTQzODY3MTg2MzA4MjM0NTY1NjYyIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYwNjQ1MnwzODY3MTg2MzA4MjM0NTY1NjYyfDQwOTc5Nzg4NDg0fDU5Nzc0ZGQxMmJkNTNiNjAxNGRlMzRmYzczY2FkNjZmZTJkZDg1ZDg1MTc2OGQ2ZDdkOTgyNGVkMDdlZjgxMTUifSwic2lnbmF0dXJlIjoiIn0=",
+    "upcoming_event": null,
+    "edge_media_to_tagged_user": {
+      "edges": [
+        {
+          "node": {
+            "user": {
+              "full_name": "Sheraz Butt",
+              "followed_by_viewer": false,
+              "id": "40118812326",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/552349753_18066659186340327_4559586055665761370_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=QwaooOJCkN8Q7kNvwHXXlG9&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2dM4ORuAiwfnprrnn5Nik9P32VMMXVpFpHTXx78Yrk5g&oe=69F937AE&_nc_sid=d885a2",
+              "username": "i_sherazbutt"
+            },
+            "x": 0,
+            "y": 0,
+            "id": "3867186308234565662@40118812326"
+          }
+        }
+      ]
+    },
+    "owner": {
+      "id": "1745676346",
+      "username": "isherazbutt",
+      "is_verified": true,
+      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/473812306_948582477257254_7979709576409898087_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=w3espKQjmNYQ7kNvwG6K61j&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af17bTyLWj2L6wpkdHPCLrSxcvARkbLop8Y6OI-Tdo0Ptw&oe=69F927A9&_nc_sid=d885a2",
+      "blocked_by_viewer": false,
+      "restricted_by_viewer": false,
+      "followed_by_viewer": false,
+      "full_name": "Sheraz Butt",
+      "has_blocked_viewer": false,
+      "is_embeds_disabled": false,
+      "is_private": false,
+      "is_unpublished": false,
+      "requested_by_viewer": false,
+      "pass_tiering_recommendation": true,
+      "edge_owner_to_timeline_media": {
+        "count": 1293
+      },
+      "edge_followed_by": {
+        "count": 923535
+      }
+    },
+    "edge_media_to_caption": {
+      "edges": [
+        {
+          "node": {
+            "created_at": "1775224639",
+            "text": "May Allah Guide us All Ameen",
+            "id": "18084987143203859"
+          }
+        }
+      ]
+    },
+    "can_see_insights_as_brand": false,
+    "caption_is_edited": false,
+    "has_ranked_comments": true,
+    "like_and_view_counts_disabled": false,
+    "edge_media_to_parent_comment": {
+      "count": 6175,
+      "page_info": {
+        "has_next_page": true,
+        "end_cursor": "{\"cached_comments_cursor\": \"18095667371281705\", \"bifilter_token\": \"KC4BEAAwABgAEAAIAAgACAAIAAgA_abb_ZZrktVUs3eM6f1___x_vB9theDnEIIAAA==\"}"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "18165476179417587",
+            "text": "🙌🙌",
+            "created_at": 1775224717,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "44898920720",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/671825760_18107878937496721_8927543913077986756_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=y059XMyb1isQ7kNvwEglxss&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1GsBJYcW7hLr5UfYTvLY13zJPY0YHW1dClZTNR1fMIOA&oe=69F93C6E&_nc_sid=d885a2",
+              "username": "iumarsultann"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 65
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 8,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFEZ3VfUERuUlluandFYVg3WHhfeW9fcVZWRE1zX2pWejVoeEhFVm9DYmhlRS1tS0hWNjhmX2ZNVUF0XzZUUVRhUDE4RThBaVphb0puWXV5MHVqZXRtUQ=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18260819761292729",
+                    "text": "@iumarsultann sharam kro sharm esy hi Kisi mufti alim k khilaf bolny walon",
+                    "created_at": 1775254702,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "77646286691",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/568205431_17846196870590692_7907159714119253756_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=Caws_NiAggoQ7kNvwHPrHe1&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af11CGT5RQDfenqCaH-9igtNDaObxawrwFHQ-WmQ4n3Ymw&oe=69F942FE&_nc_sid=d885a2",
+                      "username": "sada_e_haq_media_cell"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18060274235418646",
+                    "text": "@isherazbutt",
+                    "created_at": 1775278275,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "64166752567",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/631800847_17939822334136568_6950846447240571158_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=M_AS3-ExRUkQ7kNvwHTBOhL&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1SVMLS5VJpty4JWSjcmk8gDyBwCNNl0A9LIyeSmSnyMA&oe=69F926B1&_nc_sid=d885a2",
+                      "username": "noma.njhojha"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18040858916782352",
+                    "text": "@isherazbutt You’ll be held accountable for misrepresenting the truth. He posted what the White House said, he didn’t say it himself",
+                    "created_at": 1775489150,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "68683245983",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/610688192_17911534020293984_5206854542143836802_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=JcXKM5hIuOAQ7kNvwGLE-pg&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0rEV80GexISfTfuMQJ0N3mJdS0iKtKwqA5izJITrVwVg&oe=69F94796&_nc_sid=d885a2",
+                      "username": "meht_abakbar"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18095426272845352",
+            "text": "Thank you so much for posting this. Major respect !",
+            "created_at": 1775229940,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "6520988569",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/671780731_18336523708220570_7103755102169334274_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=SbN_dLnS6WgQ7kNvwH-8poY&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2k5XmAEwE_h_kQDLEG1GRghJrkXzrBEHVwPqEZWcrPLw&oe=69F938B8&_nc_sid=d885a2",
+              "username": "mehyk.ali"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 26
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18076644608156698",
+            "text": "💔💔",
+            "created_at": 1775308789,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "18874795573",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/658011412_18119856997627574_7665908000550727029_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=1n6SM_bDCdAQ7kNvwHsyqSQ&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af07QTxavoe751YYoiBRvbf5NNgzeUdJXMddeCwjsz_sww&oe=69F938F8&_nc_sid=d885a2",
+              "username": "rafay6733"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18038344766610323",
+            "text": "Do not be fooled by one who recites the Qur'an. His recitation is but speech – but look to those who act according to it ~ hazrat Umar r.a",
+            "created_at": 1775224830,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "52273011336",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/604594141_18034234553739337_4828061541364278009_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=TpS6jzFpFeQQ7kNvwGSWQp2&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3meMmxNCJVqX68JVMCRuXe8MeIIYqxUw0dHgIFe8_giQ&oe=69F9437F&_nc_sid=d885a2",
+              "username": "i_am_umarusman"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 4171
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 23,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFENGs5T1JnNUducUdZQzVFX1JZRU11RVF2YlNwNGN0RFF4RjFUQ3ZNRzhrUFFNLXBSelQ5d1ROaWxuNVZFMXdyZGxqZkFwYUMya1paMU82bGhfSXZOVA=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18310656262279926",
+                    "text": "@i_am_umarusman yes bro but this statement is also mentioned in the Quran many times and also in a  well known Surah asr.",
+                    "created_at": 1775934248,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "69005179056",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/460820440_1089550339312392_3423372965104392427_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=Cxw1DZiZToIQ7kNvwFvuT6R&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3UhivWry_s1Vn20WD1pBLbYbbBSKz6_i0y-y3GZRDGQg&oe=69F91EBC&_nc_sid=d885a2",
+                      "username": "muhammadfaizan.khalid"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17867478267522955",
+                    "text": "@i_am_umarusman @ukashajarral",
+                    "created_at": 1776265086,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "60495228319",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/672980929_17970144546020320_7505490664114700997_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=x2FOLFfGeaoQ7kNvwHZ7sfm&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0OZPZkU8FLIV9CFsei-J4gWvB2HuTCZvn3wwfXY3vHTg&oe=69F94321&_nc_sid=d885a2",
+                      "username": "_hamna.j"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18171023014408538",
+                    "text": "@i_am_umarusman i also cross-checked. Thanks, liked your approach.",
+                    "created_at": 1776418336,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "43805943194",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/566241757_18070382969463195_868207210168034596_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=yABFgwr1HuIQ7kNvwHXf4kQ&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af08rz20u-vlihws0S4FWReVtaklJat4nHoahnTYkjCBUw&oe=69F921AF&_nc_sid=d885a2",
+                      "username": "zo.ha_z"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17982015449995288",
+            "text": "ALLAH PAK HIDAYAT DAEY",
+            "created_at": 1775225176,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "7570313391",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/582944867_18302654302249392_938170483625561887_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MTguYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=Q8GPWMMoQEAQ7kNvwGb02nH&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3TLyflRTUxYAeGCkDOmOoXR9jsu7Qmu1ik9U2vic7mlQ&oe=69F92E26&_nc_sid=d885a2",
+              "username": "islamabad__vibes"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1228
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 11,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFCZTgxRzRTTmxSWkcwZDBnNVktcTVTWDlsRTd1dHZoUTVoZjZDUHZDSkNmUm4xcnYyOW01MzlobzZHNk8xcVVSQnFrc2NyUFVfM3RtUWh0TGJBajVqaQ=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18429761506188209",
+                    "text": "@islamabad__vibes we need to verify first, was that from his original account",
+                    "created_at": 1775337865,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "1723385601",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/185835794_302702748114212_7980197472084412854_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=62mrEcavG6YQ7kNvwFfvNjE&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0YvQ84CTmvZ4rOnYFTxYRYVHW3WZZVTwLZV-o_JYaV9A&oe=69F9411C&_nc_sid=d885a2",
+                      "username": "_.usm5_"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18203188441339373",
+                    "text": "@islamabad__vibes aisay logon ko hidayat nahi milti 😢",
+                    "created_at": 1775366927,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "67014319194",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/650019836_17927894910239195_2901404197652683900_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=n2NqhB975vAQ7kNvwFAggFn&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af32LnB2hajaAAk3LWhOqUXgHrJ4fbN03Kc0au0ZyiSdEA&oe=69F919B6&_nc_sid=d885a2",
+                      "username": "not._.wasee"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18099994517312469",
+                    "text": "@islamabad__vibes oh bhai Allah ta aala ne inse hidayat cheen li he tabhi ye aesi harkatein kar rahe hein laanti",
+                    "created_at": 1775410854,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "50217633846",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/626222237_18057474407673847_4867491916377853307_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=vXFbUjXnqm4Q7kNvwEWBDYW&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af27pDTOMzhImatbrchPC-D9UnmHpIJxknisJ3VjzPF2hA&oe=69F93D97&_nc_sid=d885a2",
+                      "username": "fazalmk7860"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18405381985180508",
+            "text": "He was once my favorite Quran reciter, but I no longer respect him ..",
+            "created_at": 1775225835,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "48793641031",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/658769521_18077572712625032_2258298670028166872_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MTcuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=3WnFK_NFvGMQ7kNvwGD561b&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0BPlKjycIt5fGnap-9doEjqAEBGceRM5Ic2Cs5A1Q7Xg&oe=69F92D0E&_nc_sid=d885a2",
+              "username": "_imnajamsaleem_"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1831
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 68,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFDc2JTRlJYVTE0UXZEQ2Fhb01KUlB1aWRNQW1rWEJNTnl5M0NLYnVKN19EeHQ4UjdVVXNwbUsxS3FqdG5VM1Ata0xrMExFeXVaRzY0ZmI5RXFTeWxNNw=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18127497622580513",
+                    "text": "@_imnajamsaleem_ he is jewish agent",
+                    "created_at": 1775767011,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "10028256063",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/92036044_225162425401216_9217577868274434048_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=7pjcsvnXSAoQ7kNvwGtvwUf&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3uvgfsSNu2vzybsHepHkI8WFTD7Mqe-0nLnDYQPOLj1A&oe=69F91788&_nc_sid=d885a2",
+                      "username": "meditation.wazaif_healer"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18045966941772712",
+                    "text": "@meditation.wazaif_healer 😳",
+                    "created_at": 1775900754,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "48793641031",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/658769521_18077572712625032_2258298670028166872_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MTcuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=3WnFK_NFvGMQ7kNvwGD561b&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0BPlKjycIt5fGnap-9doEjqAEBGceRM5Ic2Cs5A1Q7Xg&oe=69F92D0E&_nc_sid=d885a2",
+                      "username": "_imnajamsaleem_"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17944624275155322",
+                    "text": "@_imnajamsaleem_ you should know what he saying !",
+                    "created_at": 1776089609,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "10028256063",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/92036044_225162425401216_9217577868274434048_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=7pjcsvnXSAoQ7kNvwGtvwUf&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3uvgfsSNu2vzybsHepHkI8WFTD7Mqe-0nLnDYQPOLj1A&oe=69F91788&_nc_sid=d885a2",
+                      "username": "meditation.wazaif_healer"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17911245189179650",
+            "text": "😢 This has broke my heart today",
+            "created_at": 1775252359,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "58661387239",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/335750410_746295113573660_5878695978147844437_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=wS7-Hs6Th1cQ7kNvwEO6Ll7&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2qydsY4BPKGGLl3xsXGT5MBUeVYPrB52CSEgmEjey6MQ&oe=69F92C99&_nc_sid=d885a2",
+              "username": "womanwithadoggo"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 95
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 3,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18572586877033874",
+                    "text": "@womanwithadoggo same",
+                    "created_at": 1775255621,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "2001931114",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/623448101_18533995819067115_5749330924615409835_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=LAKIwTC363YQ7kNvwFAbvfH&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2N4gAdWrVlBCqY767F_TgepbdPhRYsVSwaLf215AKVHQ&oe=69F94836&_nc_sid=d885a2",
+                      "username": "talha__basit"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17884859184374608",
+                    "text": "@womanwithadoggo pakistaniyo or israel wali pe kabi yaqeen mat kar yi sab saajashe log hai musalmnao ko srif badnam karte hai.",
+                    "created_at": 1775329768,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "1620453643",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/473140106_1701836823706946_3888588742561845593_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=rnRUrknYKBQQ7kNvwHmSyl-&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0ihwbaJrOjirbXY4fgTMDx7May9iN0PXraMNlvLLb2AQ&oe=69F9161C&_nc_sid=d885a2",
+                      "username": "zakaria_buneri"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17993659703929835",
+                    "text": "@zakaria_buneri do not bring Pakistan in between",
+                    "created_at": 1775372669,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "23071454846",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/73290820_260192294888902_8453300055837769728_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=LhZ2k42jwdQQ7kNvwG_Xa4r&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2wnpIB8T0IjNvsGkKWcztCQh8GGMP7FTHk9_IhXoKOWA&oe=69F92FB7&_nc_sid=d885a2",
+                      "username": "hihupk"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18069843293290284",
+            "text": "ہم اس کی تلاوت سنتے ہیں ❤️‍🩹😢بہت دکھ ہوا ہے Astaghfirullah",
+            "created_at": 1775229538,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "6282939240",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/684159943_18352778506211241_7631420509491427281_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=9Zd10VZII1wQ7kNvwFsZ1JI&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3cmiBHKVVNis5o736Kbd9mzVLKcwwfSd4Gjy9zgDt3ig&oe=69F92B04&_nc_sid=d885a2",
+              "username": "oajezahra7"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 541
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 22,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFCeHNMbUszN055c2NZb1ZTc0o0b1kwalM3R1pLTkc2MG9KbzRRUk5MR1RiRk8xbnRQeGR2X0RhRGdFWnh0SmN4a1hDd0h6YlNQN18zY2Uzd3QtTjFwNw=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18124267330593405",
+                    "text": "@zain_kamboh3 you are right inko frame kia jarha ha and ye hacked account han",
+                    "created_at": 1775322551,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "59563767616",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/619848274_17974722095991617_3875694881101336099_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=WANRAdSPdvEQ7kNvwH0v1jx&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1h__2Wm-ZoNEg2wyVQd9fUizTIMp7yQKMjovZNf7aeNg&oe=69F92756&_nc_sid=d885a2",
+                      "username": "salarelsa2000"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18099484216791409",
+                    "text": "ابھی سنتے ہیں 😅",
+                    "created_at": 1775351846,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "3638261759",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/240392635_818909568774157_2687095828911588023_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=7IBCHkQSzIwQ7kNvwF6kTzL&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2bjfaD2dUyu3Y1H7XaPUqQ_QrbIBXBomcRpjjkb4SyNA&oe=69F939ED&_nc_sid=d885a2",
+                      "username": "azizmehdi83"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18577751974021385",
+                    "text": "Yeh bt bhi h",
+                    "created_at": 1775501412,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "1755567049",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/605989578_18547600474047050_3331102253808634485_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=YJxkApOSI4YQ7kNvwGda0lq&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3L5Ar3-EpmwaPoslg2Iwj_VujSgXsNi2ZAUGw_rlwRYQ&oe=69F93ECE&_nc_sid=d885a2",
+                      "username": "_mahilicious"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18045774248563086",
+            "text": "Qayamat is here soon😢",
+            "created_at": 1775230146,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "247679267",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/563441526_18524983696063268_7048451661629619603_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=T3D07y8z_9IQ7kNvwF_JfFg&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0xGOoWgsWM2OC2LHkIbkZTtKhKOCa7uPO3WUBXkjGAGQ&oe=69F9283E&_nc_sid=d885a2",
+              "username": "bridalartstudiobyasra"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 435
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 2,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18111116452796926",
+                    "text": "@bridalartstudiobyasra Fake tweet hai us nay aisi koi tweet nai di",
+                    "created_at": 1775249745,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "35849430170",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/659031286_18085130966198171_4027927688339907708_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=a-HsDmffK5sQ7kNvwHHkp2f&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2yKyvRonkmD1pI5yaKLV66Iqfb378BBDVBJvF7ITkK0g&oe=69F918EF&_nc_sid=d885a2",
+                      "username": "anwarkakar28"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17942050665171797",
+                    "text": "Bhai ap ne kasy check kia kindly mujy be bat dein ❤️",
+                    "created_at": 1775286224,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "60535853070",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/670916674_17969257395021071_1544188935076369510_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=M1vjJ-dInm8Q7kNvwE0Vkfs&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3XdBnyzsLRAMDnkJXRcExouMgtJk6qI5GUsUVsvySNEg&oe=69F91369&_nc_sid=d885a2",
+                      "username": "haseeb__911"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18065993102411087",
+            "text": "And hamay aysy logo say bachny ko kaha Gayá hai 🥺🥺",
+            "created_at": 1775226652,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "6671099967",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/503023690_18296878897219968_9147474791075000135_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=FyFst8zjYjYQ7kNvwE1aIrQ&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1f4zHuOcxDos-CzMzsrlPWGH57wObLTtHwdFZq3uQmAA&oe=69F921BA&_nc_sid=d885a2",
+              "username": "supersalmakhann"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 184
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 7,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFDNEZDY3FSSkR2QWFFcXg0aUI1Q0xxMTh2Y3RQbkdEcGF6c3lPRjJQNXFTam5Hckd6U3hjNVc4S3NjcDZ3QS1qR3FZTGgyLUpLMnlkdkpUdnl1MlpTMg=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18111543886814249",
+                    "text": "@zain_kamboh3 haafiz to yazeed bh th dunia to usa bh janti th , mishray rashid muslim logo ki bajae kaafiro ko motivate kr raha ho phir lanat hi ho asa banda pr ,",
+                    "created_at": 1775248717,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "60537548370",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/483749486_1029322929037953_895111071333447130_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzYuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=Y_x3Mw1d1HsQ7kNvwEvTWId&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0-Cmg8iwd3YgqAmQQnWa1i1Y7wczM8S-JmuEAu-hxVdg&oe=69F923A2&_nc_sid=d885a2",
+                      "username": "malik_irtaza_khokhar_01"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18124381396525116",
+                    "text": "@supersalmakhann plz pehly statement check kren unho ny retwet kia hy un ka account chek kren k who kya keh rhy hen",
+                    "created_at": 1775279279,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "2867276928",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/221385523_252804836656522_2403703201452812828_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=nbvS2kz2tEAQ7kNvwFMlhyZ&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0kPUxvKfiFtKYodUKkWpEmuPJHY1io999IuQxkzXOrWQ&oe=69F913D9&_nc_sid=d885a2",
+                      "username": "ghaazimuhammadimran"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18083944517583565",
+                    "text": "@supersalmakhann Bibi tm logoon ko waqyaaa eee aise logoon se door rehane ki zaroorat h .. qn k tm log shetaan k qareeb rehana Pasand krte ho.. ab tm Jesi bhi uthh k qaari Sahab ko batain kare gi 🙄🙄🙄🙄",
+                    "created_at": 1775329989,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "52054156876",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/674409181_18050377019732877_4567822504131733519_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=Az3nzowQFhwQ7kNvwG9rDIX&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3Qm0HeIMX95nsDbcrn4qfq24c81OgIiAesWeGAGX58Pw&oe=69F92994&_nc_sid=d885a2",
+                      "username": "mooooooooooooooooomiiiiiiiiiii"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18353635435236899",
+            "text": "Astagfirullah",
+            "created_at": 1775304995,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "64189483220",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/610221435_17933330259139221_3557569589404439847_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=Fyf5FUAjlwoQ7kNvwF1j8BP&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0fUCPFO7F6j_bffc7a_Hw8J1za61ewUV_sdmfWPXwYfg&oe=69F91519&_nc_sid=d885a2",
+              "username": "afifaibrahim6"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18098618692997866",
+            "text": "His recitation has effect on million's of millions people in the world.... We should be silent and wait....",
+            "created_at": 1775230425,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "14294515088",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/657173281_18147583933475089_6571374792435338973_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=gRBD_0a5PQoQ7kNvwGK8O4J&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1wf_hW3cT_R5Yz29kF9DtsLXAA9bzZ_Vj2PzIJuSn2-A&oe=69F926EE&_nc_sid=d885a2",
+              "username": "fiza_abdul_majeed"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 13
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 12,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFDMW9OTm1KaEV4b21XaEZpOVh5Qk5HaXBmVjhfcTBHd3N2elBJMlM4N0xlUERRUVFKeTFRbkpXaXZHZ0ctWHhXYlJnUVpmbkF1bnFRbkIybHRNMHpoZw=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18173362351397543",
+                    "text": "@maimunamuhib WHERE WERE YOU WHEN THE REGIME IN #Iran EXECUTED IRANIANS EVERY SINGLE MORNING WITH THE SOUND OF AZAN AT DAWN! Those innocent people were also Muslims!\nWHERE WERE YOU, when the regime ordered to rape and torture women who were virgin, before executing them, in the name of religion!\nWHERE WERE YOU, when the regime killed over\n40000 Muslims in Iran! If you didn't speak then, remain quiet now.",
+                    "created_at": 1775373556,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "15476813344",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/588609341_18124086445517345_7077863713186234842_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=mB4NbSM3YUwQ7kNvwGk_UkY&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1wIsq69h3XnAvPJ3bx3nlkeifZaSpHaxzCbFBTinsPcw&oe=69F92487&_nc_sid=d885a2",
+                      "username": "aadilfarhan__"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17968642761043085",
+                    "text": "@aadilfarhan__ or Allah jisy chaiye hidayat deta Hy or tm on main Sy nhi ho sad for you .....",
+                    "created_at": 1775499802,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "78139421346",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/641238361_17860272885605347_8737934935469089130_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=LUP-BghSk9MQ7kNvwFyh2DV&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3uyHWo5EVhMf0EDVWYMzzpfBZ7h4XYUNPr7Qv6CJOlsA&oe=69F949D2&_nc_sid=d885a2",
+                      "username": "mystic186426"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18107483161886931",
+                    "text": "@fiza_abdul_majeed ur may be trump supporter I guess",
+                    "created_at": 1775626047,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "28247098744",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/311429615_622632796229470_862205753153482316_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTEuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=NKZ5RPQoikAQ7kNvwH7mcBK&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1ipR3kcL8IwDcX4xSaalXJAbLwnPc1MxbwpT9i0nA0PA&oe=69F92047&_nc_sid=d885a2",
+                      "username": "mehak.batool.94"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17927696934254466",
+            "text": "Assalamualykum sheraz bhai kya hal hai acha waise sheikh rasheed al afasy ki tweet .me white house kay baad colon hai shayad wo tweet me ye kehna Chah rhey hon kay ye baat white house me kahi gyi ho maybe by the way nice video but please confirm it may Allah guide us all ameen 😊😊😊😊",
+            "created_at": 1775239084,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "77065171775",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/655945350_17871565437571776_8586171868778255510_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=00XG-Hl8nm8Q7kNvwENU9qa&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0jzH3HCTOe6dYrH5LBseL1VHtMXZw27ZcWipTeCAjNCQ&oe=69F91359&_nc_sid=d885a2",
+              "username": "rayantayyab_88"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 2
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18076808960531406",
+                    "text": "@rayantayyab_88 hal to qise pooch raha hai",
+                    "created_at": 1775838275,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "73780910789",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/491426684_649160801250585_2324569313378674408_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=O6e-GFWZORwQ7kNvwEWxz7C&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0HFdyWWZIKhNMgDFVZq3mgS316JRuKwUd8jvD9PnJknA&oe=69F92D73&_nc_sid=d885a2",
+                      "username": "404errorselfnotfound"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17890541403332421",
+            "text": "Omg, this is so heartbreaking. I have really liked Mishary Alafasy from a very young age. This breaks my heart, I didn’t expect this from him🥺💔",
+            "created_at": 1775247223,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "73795287698",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/551498836_17864463612463699_6143303771111990825_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=6bR9CO3PB28Q7kNvwGKyjJA&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3P4M715AcAnE9CGVH6Csy01s4pFrmkNEYIpamTEOXLJw&oe=69F91D38&_nc_sid=d885a2",
+              "username": "alishba._.aziz"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 3
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18084519362198039",
+            "text": "His intentions aren’t clear in this message!!! We shouldn’t judge “amaal ka daromidar niyato pr hy” what if he was just informing acc to hikmah???",
+            "created_at": 1775227657,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "48112808194",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/659125455_18085362506600195_1209349130984721982_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=ktxFO2WEsTkQ7kNvwFNMvmx&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1QEIMs9-f9KKnauKt72AGhkPzygGujIjX4vgXJKeiFdw&oe=69F939A0&_nc_sid=d885a2",
+              "username": "aish21202"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 157
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 17,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFEb2lDaERucW1wUVZUSHpzcE1zVXp1RzZSai10MWt3eGhkLUdOQ0dUemJyTFc4SkpFMkRvMjl3Nkc2T25iUWV5ZjlLWUZlSHhwUjdzaW9oWFh0bzIwVQ=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18063516884357821",
+                    "text": "@aish21202 salute to your iq",
+                    "created_at": 1775734496,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "5660027975",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/687325748_18435349120187976_7452910573770885591_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=_Lc5OkpCeM8Q7kNvwE3UZGD&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af38gJnoQZOvt-ZPxtXXI_bup8p1h18_J10PjbvtXk5Y3A&oe=69F93BA9&_nc_sid=d885a2",
+                      "username": "h4snain_alii"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18096365867111024",
+                    "text": "@aish21202 exactly",
+                    "created_at": 1776169829,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "6879131584",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/319346142_477661847750933_3193883419642217721_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTUuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=XgIUZjRAlAEQ7kNvwERRy0f&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af03f3IjEIooeZCmBz8QkW4Ea59lNAFKuSUy8tsZ5W6KwQ&oe=69F93D01&_nc_sid=d885a2",
+                      "username": "syeda_zahrafatima_"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18208482493336295",
+                    "text": "@aish21202 absolutely very clear not only that he supported his statement later on while facing backlash",
+                    "created_at": 1776451533,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "45942488214",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/657757359_18083250428528215_1563080102463859546_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=YQTgRqqatwQQ7kNvwER6BJz&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af04Ocpgn5aHytIlAAZ-RHACCLG33PtnWQsnFOpojKrFKA&oe=69F939D7&_nc_sid=d885a2",
+                      "username": "shaher_real"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18103578070733669",
+            "text": "My to boht shok sy inki tilawat sunti thi😢",
+            "created_at": 1775245562,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "45415421524",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/495995470_18057661973517525_7526177389387763069_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=y1CihEwcVD8Q7kNvwEPe4xx&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af36YenE-Wzgncu9SqQtVH8kQhMu_IVChdOhf5gwt1isRg&oe=69F92B61&_nc_sid=d885a2",
+              "username": "soniakhan3484"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18104676394727440",
+            "text": "ایران اور ٹرمپ سے متعلق بیان: شیخ مشاری نے اپنے آفیشل ایکس (ٹویٹر) اکاؤنٹ پر سابق امریکی صدر ڈونلڈ ٹرمپ کے اس بیان کی حمایت کی جس میں کہا گیا تھا کہ \"صدر ٹرمپ ایران پر جہنم کے دروازے کھول دیں گے\"۔ اس ٹویٹ پر انہیں شدید تنقید کا سامنا کرنا پڑا کیونکہ کئی صارفین کا خیال تھا کہ ایک قاریِ قرآن کو اس طرح کے سیاسی معاملات میں نہیں پڑنا چاہیے۔\nاسرائیل اور غزہ سے متعلق ٹویٹس:\n7 اکتوبر 2023 کو حماس کے حملوں کے دن انہوں نے ٹویٹ کیا: \"اے اللہ، صیہونیوں کے دلوں میں رعب ڈال دے\"۔\n2016 میں اسرائیل میں لگنے والی آگ پر انہوں نے طنزیہ طور پر \"Best of luck to the fires\" (آگ کے لیے نیک خواہشات) لکھا تھا۔\nدیگر بیانات: انہوں نے اپنے ٹویٹس میں ایران کو ایک \"جارح ریاست\" قرار دیا اور کہا کہ وہ جارح کے خلاف کھڑے ہوں گے چاہے وہ کتنا ہی پرہیزگار کیوں نہ ہو۔ اس کے علاوہ انہوں نے اخوان المسلمون کو \"غدار\" قرار دیتے ہوئے ان کی مذمت بھی کی ہے۔",
+            "created_at": 1775238342,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "48504809110",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/201123445_219863713134864_1040557567042185304_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=NbIR4WpH6k8Q7kNvwGMi89k&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1ODd57MeorkWWMUkpsnuE2Vuhn3rBaXZC6W6vSTqkGqA&oe=69F91505&_nc_sid=d885a2",
+              "username": "qurantranslationshortclip"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 16
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18097151183005693",
+                    "text": "@qurantranslationshortclip جزاک اللّٰلہ خیر",
+                    "created_at": 1775289397,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "44936954859",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/132564755_204026461335030_1077761291940979373_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc5LmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=0jGzx1q2_MAQ7kNvwFIWTYY&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1GvyKydmXhAqNwnXrtXbTUo0yesqkU44HjXndslD6GYA&oe=69F91331&_nc_sid=d885a2",
+                      "username": "zaeminaal"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17884035366473792",
+            "text": "First time main apki bat se agree nai hn x per bahoot se fake accounts baneh trp k liye ap tora to khyal raky i like you content laken ap i think ab hath se agy jaa rahy a",
+            "created_at": 1775245540,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "27602423392",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/400801960_394327572945057_7329571581005922794_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=IW9dz_elQCoQ7kNvwFTmLO8&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af10zTMIOKb9RwhUbPxTyfwyUZ8QAqYv2bIVGrS4ZmYH_Q&oe=69F94361&_nc_sid=d885a2",
+              "username": "officialmodelingpakistan"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 13
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 2,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18026244125812447",
+                    "text": "@officialmodelingpakistan Do. you think he doesn't verify? speaking without proofs is just foolish. and he isn't.... What arabs are doing? american army have entered in dubai why? they are muslim...? the why?",
+                    "created_at": 1775253958,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "36431969831",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/494798333_18052761059209832_6206135303072429378_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MjEuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=mwUPEv29la4Q7kNvwGASUeY&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3vwvSrX1XlzLH0IcQTEwdrf5Ax47mbfaIak9b98WDibA&oe=69F9423E&_nc_sid=d885a2",
+                      "username": "zarahaider69"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 3
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18315455137259349",
+                    "text": "@officialmodelingpakistan Wrong Guide kr re hn bro ye without research k\n‏البيت الأبيض- THE WHITE HOUS\nWo khud ye bat ni kr re wo just ek qoute share kr re hn white house ka as you can see here's a semicolon after the word “White House,” which means that:White House says: ******\n‏البيت الأبيض - \nis word ki translation kr lo google pr white house mtlb h to ap ko smj ni ae gi semicolon ho to kia mtlb h🤦🏻 Had he",
+                    "created_at": 1775409252,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "49923879791",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670883239_18065840549671792_2467787761623036944_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=_EjqJP5kDewQ7kNvwHy2Xlt&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1E5Z7IsuUJBOuuV950VMr0mCxb6osEr9yQ5iYGUV8jdw&oe=69F9136E&_nc_sid=d885a2",
+                      "username": "aman_66c"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18185214961335944",
+            "text": "I don’t understand why people are bashing him, His country is under attack no matter what the political reason would be he as patriotic person would see Oran as his enemy, they are throwing bombs not chocolates, When India did the same to Pakistan and Modi said Pakistan should thank him for killing terr@&$ we all mocked him, laughed because we love our country, so why is he wrong with his feelings for his country ? Why do you all think he should look at the political side not patriotic side?",
+            "created_at": 1775260643,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "48891852434",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/601474782_18065678375628435_8126089902435187777_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=yUHDbgbHfekQ7kNvwE8rIoi&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2D26JIhnvObO_pN_-jwE1fS0oYpGZAi1Mb8yKlHPjE2g&oe=69F91679&_nc_sid=d885a2",
+              "username": "artistagram.04"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 13
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 14,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFBSEUxX0ZpX29KSlBvbUZwSG1Jblo0cWJyUkVVUXJuSnFxazhlWVFvN3ZGeEc5QnNXa1BMbHFxVkRUS2tYOTE2c3FNdjY1SE0zWGVaRU5kei15ZVUyLQ=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17980970867823282",
+                    "text": "@artistagram.04 politics¿?? Are you even serious?",
+                    "created_at": 1775310932,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "1107173953",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/586669342_18542282164037954_1869488418714968249_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=UfjrXUUd6NgQ7kNvwFbgXpS&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2DCP7lkgZ5nYSL7QuXgFZoE8MICQxAmDKCgDLbJzlV3A&oe=69F91598&_nc_sid=d885a2",
+                      "username": "ubantirmizi"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18078181280139621",
+                    "text": "@artistagram.04 You should go and take a look at this sheikhs Twitter page and read all the things he tweeted out before and after this tweet then you will remove your comment. The sheikh has tweeted more volger comments towards iran and praised America. Go and take a look.",
+                    "created_at": 1775324283,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "7482546920",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/35001218_762997227242734_5946633330869927936_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=Q41xHKyltIcQ7kNvwFnFpn6&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af09IlHbDY93bVsFJfDQDBb4TG85kVXgaw7zlpGpoePBfw&oe=69F91BB0&_nc_sid=d885a2",
+                      "username": "camron0121"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "17942153037159621",
+                    "text": "@artistagram.04 his country literally give military bases to America to hit Iran with missiles and that's why Iran hit that military base not the country and that dog is clearly supporting America and Israel go check his other tweets",
+                    "created_at": 1775407856,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "7034155740",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/197606171_257146479541953_1536767842063843285_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=kVvV8c1XLZcQ7kNvwGH7Y7T&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af30loxndL3LSlT4t3PAQ90oNln-sm2_WAdXlMlGYuhhZA&oe=69F915FC&_nc_sid=d885a2",
+                      "username": "wajahat1382"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18111691879771526",
+            "text": "This trend only highlights a deeper issue ...people using Islam and the Qur’an without proper understanding, while hiding their true beliefs. What’s truly concerning is how easily the youth follow online figures without checking their aqeedah. Our elders and Sunni scholars have always warned us to be careful about who we take knowledge from, and now it’s becoming clear why",
+            "created_at": 1775284057,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "59434264125",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/670271162_17987593502976126_5753572084231489698_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=wAOQeVGa3kEQ7kNvwGZc_0a&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af09tsH5OUrz64qzzMSB0ad5U6Wb7SG6ISdCX1T1epibPA&oe=69F94274&_nc_sid=d885a2",
+              "username": "zarmeinkhan"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 3
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18411602011133215",
+            "text": "how is that statement \"supporting\" trump in anyway?\nMay Allah bless the sheikh endlessly and protect him against any slander from the muslim ummah he stands as one of the most significant, aspirating and influential reciters of our generation. We cannot judge him based on a vague/ambiguous statement which we do not know the context or intent of. Besides when Irani leaders wish hellfire upon the sunnis or companions nobody points any fingers.\nMay Allah protect him, bless him and guide us all.",
+            "created_at": 1775262451,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "15476813344",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/588609341_18124086445517345_7077863713186234842_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=mB4NbSM3YUwQ7kNvwGk_UkY&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1wIsq69h3XnAvPJ3bx3nlkeifZaSpHaxzCbFBTinsPcw&oe=69F92487&_nc_sid=d885a2",
+              "username": "aadilfarhan__"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 7
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 1,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "17906466684390635",
+                    "text": "@aadilfarhan__ 🙌👏",
+                    "created_at": 1775318776,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "70564616277",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/674428270_17916515949352278_7617813156090196003_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MjguYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=-yDYWRDfqYMQ7kNvwEXKrOF&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1ZdthGHzKcTaizk29IDl8SXespdoscNd2Z_Aidandy3A&oe=69F92219&_nc_sid=d885a2",
+                      "username": "hhhhamza.qureshi"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17961095354920161",
+            "text": "I think you misunderstood his statement, maybe he is telling us ?? The other way like informing not against Iran way",
+            "created_at": 1775291020,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "54764686419",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/606958473_18006507764830420_5728838524880647559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=Yxwj3FgvXXUQ7kNvwE9wbzZ&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0M3e-IN9SSf9t9RZp3CzDYFm8LN8g7My0PHHdppC2O-w&oe=69F93046&_nc_sid=d885a2",
+              "username": "fuyuka_fatima"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 70
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 6,
+              "page_info": {
+                "has_next_page": true,
+                "end_cursor": "QVFDNzVoSUhGc1pXSUl0S2JYcG11OFN5MnZEWmVuT3RyNThZYU9Na1ZXWHdTNjgzeTJlNGlaVlZfaXdoVjNMQ0hGMDhMWlFXNHRYNFd6Q0ZYY2xrV3FQRw=="
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18100842469786178",
+                    "text": "@lizayraees lol you mean \"take English classes\"",
+                    "created_at": 1775557058,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "54764686419",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/606958473_18006507764830420_5728838524880647559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=Yxwj3FgvXXUQ7kNvwE9wbzZ&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0M3e-IN9SSf9t9RZp3CzDYFm8LN8g7My0PHHdppC2O-w&oe=69F93046&_nc_sid=d885a2",
+                      "username": "fuyuka_fatima"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18105554731925289",
+                    "text": "تو چی میدونی منظورش چی بوده داری به قاری توهین میکنی تو هیچی نمیدونی....",
+                    "created_at": 1776358252,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "63169225506",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/463469405_452467090653509_315220588121272702_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzUuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=sfPUePCtgvMQ7kNvwGhUn56&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1akiJnvOkCwZW8D3NcuM0gAU7qpgXlRx-LtXoZOYCGtw&oe=69F91672&_nc_sid=d885a2",
+                      "username": "____love.allah"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18160770232427671",
+                    "text": "@fuyuka_fatima you are absolutely right but this fool gave it another angel we shouldn't blame others without knowing the truth...💔",
+                    "created_at": 1776752002,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "68096292334",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/486754709_1306529410638628_7357150874815435026_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NjcuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=R6_SxVJpKVUQ7kNvwEqoL88&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1ZAqEfXz7_iir43Zw49Z2ieM6GanRddzDHJviFHgmbnA&oe=69F948EE&_nc_sid=d885a2",
+                      "username": "malikahmad_5911"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18058418981505483",
+            "text": "تو کیا ہوا پیارے بھائی؟ کیا ایرانی ریاست جہنم کی حقدار نہیں ہے؟ یا آپ ان سے واقف نہیں ہیں، پلیز تحقیق کریں، ایسے کسی کی ایک ٹویٹ اٹھا کر پوسٹ کر دینا اور پھر اس کو زلیل و رسوا کہہ دینا یہ آپ کے اپنے علم کی کمی ہے✍️",
+            "created_at": 1775420238,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "80727250458",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/682698559_17858027094690459_6488862018943482220_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=_-30REBnVXsQ7kNvwGmSVVd&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0HoGkiZBtPrcOk79eInKlMwGcgPeKxKI_P1wEIOZeijw&oe=69F94067&_nc_sid=d885a2",
+              "username": "mbka010"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 2,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18006043673907106",
+                    "text": "@mbka010 blkl Bhai  ap ne blkl drst frmaya",
+                    "created_at": 1777116057,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "66545512060",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/670444570_17936751732216061_4952964245235673917_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=bm9CKQ40NXYQ7kNvwFabXsn&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2ZBphJxivTV4y-CwX9wNH_1qODsQHQWh1nOTjeB8HMOA&oe=69F925C2&_nc_sid=d885a2",
+                      "username": "ur_hafiz_1"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18117923917733937",
+                    "text": "@ur_hafiz_1 ❤️",
+                    "created_at": 1777116216,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "80727250458",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/682698559_17858027094690459_6488862018943482220_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=_-30REBnVXsQ7kNvwGmSVVd&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0HoGkiZBtPrcOk79eInKlMwGcgPeKxKI_P1wEIOZeijw&oe=69F94067&_nc_sid=d885a2",
+                      "username": "mbka010"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 0
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "17887589865349740",
+            "text": "Sheraz Butt Sahib, please explain these 2 things to me:\nIsn't it possible that he's making a prediction? That soon A is going to do that (Allah na kare), so buckle up, people. Stand with the truth and hold on to the rope of Allah Almighty — just as Dr. Israr Ahmad gave so many predictions based on the Hadith of our beloved Prophet Muhammad (SAW).\nIf my first point is just my own thinking, then in a world of AI and hackers, how can we justify the authenticity of this post?\nShouldn't we Husn Al-Dhan (think good of people)??",
+            "created_at": 1775259613,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "1822735310",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/374878700_690356156300930_2325793309314636001_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMjUuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=1EiWvy9l1W0Q7kNvwEYnwuZ&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2hBfjj2aRbSfbP4qcijWUB2Dp5NUmMhcqQgjcdXvlHGw&oe=69F91FD6&_nc_sid=d885a2",
+              "username": "faiza.navaz"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 7
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 2,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": [
+                {
+                  "node": {
+                    "id": "18152789596459550",
+                    "text": "@fair.navaz I totally agree +",
+                    "created_at": 1775262915,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "15476813344",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/588609341_18124086445517345_7077863713186234842_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=mB4NbSM3YUwQ7kNvwGk_UkY&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1wIsq69h3XnAvPJ3bx3nlkeifZaSpHaxzCbFBTinsPcw&oe=69F92487&_nc_sid=d885a2",
+                      "username": "aadilfarhan__"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                },
+                {
+                  "node": {
+                    "id": "18121444741622620",
+                    "text": "@faiza.navaz how is that statement \"supporting\" trump in anyway?\nMay Allah bless the sheikh endlessly and protect him against any slander from the muslim ummah he stands as one of the most significant, aspirating and influential reciters of our generation. We cannot judge him based on a vague/ambiguous statement which we do not know the context or intent of. Besides when Irani leaders wish hellfire upon the sunnis or companions nobody points any fingers.\nMay Allah protect him, bless him and guide us all.",
+                    "created_at": 1775262924,
+                    "did_report_as_spam": false,
+                    "owner": {
+                      "id": "15476813344",
+                      "is_verified": false,
+                      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/588609341_18124086445517345_7077863713186234842_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=mB4NbSM3YUwQ7kNvwGk_UkY&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1wIsq69h3XnAvPJ3bx3nlkeifZaSpHaxzCbFBTinsPcw&oe=69F92487&_nc_sid=d885a2",
+                      "username": "aadilfarhan__"
+                    },
+                    "viewer_has_liked": false,
+                    "edge_liked_by": {
+                      "count": 1
+                    },
+                    "is_restricted_pending": false
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_hoisted_comment": {
+      "edges": []
+    },
+    "edge_media_preview_comment": {
+      "count": 6175,
+      "edges": [
+        {
+          "node": {
+            "id": "18124663666610938",
+            "text": "@soilder_of_mola_ali lannat beshumar 🖐🏻",
+            "created_at": 1777471557,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "36616507486",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG1wC8ujRl2rB4dHEHX0OiMP6QTvJ1L05RWxaktJMOmvLFaxwdnzQT8pf16aQKYYHk&_nc_ohc=N4OOug8neF8Q7kNvwHzucMq&_nc_gid=fuBTD2LcmoP-SWwxt5xDxQ&edm=AFs-eF8BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af3fvEGRe40uta1UnurVICx5lbMPje4zl5-6rFjvXxjUHg&oe=69F9376A&_nc_sid=72eed0",
+              "username": "khaaadijazahra"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false
+          }
+        },
+        {
+          "node": {
+            "id": "17961069417082622",
+            "text": "ہم کافروں سے کیا کہیں جب مسلمانوں کا ہی آپس میں اتفاق نہیں ہے بہت دکھ کی بات ہے 😔",
+            "created_at": 1777471691,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "36616507486",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-bsb1-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-bsb1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG1wC8ujRl2rB4dHEHX0OiMP6QTvJ1L05RWxaktJMOmvLFaxwdnzQT8pf16aQKYYHk&_nc_ohc=N4OOug8neF8Q7kNvwHzucMq&_nc_gid=fuBTD2LcmoP-SWwxt5xDxQ&edm=AFs-eF8BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af3fvEGRe40uta1UnurVICx5lbMPje4zl5-6rFjvXxjUHg&oe=69F9376A&_nc_sid=72eed0",
+              "username": "khaaadijazahra"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false
+          }
+        }
+      ]
+    },
+    "comments_disabled": false,
+    "commenting_disabled_for_viewer": false,
+    "taken_at_timestamp": 1775224676,
+    "edge_media_preview_like": {
+      "count": 164896,
+      "edges": []
+    },
+    "edge_media_to_sponsor_user": {
+      "edges": []
+    },
+    "is_affiliate": false,
+    "is_paid_partnership": false,
+    "location": null,
+    "nft_asset_info": null,
+    "viewer_has_liked": false,
+    "viewer_has_saved": false,
+    "viewer_has_saved_to_collection": false,
+    "viewer_in_photo_of_you": false,
+    "viewer_can_reshare": true,
+    "is_ad": false,
+    "edge_web_media_to_related_media": {
+      "edges": []
+    },
+    "coauthor_producers": [
+      {
+        "id": "40118812326",
+        "is_verified": false,
+        "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/552349753_18066659186340327_4559586055665761370_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGPxCRGlC9hRn8fHRycs9kP8-eA6zqsHcP4GLc3Pwf_N2Vh2-zduq6tnSHjdrkIKN4&_nc_ohc=QwaooOJCkN8Q7kNvwHXXlG9&_nc_gid=g2FvTE6tbV5QA1NAz2vaKg&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2dM4ORuAiwfnprrnn5Nik9P32VMMXVpFpHTXx78Yrk5g&oe=69F937AE&_nc_sid=d885a2",
+        "username": "i_sherazbutt"
+      }
+    ],
+    "pinned_for_users": []
+  },
+  "commentsRawData": [],
+  "stats": {
+    "topLevelFetched": 0,
+    "repliesFetched": 0,
+    "totalFetched": 0,
+    "igTotal": 6175,
+    "coveragePct": "0.0",
+    "pagesScraped": 0
+  }
+}
