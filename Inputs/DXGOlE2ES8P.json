@@ -1,0 +1,657 @@
+{
+  "shortcode": "DXGOlE2ES8P",
+  "mediaId": "3874848649872748303",
+  "igCommentCount": 94,
+  "postRawData": {
+    "__typename": "XDTGraphSidecar",
+    "__isXDTGraphMediaInterface": "XDTGraphSidecar",
+    "id": "3874848649872748303",
+    "shortcode": "DXGOlE2ES8P",
+    "thumbnail_src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670502645_17968553967046215_8423787399023597813_n.heic?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=GN8TdTzyEt8Q7kNvwH9p0l1&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2_PobWJUad3VAjQIHdBLbgucj-sL_avgwDvmjW2KdLzQ&oe=69F92720&_nc_sid=d885a2",
+    "dimensions": {
+      "height": 1350,
+      "width": 1080
+    },
+    "gating_info": null,
+    "fact_check_overall_rating": null,
+    "fact_check_information": null,
+    "sensitivity_friction_info": null,
+    "sharing_friction_info": {
+      "should_have_sharing_friction": false,
+      "bloks_app_url": null
+    },
+    "media_overlay_info": null,
+    "media_preview": null,
+    "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670502645_17968553967046215_8423787399023597813_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=GN8TdTzyEt8Q7kNvwH9p0l1&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0hJiQjGaTv_dfitVvtLbnzsIbGlV-Wxxz1nkOi30_2wA&oe=69F92720&_nc_sid=d885a2",
+    "display_resources": [
+      {
+        "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670502645_17968553967046215_8423787399023597813_n.heic?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=GN8TdTzyEt8Q7kNvwH9p0l1&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0YmXnvzQl9XAvA5u-a58ZkNs2a1ZbGn_aFt8SD_bbc6w&oe=69F92720&_nc_sid=d885a2",
+        "config_width": 640,
+        "config_height": 800
+      },
+      {
+        "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670502645_17968553967046215_8423787399023597813_n.heic?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=GN8TdTzyEt8Q7kNvwH9p0l1&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2OwPA4ekqWzNjchRxDqjhTZuR3nRnqP-MlWxm4qiu-eg&oe=69F92720&_nc_sid=d885a2",
+        "config_width": 750,
+        "config_height": 937
+      },
+      {
+        "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670502645_17968553967046215_8423787399023597813_n.heic?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=GN8TdTzyEt8Q7kNvwH9p0l1&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1OVegxJFrVDc90qVNyOvG_FVCh0vaHREMM3ORLHtjELg&oe=69F92720&_nc_sid=d885a2",
+        "config_width": 1080,
+        "config_height": 1350
+      }
+    ],
+    "is_video": false,
+    "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWE0YTUyNzJkZDc2NGEyMWEyMzMwMTU4ZWFkYzEzYTIzODc0ODQ4NjQ5ODcyNzQ4MzAzIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNzgyM3wzODc0ODQ4NjQ5ODcyNzQ4MzAzfDQwOTc5Nzg4NDg0fGI1NTBjMGFjNzNhYjFlOTQ4Njg1MWFkNDIwODQwNzI3MTM5N2ZhZjkzZTI3NWYyZWMzNWRkYmJiMzg5OTk5ZWQifSwic2lnbmF0dXJlIjoiIn0=",
+    "upcoming_event": null,
+    "edge_media_to_tagged_user": {
+      "edges": []
+    },
+    "owner": {
+      "id": "61283414214",
+      "username": "alamin.8020ai",
+      "is_verified": true,
+      "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/631448248_17961150072046215_5122429341583578082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=b2wXYCdW354Q7kNvwEUnX8a&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0weGNKb7iKksbuz0cvnMQM_9YMo1P6asPf7iXb0chtFg&oe=69F91E8A&_nc_sid=d885a2",
+      "blocked_by_viewer": false,
+      "restricted_by_viewer": false,
+      "followed_by_viewer": false,
+      "full_name": "Alamin | AI Educator",
+      "has_blocked_viewer": false,
+      "is_embeds_disabled": false,
+      "is_private": false,
+      "is_unpublished": false,
+      "requested_by_viewer": false,
+      "pass_tiering_recommendation": true,
+      "edge_owner_to_timeline_media": {
+        "count": 2130
+      },
+      "edge_followed_by": {
+        "count": 49647
+      }
+    },
+    "accessibility_caption": "Photo by Alamin | AI Educator on April 13, 2026. May be a graphic of poster and text that says 'Page 01 of f08 8 << Swipe HERE'S A LIST OF 20 WONDERFUL Cenera GOOGLE'S FULL- FULL-STACK Al ECOSYSTEM CHECK THEM OUT. DON'T MISS anan'.",
+    "edge_sidecar_to_children": {
+      "edges": [
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3874848502677875823",
+            "shortcode": "DXGOi7wkaxv",
+            "dimensions": {
+              "height": 1350,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACIqoMBgY696GHzH6U2n4LOQO4H9KqTvFvzX6jj8S9GP2jEf0NMAqVl2lV67SQDjGfw5pgrKH+f5sl/F8kJtopaK0Arh6SR/nNSpArjKliPYE/0p72qEkkvx/smtOXS1196DrcrRuQ4J7mpw4p7QJu3MWBJGBsx7UhtgOfmx1ztP+FLk8196C2txu8UUzbH/AHjRT5H3X3oZDDdTRDYhwCc9AetXGud5O4seo+72IAOeKyaSpsS1fq16G15zyAcMwB4OO4OfT1qvcXUyEoCQpGMMozyOe1ZuTRmnZAo21u36sduIopKKCj//2Q==",
+            "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670502645_17968553967046215_8423787399023597813_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=GN8TdTzyEt8Q7kNvwH9p0l1&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0hJiQjGaTv_dfitVvtLbnzsIbGlV-Wxxz1nkOi30_2wA&oe=69F92720&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670502645_17968553967046215_8423787399023597813_n.heic?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=GN8TdTzyEt8Q7kNvwH9p0l1&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0YmXnvzQl9XAvA5u-a58ZkNs2a1ZbGn_aFt8SD_bbc6w&oe=69F92720&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 800
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670502645_17968553967046215_8423787399023597813_n.heic?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=GN8TdTzyEt8Q7kNvwH9p0l1&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2OwPA4ekqWzNjchRxDqjhTZuR3nRnqP-MlWxm4qiu-eg&oe=69F92720&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 937
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670502645_17968553967046215_8423787399023597813_n.heic?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=GN8TdTzyEt8Q7kNvwH9p0l1&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1OVegxJFrVDc90qVNyOvG_FVCh0vaHREMM3ORLHtjELg&oe=69F92720&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1350
+              }
+            ],
+            "accessibility_caption": "Photo by Alamin | AI Educator on April 13, 2026. May be a graphic of poster and text that says 'Page 01 of f08 8 << Swipe HERE'S A LIST OF 20 WONDERFUL Cenera GOOGLE'S FULL- FULL-STACK Al ECOSYSTEM CHECK THEM OUT. DON'T MISS anan'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWE0YTUyNzJkZDc2NGEyMWEyMzMwMTU4ZWFkYzEzYTIzODc0ODQ4NTAyNjc3ODc1ODIzIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNzkwM3wzODc0ODQ4NTAyNjc3ODc1ODIzfDQwOTc5Nzg4NDg0fGZhZDg1ZTEzOWViYmRlNjY1MjRjYzk0NWY4MTdjNzY4YWJjZjk1Y2Q2OGM2ZDViMmNkOTNlMzY4OTczNDAzYjgifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3874848504498193953",
+            "shortcode": "DXGOi9dEYYh",
+            "dimensions": {
+              "height": 1350,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACIqxZWUooHUDmq9OGCec49qftj9W/75H/xVat3AjUgdRmnbx/dH60zFGKQBRRRQBIgJBxT8kD/65qJcd6fkY6/r/wDWpCEJz1H8/wDGkP0xS/j/ADoP1zQBHRS4opjHeUxAbjB6cjtTSuOtJRQAVIEJpgp4oEwxRT6Kki5//9k=",
+            "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670864450_17968553976046215_4701890368274985944_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=nlq1HuztbgMQ7kNvwFzEbwv&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3RmmM8_9CjQjF1C7I_ZJoUcH_sz3fzlV-6FZlZeREIPQ&oe=69F93CCB&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670864450_17968553976046215_4701890368274985944_n.heic?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=nlq1HuztbgMQ7kNvwFzEbwv&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1d9qtTNB-UWKet3tLcA40He3zZUX9u8fqfx5S29z9XVw&oe=69F93CCB&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 800
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670864450_17968553976046215_4701890368274985944_n.heic?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=nlq1HuztbgMQ7kNvwFzEbwv&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2s4LL3der8JNajBTfp0IAIHdCn6LudoUElz0s5JTSxAw&oe=69F93CCB&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 937
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670864450_17968553976046215_4701890368274985944_n.heic?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=nlq1HuztbgMQ7kNvwFzEbwv&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3eXdGekfWS8ytJtIyTnpq4Q55Rn_P0mmHbwBE3vSZlgw&oe=69F93CCB&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1350
+              }
+            ],
+            "accessibility_caption": "Photo by Alamin | AI Educator on April 13, 2026. May be a graphic of xray, poster and text that says 'Page 02 of of08 08 Subscribe 8020ai.co for Subscnibet8020ai.coformoretip more tips! 1. Research 1. NotebookLM Al-powered research assistant organizing ideas. 2. Pomelli Pomelly Generates ideas on brand social campaigns. 3. 3.AIMode AI Mode Advanced reasoning multimodality for powerful search. ( Alamin Hossain AI Educator < <<Swipe Swipe'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWE0YTUyNzJkZDc2NGEyMWEyMzMwMTU4ZWFkYzEzYTIzODc0ODQ4NTA0NDk4MTkzOTUzIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNzkwM3wzODc0ODQ4NTA0NDk4MTkzOTUzfDQwOTc5Nzg4NDg0fDU2OWMzNmNhOGMyMjU4YTg1OGUwNTJlMTJiYjMwMzJmNDZhNTdmOWFkY2FiMzZkZGMzMGM5YjFkMWRlZmNjMTgifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3874848506435963819",
+            "shortcode": "DXGOi_QkYur",
+            "dimensions": {
+              "height": 1350,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACIqxZWUqoHUDmq9OGD1z+FK4X+Ek/UAf1Nat3AapA6jNO3j+6P1pmKMUgCiiigCaKFpAcY46+v4flQScev502Pbg5ODjj6+h9qXK/5P/wBagQ38P50mKcfY/wA6b1pANopcUUxjvKYgNxg9OR2ppXHWkooAKeEJpop4pCYYop9FIi5//9k=",
+            "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/671736275_17968553985046215_3986863135128238984_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=eF7skLiJxXsQ7kNvwFk8ZtZ&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1R6pQvwEXYZL24SL_Pu51EGErRnDIK1Ct9SLlCw8Gkjw&oe=69F937A5&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/671736275_17968553985046215_3986863135128238984_n.heic?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=eF7skLiJxXsQ7kNvwFk8ZtZ&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af070G6BUClcJBjoCodfzOtguOGaFopn5vljfIxqUO-JqA&oe=69F937A5&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 800
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/671736275_17968553985046215_3986863135128238984_n.heic?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=eF7skLiJxXsQ7kNvwFk8ZtZ&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1PN3zlYyAvV7G7FDrWRjO0Vsy_-A8gqd1lW7hTtIGibw&oe=69F937A5&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 937
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/671736275_17968553985046215_3986863135128238984_n.heic?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=eF7skLiJxXsQ7kNvwFk8ZtZ&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1zmBekQmi8c1jnABpEYQkX-hsnKOr10PlJ7RfdYzaVZw&oe=69F937A5&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1350
+              }
+            ],
+            "accessibility_caption": "Photo by Alamin | AI Educator on April 13, 2026. May be an image of screen and text that says 'Page 03 of 08 Subscribe 8020ai.c Subscibeto8020ai.coformoretip co for more tips! 2. Video Veo3. Veo .1 1 Veo Veo3.1 3.1 Highest quality video generation from text. Flow 2. Flow Cinematic clips and scenes storytelling tool. 3. Google Vids Al l-powered video creation for work. AlaminHossain Alamin Hossain Al Educator <Swipe << Swipe'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWE0YTUyNzJkZDc2NGEyMWEyMzMwMTU4ZWFkYzEzYTIzODc0ODQ4NTA2NDM1OTYzODE5Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNzkwM3wzODc0ODQ4NTA2NDM1OTYzODE5fDQwOTc5Nzg4NDg0fDg2NjAxMmFjZDNkZjk1NGYwYTIzZjY0MjY2M2Q0MjM1ZGFhNWNlMTQzM2FiOGRjYWMxOTE3ZDZjMzE1MDJlMGMifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3874848507979444989",
+            "shortcode": "DXGOjAskTL9",
+            "dimensions": {
+              "height": 1350,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACIqxZWUqoHUDmq9OUZ65/CnMqY+UsT7gf41q3cBikDqM07eP7o/WmYoxSAKKKKAJIyQDinjP+SaiXHenkjHB/X/AOtQIT8P50h+lL+P86Q/XNIBlFLiimMd5TEBuMHpyO1NK460lFABTwhNNFPFITDFFPopEXP/2Q==",
+            "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670652847_17968553997046215_1862979695345039847_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=MLD4aTNus60Q7kNvwHt0j-p&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2V0UKE92wF5Fw7eQK45obLCBJOR9EpKi97med-cloaVQ&oe=69F91B16&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670652847_17968553997046215_1862979695345039847_n.heic?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=MLD4aTNus60Q7kNvwHt0j-p&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3cGuh5zhu6ip4ebGNA6QTLbYcY1qJj-ZkgrBa9Cy_WhA&oe=69F91B16&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 800
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670652847_17968553997046215_1862979695345039847_n.heic?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=MLD4aTNus60Q7kNvwHt0j-p&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2qaGhGOeZaxSRRytDwWKLoqHhJmWgg93m7iBMzdyrXKg&oe=69F91B16&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 937
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670652847_17968553997046215_1862979695345039847_n.heic?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=MLD4aTNus60Q7kNvwHt0j-p&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af33PGmVcTN181nTThw32yhK1ZZBD7F7dL_IjmzMMtvD9A&oe=69F91B16&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1350
+              }
+            ],
+            "accessibility_caption": "Photo by Alamin | AI Educator on April 13, 2026. May be a graphic of text that says 'Page 04 of of08 08 Subscribe 8020ai.c for more SubscribetoB020ai.coformoreips tips! 3. Coding 1 Gemini CLI Open source agent bringing Gemini models to your terminal. 2. Antigravity Al-powered IDE with autonomous agents. 3. Jules Asynchronous coding assistant for repositories. AlaminHossain Alamin Hossain AI Educator <Swipe << Swipe'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWE0YTUyNzJkZDc2NGEyMWEyMzMwMTU4ZWFkYzEzYTIzODc0ODQ4NTA3OTc5NDQ0OTg5Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNzkwNHwzODc0ODQ4NTA3OTc5NDQ0OTg5fDQwOTc5Nzg4NDg0fDZhNjZjYzg1MDA2NGNmMTI0MjMxYjBhNjFmZjc1ZWI4YmFjNjBhMGRjOGE4NzVlM2I2NDBmOTZjYTY0NWExOTMifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3874848509766244058",
+            "shortcode": "DXGOjCXEZba",
+            "dimensions": {
+              "height": 1350,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACIqxZWUqoHUDmq9OXB65/CpNsfq3/fI/wAa1buBEpA6jNO3j+6P1pmKMUgCiiigB6E4OKkBOP8A65pkZXPzZx7UoI/yf/rUCEPXpn86Q/TFKfY/z/wpPxpAMopcUUxjvKYgNxg9OR2ppXHWkooAKeEJpop4pCYYop9FIi5//9k=",
+            "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/671764630_17968554006046215_6940957023881931396_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=IpJZj0Rw5IoQ7kNvwHNQHBD&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0rm-lwURowTulHpV4ZVOS06oIaRyu63wbD9ASU0nfUkg&oe=69F933B6&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/671764630_17968554006046215_6940957023881931396_n.heic?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=IpJZj0Rw5IoQ7kNvwHNQHBD&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1BfwZyK45RaT8KYy10aJYmsJwVjUKcfcAPTah50sCA_g&oe=69F933B6&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 800
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/671764630_17968554006046215_6940957023881931396_n.heic?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=IpJZj0Rw5IoQ7kNvwHNQHBD&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1GM_qvHDB4ITath6lzgCnWwUVYTfoCIpzqXGsB2Nxx7g&oe=69F933B6&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 937
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/671764630_17968554006046215_6940957023881931396_n.heic?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=IpJZj0Rw5IoQ7kNvwHNQHBD&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2lvpmWB4Tim283_1fNBGr5RR92yq9TLvLP2xtYz-L9og&oe=69F933B6&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1350
+              }
+            ],
+            "accessibility_caption": "Photo by Alamin | AI Educator on April 13, 2026. May be a cartoon of text that says 'Page 05 of f08 08 Subscribe 8020ai.co Subscibeto8020ai.coformoretips for more tips! 4. I Agents 【<> 1. Google ADK Framework for developing scalable Al agents. A2A protocol 2. Google A2A Multi Agent communication protocol irrespective of frameworks. S FleSemech 3. FileSearch AI Use an entire pre built config configurable RAG pipeline simply from an API. 優 AlaminHossain Alamin Hossain Al Educator <Swipe << Swipe'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWE0YTUyNzJkZDc2NGEyMWEyMzMwMTU4ZWFkYzEzYTIzODc0ODQ4NTA5NzY2MjQ0MDU4Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNzkwNHwzODc0ODQ4NTA5NzY2MjQ0MDU4fDQwOTc5Nzg4NDg0fDk3YmNhNWZmODk3NDBiNzI0OWJmYTVlNDk4ODk5Y2Q4MTA2N2FlYzNiZTVlOTlmZTFkYjJlNTg5OTc2MmUxMjIifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3874848512056343292",
+            "shortcode": "DXGOjEfkbr8",
+            "dimensions": {
+              "height": 1350,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACIqxZGUqoHUDmq9PUkcg4NSs7OMMxI9OP8AGtW7gQKQOozTt4/uj9aCnpz+X+NIVxSENooooGKPapce36f/AF6jWpMHH/1jSEISOnT8P/r03j3p3Pp+lIQfTFAEdFLiimMeI2wCOh9x2phBHWkooAKkCk0wU8UhMMUU+ikRc//Z",
+            "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670146906_17968554015046215_3678127519509742624_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=BxWiJsxzaQUQ7kNvwFmd-Ty&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3UjHx8EXRKR8ifIfQN8RVkKVa_8_xDamw0iaGPc6Qcqw&oe=69F92D06&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670146906_17968554015046215_3678127519509742624_n.heic?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=BxWiJsxzaQUQ7kNvwFmd-Ty&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1QnDfUmuOUqeF4RAreC6e21uKzi5EDCM1UI2ConQ8LHQ&oe=69F92D06&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 800
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670146906_17968554015046215_3678127519509742624_n.heic?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=BxWiJsxzaQUQ7kNvwFmd-Ty&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2LXHFC_zG1GM4Usej-B928w-k70mViwjkBv73qsAiokg&oe=69F92D06&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 937
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670146906_17968554015046215_3678127519509742624_n.heic?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=BxWiJsxzaQUQ7kNvwFmd-Ty&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1EKc_AtGXiGZYmXh8xmG2rFkKbiZB817tTXkGb9YC2wg&oe=69F92D06&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1350
+              }
+            ],
+            "accessibility_caption": "Photo by Alamin | AI Educator on April 13, 2026. May be a graphic of text that says 'Page 06 of 08 Subscribe SubscribetoB8020ai.coformoretitps to 8020ai.c for more tips! 5. Models 1 Gemini F ash Gemini 3 Flash Frontier intelligence built for speed efficiency. Gern 2. Gemini 3.1 Flash Lite Fastest, most cost-effective model in the Gemini family. Gemini3P ro 3. Gemini 3 Pro Most advanced reasoning model from Google. Gemini Deeper thinking model for agent enabled deep research. Alamin Hossain AI Educator < Swipe'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWE0YTUyNzJkZDc2NGEyMWEyMzMwMTU4ZWFkYzEzYTIzODc0ODQ4NTEyMDU2MzQzMjkyIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNzkwNHwzODc0ODQ4NTEyMDU2MzQzMjkyfDQwOTc5Nzg4NDg0fDNjODZhZGI4YmVhMGFmZjUzNGNhMzYxZDQwMmRmOWJjMTY5NjE3Mjc2ZWYxZGNlNzlmNGYyNWQ3NzAxMDRiYTAifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3874848514447077528",
+            "shortcode": "DXGOjGuEXCY",
+            "dimensions": {
+              "height": 1350,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACIqxZGUqoHUDmoKehPQDP8AnFSMrKPmUgdMkD/CtW7gQqQOoz+dLuH90frSZHv+f/1qMikIbRRRQMcoB607Ax7/AI/4VYtJmiDBV3Z69eMZ9PrUPJGOMfWp1u7rTprv/kAzaPUfrTcU84Hb9abTENopcUUxkiq6jKnAb0Pp6imksOp/WmUUAO3H1p4DMPaoxTxSEwxRT6KRFz//2Q==",
+            "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670257697_17968554024046215_3671952899677438063_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=34khQVtC9uoQ7kNvwF4pThC&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0od3oq73YqF8z672v-sFfne5gHvuf_mxk_eB7E6tTAOw&oe=69F929AD&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670257697_17968554024046215_3671952899677438063_n.heic?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=34khQVtC9uoQ7kNvwF4pThC&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af2BUkbYFlBQBoJ8MhFiVxeMBzqvC5b7gbpjZmIybJv2pQ&oe=69F929AD&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 800
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670257697_17968554024046215_3671952899677438063_n.heic?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=34khQVtC9uoQ7kNvwF4pThC&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3NxLXTdX-HVd9-NvmOH8GGP1bovBmrEsE13-TjNi50HQ&oe=69F929AD&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 937
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/670257697_17968554024046215_3671952899677438063_n.heic?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=34khQVtC9uoQ7kNvwF4pThC&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0AvUDTLwjCsC9bwFustN1E8v-0atbqDLD22psAB38xGw&oe=69F929AD&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1350
+              }
+            ],
+            "accessibility_caption": "Photo by Alamin | AI Educator on April 13, 2026. May be a graphic of poster and text that says 'Page 07 of 08 Subscri Subscribe 8020ai.c for more Subscribeto8020ai.coformoretips ips! 5. Gemma Lightweight open models from DeepMind research. 6. Design Stitch 1. Stitch Turn prompts into complex UI designs. 2. Whisk Images as prompts to visualize ideas. 3. Nano Banana Image generation using Gemini reasoning mayegeneatousnGeieten knowledge. Alamin Hossain Al Educator << Swipe'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWE0YTUyNzJkZDc2NGEyMWEyMzMwMTU4ZWFkYzEzYTIzODc0ODQ4NTE0NDQ3MDc3NTI4Iiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNzkwNHwzODc0ODQ4NTE0NDQ3MDc3NTI4fDQwOTc5Nzg4NDg0fGExN2Y4YzYyNDM2NjZmMzM5NTgwODlhZjU2YjI1OWY1MDJkZWQ2MWQ4MGY2Njk3OTU2YzFlMjAxYzE4NzBjMzEifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "__typename": "XDTGraphImage",
+            "id": "3874848515420152922",
+            "shortcode": "DXGOjHoEWRa",
+            "dimensions": {
+              "height": 1350,
+              "width": 1080
+            },
+            "gating_info": null,
+            "fact_check_overall_rating": null,
+            "fact_check_information": null,
+            "sensitivity_friction_info": null,
+            "sharing_friction_info": {
+              "should_have_sharing_friction": false,
+              "bloks_app_url": null
+            },
+            "media_overlay_info": null,
+            "media_preview": "ACIqxZWUooHUA5qvVuC5MSFQRgnJBXPTHf37ihrknP3RuABwpHQ5Fat3ArKQOoz9aduH90frU/2g9yp/4DTWnJBGRyDnAIzmpI16r8StRRRTLFHWp3CocAhgB1x/9f8AKq/SnFqlgKevGP6Uw0Zz2oFCAKKXFFUA2pVYkdR+NRGmVLAtEnHUfnUYJbk1EKmSpQmLiin0VRFz/9k=",
+            "display_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/669862292_17968554036046215_3202626289981996660_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=i_zF3sq48FAQ7kNvwFH4yYe&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0m7_3Gl1UVqqqbLnlGnZGpNJCpkPSr3UjCjLN2RW9Ozw&oe=69F929BE&_nc_sid=d885a2",
+            "display_resources": [
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/669862292_17968554036046215_3202626289981996660_n.heic?stp=dst-jpg_e35_p640x640_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=i_zF3sq48FAQ7kNvwFH4yYe&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0xMUHW85SIm5CoyR4DCgTPr_irmd3VSRxAp-OyoxPZ9w&oe=69F929BE&_nc_sid=d885a2",
+                "config_width": 640,
+                "config_height": 800
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/669862292_17968554036046215_3202626289981996660_n.heic?stp=dst-jpg_e35_p750x750_sh2.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=i_zF3sq48FAQ7kNvwFH4yYe&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0f5JYyHQI8fak1AoXMCIgNIu6lFzLaPtn6_DWrtYgj4Q&oe=69F929BE&_nc_sid=d885a2",
+                "config_width": 750,
+                "config_height": 937
+              },
+              {
+                "src": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/669862292_17968554036046215_3202626289981996660_n.heic?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2ltYWdlLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=i_zF3sq48FAQ7kNvwFH4yYe&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0y8EkiwJeGYD6gpxg6EYjJJ_q_ShwGZgMIIKP70saPlw&oe=69F929BE&_nc_sid=d885a2",
+                "config_width": 1080,
+                "config_height": 1350
+              }
+            ],
+            "accessibility_caption": "Photo by Alamin | AI Educator on April 13, 2026. May be a graphic of poster and text that says 'Page 08 of of08 08 Subscri Subscribe B020ai.c for more tips! Was it Helpful? Save this for your 2026 roadmap. lamin.8020a Alamin AI Educator 1,985 posts 38. 38.9K 9K followers 377 following ECollab:iamchonchal94@gmail.co 1946gma ECollab: iamchonct wwasaoaoioiete ntelligence.FreeATGL You might never find this again if you scroll away Follow Now'.",
+            "is_video": false,
+            "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWE0YTUyNzJkZDc2NGEyMWEyMzMwMTU4ZWFkYzEzYTIzODc0ODQ4NTE1NDIwMTUyOTIyIiwic2VydmVyX3Rva2VuIjoiMTc3NzU1NjYzNzkwNHwzODc0ODQ4NTE1NDIwMTUyOTIyfDQwOTc5Nzg4NDg0fGNiNDE3MzYyMmI1YTk0ZDQ3MTViMTEyMDBmMDkwNzQ4NGUwMjczMDk0ODBlNTdmMzAwNjU5NjcxZTRiMjUyOTIifSwic2lnbmF0dXJlIjoiIn0=",
+            "upcoming_event": null,
+            "edge_media_to_tagged_user": {
+              "edges": []
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_caption": {
+      "edges": [
+        {
+          "node": {
+            "created_at": "1776137978",
+            "text": "💬 Comment \"GOOGLE\" and I'll send you all 20.\n\nMost people know Google as a search engine and maybe Gmail.\n\nBut behind the scenes, Google has quietly built one of the most powerful full stack AI ecosystems on the planet.\n\nWe are talking about 20 tools that cover everything from building AI models, deploying them, managing data, generating content, automating workflows, and scaling products faster than ever before.\n\nDevelopers, creators, and businesses using this ecosystem are operating at a level most people cannot even see yet.\n\nAnd the wildest part? Most of these tools are completely free to get started with.\n\nThis carousel breaks down 20 wonderful tools inside Google's full stack AI ecosystem that you cannot afford to miss.\n\n🔖 Save this and start exploring before everyone else catches on.\n\n➡️ Follow @alamin.8020ai for AI ecosystems, Google tools, and resources that keep you ahead of the curve.\n\n#GoogleAI #FullStackAI #AITools #GoogleCloud #ArtificialIntelligence",
+            "id": "18179341102383775"
+          }
+        }
+      ]
+    },
+    "can_see_insights_as_brand": false,
+    "caption_is_edited": false,
+    "has_ranked_comments": true,
+    "like_and_view_counts_disabled": false,
+    "edge_media_to_parent_comment": {
+      "count": 94,
+      "page_info": {
+        "has_next_page": true,
+        "end_cursor": "{\"bifilter_token\": \"KCEAcKvNllxBQACporiLWjdAAN7zqPEpwkAAyGKGWdJYQAAA\"}"
+      },
+      "edges": [
+        {
+          "node": {
+            "id": "18227883913311198",
+            "text": "Google",
+            "created_at": 1776351053,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "48855634937",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/587290246_18067757549626938_28596268727904209_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=2LDg-oxqMHIQ7kNvwGVTpcQ&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af3gleWZ2HM6MVHz2FOJ_aiySu7CUSyXeeq0f3U1JJt0mA&oe=69F91573&_nc_sid=d885a2",
+              "username": "king_of_the_kalamanda_paramesh"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18086264432339824",
+            "text": "🔥",
+            "created_at": 1776525246,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "39732458963",
+              "is_verified": false,
+              "profile_pic_url": "https://instagram.faep9-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.faep9-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFsUkuApn06ouMC4E7P_EvaaFrZEK0WTpOTRCPO3vtUE0_DMYAN7SigvlBNzrfRyxY&_nc_ohc=N4OOug8neF8Q7kNvwH_64m4&_nc_gid=AqMqy3HJZAk_BdvYUHKzGQ&edm=AAYDq1YBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_Af2LKiP__q7Eb9D2PGIngqNmQEGOXPy0ghvu5HCmHGkS7w&oe=69F9376A&_nc_sid=7f352c",
+              "username": "mohan_21611319"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18075260540199593",
+            "text": "Google 🔥",
+            "created_at": 1776164309,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "260360679",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/281769994_2129186860570162_5237209354636539426_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=M5dzasFZunYQ7kNvwHuJFgJ&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1ap3jSKVLjIOntfpqueXSksq67KNeVZLe4gjUUIBckbg&oe=69F93643&_nc_sid=d885a2",
+              "username": "bussemmprod"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "18112058977837768",
+            "text": "google",
+            "created_at": 1776365895,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "47247788390",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/648187234_18039469115572391_5109979533866766627_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MzYuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=qzFPyWe7yZIQ7kNvwHfWU2m&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af31lCdDo7CfVbLv2L0IugG3evyaruP6IcZoJvJ_pst-jQ&oe=69F9414A&_nc_sid=d885a2",
+              "username": "siy_evision"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 1
+            },
+            "is_restricted_pending": false,
+            "edge_threaded_comments": {
+              "count": 0,
+              "page_info": {
+                "has_next_page": false,
+                "end_cursor": null
+              },
+              "edges": []
+            }
+          }
+        }
+      ]
+    },
+    "edge_media_to_hoisted_comment": {
+      "edges": []
+    },
+    "edge_media_preview_comment": {
+      "count": 94,
+      "edges": [
+        {
+          "node": {
+            "id": "17922853071124452",
+            "text": "Google",
+            "created_at": 1777461959,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "8101365493",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/319135359_1221156102077463_983130582661231767_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=vrwREjoDP4UQ7kNvwEt4k_n&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af0-jOlLt8iXUzO01e6APQBEF0eBwUjrUx5LirjL6CbkkQ&oe=69F92F24&_nc_sid=d885a2",
+              "username": "charlesdeone"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false
+          }
+        },
+        {
+          "node": {
+            "id": "18073412177256220",
+            "text": "Google",
+            "created_at": 1777555789,
+            "did_report_as_spam": false,
+            "owner": {
+              "id": "49797029932",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/481755568_648939164329340_7079422673483042988_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFgSzmBpXDhwUwIVpsqWvAVcXr1Hsb2Qsdf5nNz6hzNtsIKVDpEUWTNUsTNz1CJnpY&_nc_ohc=xeeCh8KOckMQ7kNvwEiYXyA&_nc_gid=4wbrHU1BRJBK9E25zH0rTA&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_Af1PjoEnxwBWvaiB5rnL69CZcH82zcrC1WuPAqcFi84Gvw&oe=69F915B5&_nc_sid=d885a2",
+              "username": "i_am_a6_101"
+            },
+            "viewer_has_liked": false,
+            "edge_liked_by": {
+              "count": 0
+            },
+            "is_restricted_pending": false
+          }
+        }
+      ]
+    },
+    "comments_disabled": false,
+    "commenting_disabled_for_viewer": false,
+    "taken_at_timestamp": 1776137976,
+    "edge_media_preview_like": {
+      "count": 1863,
+      "edges": []
+    },
+    "edge_media_to_sponsor_user": {
+      "edges": []
+    },
+    "is_affiliate": false,
+    "is_paid_partnership": false,
+    "location": null,
+    "nft_asset_info": null,
+    "viewer_has_liked": false,
+    "viewer_has_saved": false,
+    "viewer_has_saved_to_collection": false,
+    "viewer_in_photo_of_you": false,
+    "viewer_can_reshare": true,
+    "is_ad": false,
+    "edge_web_media_to_related_media": {
+      "edges": []
+    },
+    "coauthor_producers": [],
+    "pinned_for_users": []
+  },
+  "commentsRawData": [],
+  "stats": {
+    "topLevelFetched": 0,
+    "repliesFetched": 0,
+    "totalFetched": 0,
+    "igTotal": 94,
+    "coveragePct": "0.0",
+    "pagesScraped": 0
+  }
+}
